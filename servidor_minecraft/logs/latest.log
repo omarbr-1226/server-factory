@@ -721,3 +721,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21:30:10] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
 [21:30:25] [Server thread/INFO]: Chavelo lost connection: Timed out
 [21:30:25] [Server thread/INFO]: Chavelo left the game
+[21:38:46] [Server thread/INFO]: SuperMago lost connection: Disconnected
+[21:38:46] [Server thread/INFO]: SuperMago left the game
+[21:39:00] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@351c433
+[21:39:00] [Server thread/INFO]: SuperMago[/127.221.163.188:38251] logged in with entity id 21987 at (32.69999998807907, 62.0, 337.30000001192093)
+[21:39:00] [Server thread/INFO]: SuperMago joined the game
+[21:39:00] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[21:44:57] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4f773fcf
+[21:44:57] [Server thread/INFO]: Beelz[/127.177.222.21:37069] logged in with entity id 22695 at (59.30000001192093, 65.0, 9.699999988079071)
+[21:44:57] [Server thread/INFO]: Beelz joined the game
+[21:44:57] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[21:45:25] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
