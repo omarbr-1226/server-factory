@@ -776,3 +776,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22:14:59] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
 [22:15:14] [Server thread/INFO]: Chavelo lost connection: Timed out
 [22:15:14] [Server thread/INFO]: Chavelo left the game
+[22:17:30] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ea35c
+[22:17:30] [Server thread/INFO]: Chavelo[/127.209.157.234:46363] logged in with entity id 28431 at (20.5, 72.0, 13.5)
+[22:17:30] [Server thread/INFO]: Chavelo joined the game
+[22:17:30] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[22:17:45] [Server thread/INFO]: Chavelo lost connection: Timed out
+[22:17:45] [Server thread/INFO]: Chavelo left the game
+[22:18:06] [Server thread/INFO]: Beelz has made the advancement [Suit Up]
+[22:19:44] [Server thread/INFO]: <Beelz> zzZzzZzzZZz
+[22:20:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[22:20:43] [Server thread/INFO]: /tra/msg SuperMago HOlaaa<--[HERE]

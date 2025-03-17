@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-03-17 22:18:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-17 21:23:37 +0000"
@@ -235,6 +241,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-17 22:24:57 +0000",
       "porkchop": "2025-03-17 21:33:49 +0000",
       "mutton": "2025-03-17 21:34:58 +0000",
       "cooked_chicken": "2025-03-17 21:48:45 +0000"
@@ -1206,6 +1213,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-17 21:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-03-17 22:18:45 +0000"
     },
     "done": true
   },
