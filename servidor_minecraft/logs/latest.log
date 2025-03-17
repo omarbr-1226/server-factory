@@ -676,3 +676,42 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21:14:56] [Server thread/INFO]: <Anterux> quiubo
 [21:15:25] [Server thread/INFO]: SuperMago has made the advancement [Stone Age]
 [21:15:42] [Server thread/INFO]: <Beelz> esta chida tu skin
+[21:20:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@179ea46e[id=<null>,name=Chavelo,properties={},legacy=false] (/127.209.157.234:48493) lost connection: Disconnected
+[21:20:14] [Server thread/INFO]: Anterux has made the advancement [Sweet Dreams]
+[21:20:19] [Server thread/INFO]: <Anterux> bye
+[21:20:20] [Server thread/INFO]: <Anterux> bye
+[21:20:23] [Server thread/INFO]: Beelz has made the advancement [Sweet Dreams]
+[21:20:26] [Server thread/INFO]: <Beelz> aña
+[21:20:30] [Server thread/INFO]: <Anterux> JAJAJJA
+[21:20:36] [Server thread/INFO]: <Anterux> me voy xd
+[21:20:38] [Server thread/INFO]: <Anterux> zzzzzz
+[21:20:41] [Server thread/INFO]: <Beelz> ZzZZzZZzZzz
+[21:20:43] [Server thread/INFO]: Anterux lost connection: Disconnected
+[21:20:43] [Server thread/INFO]: Anterux left the game
+[21:20:47] [Server thread/INFO]: SuperMago has made the advancement [Sweet Dreams]
+[21:21:56] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@579f6899
+[21:21:56] [Server thread/INFO]: Chavelo[/127.209.157.234:44183] logged in with entity id 18923 at (20.5, 72.0, 13.5)
+[21:21:56] [Server thread/INFO]: Chavelo joined the game
+[21:21:56] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[21:22:11] [Server thread/INFO]: Chavelo lost connection: Timed out
+[21:22:11] [Server thread/INFO]: Chavelo left the game
+[21:22:26] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@a50d246
+[21:22:26] [Server thread/INFO]: Chavelo[/127.209.157.234:36695] logged in with entity id 19067 at (20.5, 72.0, 13.5)
+[21:22:26] [Server thread/INFO]: Chavelo joined the game
+[21:22:26] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[21:22:41] [Server thread/INFO]: Chavelo lost connection: Timed out
+[21:22:41] [Server thread/INFO]: Chavelo left the game
+[21:23:02] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f4af9a2
+[21:23:02] [Server thread/INFO]: Chavelo[/127.209.157.234:52177] logged in with entity id 19229 at (20.5, 72.0, 13.5)
+[21:23:02] [Server thread/INFO]: Chavelo joined the game
+[21:23:02] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[21:23:17] [Server thread/INFO]: Chavelo lost connection: Timed out
+[21:23:17] [Server thread/INFO]: Chavelo left the game
+[21:23:54] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@224d7e3d
+[21:23:54] [Server thread/INFO]: Chavelo[/127.209.157.234:39575] logged in with entity id 19496 at (20.5, 72.0, 13.5)
+[21:23:54] [Server thread/INFO]: Chavelo joined the game
+[21:23:54] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[21:24:09] [Server thread/INFO]: Chavelo lost connection: Timed out
+[21:24:09] [Server thread/INFO]: Chavelo left the game
+[21:24:42] [Server thread/INFO]: Beelz lost connection: Disconnected
+[21:24:42] [Server thread/INFO]: Beelz left the game
