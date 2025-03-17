@@ -627,3 +627,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20:25:09] [Server thread/INFO]: Beelz[/127.177.222.21:50855] logged in with entity id 10877 at (71.10959682889793, 63.0, 6.205588416195113)
 [20:25:09] [Server thread/INFO]: Beelz joined the game
 [20:25:09] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[20:29:40] [Server thread/INFO]: Beelz lost connection: Disconnected
+[20:29:40] [Server thread/INFO]: Beelz left the game
+[20:30:39] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55dcec4d
+[20:30:39] [Server thread/INFO]: Beelz[/127.177.222.21:55895] logged in with entity id 11437 at (61.85222482777293, 64.0, 7.121375948630066)
+[20:30:39] [Server thread/INFO]: Beelz joined the game
+[20:30:39] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
