@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-17 23:32:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-17 22:01:03 +0000"
@@ -491,6 +497,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-17 18:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-17 23:32:54 +0000"
     },
     "done": true
   },
@@ -787,6 +799,7 @@
       "minecraft:pillager": "2025-03-17 20:54:32 +0000",
       "minecraft:skeleton": "2025-03-17 19:23:43 +0000",
       "minecraft:spider": "2025-03-17 23:18:02 +0000",
+      "minecraft:creeper": "2025-03-17 23:32:51 +0000",
       "minecraft:zombie": "2025-03-17 19:29:26 +0000",
       "minecraft:zombie_villager": "2025-03-17 22:57:31 +0000"
     },
@@ -1472,6 +1485,7 @@
       "minecraft:river": "2025-03-17 21:46:17 +0000",
       "minecraft:birch_forest_hills": "2025-03-17 21:45:26 +0000",
       "minecraft:wooded_hills": "2025-03-17 18:48:21 +0000",
+      "minecraft:swamp": "2025-03-17 23:29:19 +0000",
       "minecraft:plains": "2025-03-17 19:24:48 +0000"
     },
     "done": false
