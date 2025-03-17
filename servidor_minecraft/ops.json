@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "b5387b6e-9527-3fb2-949f-6573f8d76f85",
+    "name": "SuperMago",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "51549f53-2ca5-30e2-a3dc-935211485ea5",
     "name": "Anterux",
     "level": 4,

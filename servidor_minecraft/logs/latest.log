@@ -655,3 +655,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20:59:02] [Server thread/INFO]: Anterux has made the advancement [Monster Hunter]
 [20:59:11] [Server thread/INFO]: <Beelz> tienes otros dos de hierro?
 [20:59:16] [Server thread/INFO]: <Beelz> encontre ovejas
+[21:06:21] [Server thread/INFO]: <Anterux> alv tanto hierro
+[21:07:02] [Server thread/INFO]: Anterux has made the advancement [Isn't It Iron Pick]
+[21:07:03] [Server thread/INFO]: <Beelz> mi hierro?
+[21:12:52] [Server thread/INFO]: Beelz lost connection: Disconnected
+[21:12:52] [Server thread/INFO]: Beelz left the game
+[21:13:03] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6bcbd57d
+[21:13:03] [Server thread/INFO]: SuperMago[/127.221.163.188:58453] logged in with entity id 17316 at (11.5, 77.0, 19.5)
+[21:13:03] [Server thread/INFO]: SuperMago joined the game
+[21:13:03] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[21:14:15] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@264f059f
+[21:14:15] [Server thread/INFO]: Beelz[/127.177.222.21:49983] logged in with entity id 17502 at (43.130931245529226, 45.0, -0.7982823495686769)
+[21:14:15] [Server thread/INFO]: Beelz joined the game
+[21:14:15] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[21:14:24] [Server thread/INFO]: [Beelz: Made SuperMago a server operator]
+[21:14:37] [Server thread/INFO]: <Beelz> discord John
+[21:14:41] [Server thread/INFO]: <SuperMago> hola
+[21:14:41] [Server thread/INFO]: <Beelz> El de marco
+[21:14:50] [Server thread/INFO]: <SuperMago> a bueno
+[21:14:56] [Server thread/INFO]: <Anterux> quiubo
+[21:15:25] [Server thread/INFO]: SuperMago has made the advancement [Stone Age]
+[21:15:42] [Server thread/INFO]: <Beelz> esta chida tu skin
