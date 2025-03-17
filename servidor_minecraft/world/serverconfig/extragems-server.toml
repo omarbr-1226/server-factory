@@ -1,0 +1,31 @@
+
+#Blocks
+[blocks]
+	#Change the effect duration of the charged gem blocks
+	#Range: 10 ~ 10000
+	charged_block_effect_duration = 300
+	#Change the effect amplifier of the charged gem blocks
+	#Range: 0 ~ 5
+	charged_block_effect_amplifier = 0
+
+#Items
+[gems]
+	#Change the effect duration of the amulets
+	#Range: 10 ~ 10000
+	amulet_effect_duration = 200
+	#Change the effect amplifier of the amulets
+	#Range: 0 ~ 5
+	amulet_effect_amplifier = 0
+	#Change the effect radius of the amulets
+	#Range: 1 ~ 10
+	amulet_effect_radius = 3
+	#Change the effect cooldown after the usage
+	#Range: 0 ~ 10000
+	amulet_effect_cooldown = 600
+	#Change the maximum usages of the amulets
+	#Range: 1 ~ 1000
+	amulet_max_usages = 100
+	#Change the amount of experience levels you need to charge a gem on the gem charger
+	#Range: 1 ~ 50
+	charging_cost = 15
+
