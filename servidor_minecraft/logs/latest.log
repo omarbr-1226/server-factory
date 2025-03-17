@@ -585,3 +585,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20:05:10] [Server thread/INFO]: Beelz[/127.177.222.21:47139] logged in with entity id 7732 at (68.3367644444731, 64.0, 5.254646971647806)
 [20:05:10] [Server thread/INFO]: Beelz joined the game
 [20:05:10] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[20:05:49] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72251e8
+[20:05:49] [Server thread/INFO]: Anterux[/127.250.24.147:55723] logged in with entity id 7841 at (11.5, 79.0, 14.5)
+[20:05:49] [Server thread/INFO]: Anterux joined the game
+[20:05:49] [Server thread/INFO]: Syncing config to Anterux (51549f53-2ca5-30e2-a3dc-935211485ea5)
+[20:05:59] [Server thread/INFO]: Made Anterux a server operator
+[20:06:04] [Server thread/INFO]: Anterux lost connection: Timed out
+[20:06:04] [Server thread/INFO]: Anterux left the game
+[20:06:25] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1214d6c8
+[20:06:25] [Server thread/INFO]: Anterux[/127.250.24.147:51655] logged in with entity id 7919 at (11.5, 79.0, 14.5)
+[20:06:25] [Server thread/INFO]: Anterux joined the game
+[20:06:25] [Server thread/INFO]: Syncing config to Anterux (51549f53-2ca5-30e2-a3dc-935211485ea5)
+[20:06:35] [Server thread/INFO]: [Beelz: Teleported Beelz to Anterux]
+[20:06:40] [Server thread/INFO]: Anterux lost connection: Timed out
+[20:06:40] [Server thread/INFO]: Anterux left the game
+[20:07:36] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1f88ca5d
+[20:07:36] [Server thread/INFO]: Anterux[/127.250.24.147:54111] logged in with entity id 8179 at (11.5, 79.0, 14.5)
+[20:07:36] [Server thread/INFO]: Anterux joined the game
+[20:07:36] [Server thread/INFO]: Syncing config to Anterux (51549f53-2ca5-30e2-a3dc-935211485ea5)
+[20:07:51] [Server thread/INFO]: Anterux lost connection: Timed out
+[20:07:51] [Server thread/INFO]: Anterux left the game
+[20:08:23] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27853eee
+[20:08:23] [Server thread/INFO]: Anterux[/127.250.24.147:51819] logged in with entity id 8337 at (11.5, 79.0, 14.5)
+[20:08:23] [Server thread/INFO]: Anterux joined the game
+[20:08:23] [Server thread/INFO]: Syncing config to Anterux (51549f53-2ca5-30e2-a3dc-935211485ea5)
+[20:12:00] [Server thread/INFO]: Anterux has made the advancement [Stone Age]
+[20:13:32] [Server thread/INFO]: Anterux has made the advancement [Getting an Upgrade]
