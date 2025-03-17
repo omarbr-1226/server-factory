@@ -572,3 +572,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19:24:42] [Server thread/INFO]: Beelz was shot by Skeleton
 [19:25:29] [Server thread/INFO]: Beelz is bleeding...
 [19:26:29] [Server thread/INFO]: Beelz was shot by Skeleton
+[19:36:38] [Server thread/INFO]: <Beelz> holaaa
+[19:37:00] [Server thread/INFO]: [Beelz: Set the weather to clear]
