@@ -650,3 +650,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20:55:14] [Server thread/INFO]: <Beelz> thc
 [20:55:19] [Server thread/INFO]: <Anterux> es todo carnal
 [20:55:27] [Server thread/INFO]: <Beelz> a
+[20:57:09] [Server thread/INFO]: <Beelz> sigue fluido vea?
+[20:58:34] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=47, y=42, z=12} BlockPos{x=48, y=42, z=12}
+[20:59:02] [Server thread/INFO]: Anterux has made the advancement [Monster Hunter]
+[20:59:11] [Server thread/INFO]: <Beelz> tienes otros dos de hierro?
+[20:59:16] [Server thread/INFO]: <Beelz> encontre ovejas
