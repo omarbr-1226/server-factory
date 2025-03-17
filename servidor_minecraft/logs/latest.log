@@ -715,3 +715,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21:24:09] [Server thread/INFO]: Chavelo left the game
 [21:24:42] [Server thread/INFO]: Beelz lost connection: Disconnected
 [21:24:42] [Server thread/INFO]: Beelz left the game
+[21:30:10] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@145b2233
+[21:30:10] [Server thread/INFO]: Chavelo[/127.209.157.234:54353] logged in with entity id 21082 at (20.5, 72.0, 13.5)
+[21:30:10] [Server thread/INFO]: Chavelo joined the game
+[21:30:10] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[21:30:25] [Server thread/INFO]: Chavelo lost connection: Timed out
+[21:30:25] [Server thread/INFO]: Chavelo left the game
