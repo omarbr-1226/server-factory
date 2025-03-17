@@ -732,3 +732,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21:44:57] [Server thread/INFO]: Beelz joined the game
 [21:44:57] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
 [21:45:25] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
+[21:48:04] [Server thread/INFO]: [Beelz: Teleported SuperMago to Beelz]
+[21:52:26] [Server thread/INFO]: Beelz lost connection: Disconnected
+[21:52:26] [Server thread/INFO]: Beelz left the game
+[21:52:51] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@956ae3f
+[21:52:51] [Server thread/INFO]: Beelz[/127.177.222.21:56261] logged in with entity id 24329 at (61.358067651552325, 68.0, 27.987624897830145)
+[21:52:51] [Server thread/INFO]: Beelz joined the game
+[21:52:51] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[21:53:06] [Server thread/INFO]: Beelz lost connection: Timed out
+[21:53:06] [Server thread/INFO]: Beelz left the game
+[21:53:53] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@438f3024
+[21:53:53] [Server thread/INFO]: Beelz[/127.177.222.21:43135] logged in with entity id 24468 at (61.358067651552325, 68.0, 27.987624897830145)
+[21:53:53] [Server thread/INFO]: Beelz joined the game
+[21:53:53] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)

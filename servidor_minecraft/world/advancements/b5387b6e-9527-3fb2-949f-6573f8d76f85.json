@@ -278,7 +278,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2025-03-17 21:33:49 +0000",
-      "mutton": "2025-03-17 21:34:58 +0000"
+      "mutton": "2025-03-17 21:34:58 +0000",
+      "cooked_chicken": "2025-03-17 21:48:45 +0000"
     },
     "done": false
   },
@@ -503,6 +504,7 @@
       "minecraft:forest": "2025-03-17 21:22:56 +0000",
       "minecraft:birch_forest": "2025-03-17 21:25:28 +0000",
       "minecraft:beach": "2025-03-17 21:13:45 +0000",
+      "minecraft:river": "2025-03-17 21:46:25 +0000",
       "minecraft:birch_forest_hills": "2025-03-17 21:28:00 +0000",
       "minecraft:wooded_hills": "2025-03-17 21:13:03 +0000",
       "minecraft:swamp": "2025-03-17 21:25:27 +0000",
