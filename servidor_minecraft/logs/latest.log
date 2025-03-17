@@ -745,3 +745,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21:53:53] [Server thread/INFO]: Beelz[/127.177.222.21:43135] logged in with entity id 24468 at (61.358067651552325, 68.0, 27.987624897830145)
 [21:53:53] [Server thread/INFO]: Beelz joined the game
 [21:53:53] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[21:59:23] [Server thread/INFO]: SuperMago has made the advancement [Getting an Upgrade]
+[22:00:43] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
+[22:03:16] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@136d328d[id=<null>,name=Chavelo,properties={},legacy=false] (/127.209.157.234:36799): Took too long to log in
+[22:03:16] [Server thread/INFO]: com.mojang.authlib.GameProfile@136d328d[id=<null>,name=Chavelo,properties={},legacy=false] (/127.209.157.234:36799) lost connection: Took too long to log in
+[22:03:16] [Server thread/WARN]: handleDisconnection() called twice
+[22:03:48] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6efe79d6
+[22:03:48] [Server thread/INFO]: Chavelo[/127.209.157.234:38719] logged in with entity id 26170 at (20.5, 72.0, 13.5)
+[22:03:48] [Server thread/INFO]: Chavelo joined the game
+[22:03:48] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[22:04:03] [Server thread/INFO]: Chavelo lost connection: Timed out
+[22:04:03] [Server thread/INFO]: Chavelo left the game
+[22:05:10] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a5e17ab
+[22:05:10] [Server thread/INFO]: Chavelo[/127.209.157.234:57565] logged in with entity id 26464 at (20.5, 72.0, 13.5)
+[22:05:10] [Server thread/INFO]: Chavelo joined the game
+[22:05:10] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[22:05:25] [Server thread/INFO]: Chavelo lost connection: Timed out
+[22:05:25] [Server thread/INFO]: Chavelo left the game
