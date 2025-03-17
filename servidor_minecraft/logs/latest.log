@@ -574,3 +574,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19:26:29] [Server thread/INFO]: Beelz was shot by Skeleton
 [19:36:38] [Server thread/INFO]: <Beelz> holaaa
 [19:37:00] [Server thread/INFO]: [Beelz: Set the weather to clear]
+[19:59:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@3b7c782c[id=<null>,name=Anterux,properties={},legacy=false] (/127.250.24.147:36169) lost connection: Disconnected
+[20:00:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@f00a944[id=<null>,name=Anterux,properties={},legacy=false] (/127.250.24.147:56721) lost connection: Disconnected
+[20:03:22] [Server thread/INFO]: com.mojang.authlib.GameProfile@5bb01fdd[id=<null>,name=Anterux,properties={},legacy=false] (/127.250.24.147:58077) lost connection: Disconnected
+[20:04:41] [Server thread/INFO]: Beelz has made the advancement [A Seedy Place]
+[20:04:52] [Server thread/INFO]: Beelz lost connection: Timed out
+[20:04:52] [Server thread/INFO]: Beelz left the game
+[20:04:52] [Server thread/WARN]: handleDisconnection() called twice
+[20:05:10] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@201da8d1
+[20:05:10] [Server thread/INFO]: Beelz[/127.177.222.21:47139] logged in with entity id 7732 at (68.3367644444731, 64.0, 5.254646971647806)
+[20:05:10] [Server thread/INFO]: Beelz joined the game
+[20:05:10] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
