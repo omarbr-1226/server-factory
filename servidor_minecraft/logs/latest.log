@@ -611,3 +611,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20:08:23] [Server thread/INFO]: Syncing config to Anterux (51549f53-2ca5-30e2-a3dc-935211485ea5)
 [20:12:00] [Server thread/INFO]: Anterux has made the advancement [Stone Age]
 [20:13:32] [Server thread/INFO]: Anterux has made the advancement [Getting an Upgrade]
+[20:18:57] [Server thread/INFO]: <Beelz> chabelo gei
+[20:19:22] [Server thread/INFO]: Anterux has made the advancement [Acquire Hardware]
+[20:19:38] [Server thread/INFO]: Anterux lost connection: Disconnected
+[20:19:38] [Server thread/INFO]: Anterux left the game
+[20:21:52] [Server thread/INFO]: Beelz lost connection: Disconnected
+[20:21:52] [Server thread/INFO]: Beelz left the game
+[20:23:22] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@259a5f7e
+[20:23:22] [Server thread/INFO]: Beelz[/127.177.222.21:60505] logged in with entity id 10795 at (48.772510287953246, 63.0, -3.516095178182614)
+[20:23:22] [Server thread/INFO]: Beelz joined the game
+[20:23:22] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[20:23:41] [Server thread/INFO]: Beelz lost connection: Disconnected
+[20:23:41] [Server thread/INFO]: Beelz left the game
+[20:25:09] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fa983c2
+[20:25:09] [Server thread/INFO]: Beelz[/127.177.222.21:50855] logged in with entity id 10877 at (71.10959682889793, 63.0, 6.205588416195113)
+[20:25:09] [Server thread/INFO]: Beelz joined the game
+[20:25:09] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
