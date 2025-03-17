@@ -786,3 +786,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22:19:44] [Server thread/INFO]: <Beelz> zzZzzZzzZZz
 [22:20:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [22:20:43] [Server thread/INFO]: /tra/msg SuperMago HOlaaa<--[HERE]
+[23:18:30] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
+[23:19:08] [Server thread/INFO]: <Beelz> zzZzZzzZzz
+[23:25:44] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
