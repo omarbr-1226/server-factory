@@ -762,3 +762,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22:05:10] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
 [22:05:25] [Server thread/INFO]: Chavelo lost connection: Timed out
 [22:05:25] [Server thread/INFO]: Chavelo left the game
+[22:08:46] [Server thread/INFO]: Beelz has made the advancement [Isn't It Iron Pick]
+[22:10:05] [Server thread/INFO]: SuperMago has made the advancement [Monster Hunter]
+[22:11:59] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76ba7d9f
+[22:11:59] [Server thread/INFO]: Chavelo[/127.209.157.234:55503] logged in with entity id 27601 at (20.5, 72.0, 13.5)
+[22:11:59] [Server thread/INFO]: Chavelo joined the game
+[22:11:59] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[22:12:15] [Server thread/INFO]: Chavelo lost connection: Timed out
+[22:12:15] [Server thread/INFO]: Chavelo left the game
+[22:14:59] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7d77c21c
+[22:14:59] [Server thread/INFO]: Chavelo[/127.209.157.234:39651] logged in with entity id 28139 at (20.5, 72.0, 13.5)
+[22:14:59] [Server thread/INFO]: Chavelo joined the game
+[22:14:59] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[22:15:14] [Server thread/INFO]: Chavelo lost connection: Timed out
+[22:15:14] [Server thread/INFO]: Chavelo left the game
