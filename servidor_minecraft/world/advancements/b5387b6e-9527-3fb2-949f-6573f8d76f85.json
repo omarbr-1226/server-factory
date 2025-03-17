@@ -786,6 +786,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-03-17 23:47:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-03-17 21:27:00 +0000"
@@ -1164,6 +1170,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-17 23:47:44 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/crimson": {
     "criteria": {
       "has_planks": "2025-03-17 21:15:25 +0000"
@@ -1275,6 +1287,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-17 21:55:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-03-17 23:47:37 +0000"
     },
     "done": true
   },
