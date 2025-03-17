@@ -559,3 +559,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19:09:02] [Server thread/INFO]: Beelz[/127.177.222.21:41467] logged in with entity id 193 at (-7.010660411993005, 83.0, 13.751548031063837)
 [19:09:03] [Server thread/INFO]: Beelz joined the game
 [19:09:03] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[19:15:49] [Server thread/INFO]: Beelz lost connection: Disconnected
+[19:15:49] [Server thread/INFO]: Beelz left the game
+[19:20:03] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b91938e
+[19:20:03] [Server thread/INFO]: Beelz[/127.177.222.21:54079] logged in with entity id 1031 at (-14.370968923367125, 82.0, 7.801125919345454)
+[19:20:03] [Server thread/INFO]: Beelz joined the game
+[19:20:03] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[19:20:45] [Server thread/INFO]: Beelz has made the advancement [Stone Age]
+[19:21:35] [Server thread/INFO]: Beelz has made the advancement [Getting an Upgrade]
+[19:23:42] [Server thread/INFO]: Beelz is bleeding...
+[19:23:43] [Server thread/INFO]: Beelz has made the advancement [Monster Hunter]
+[19:24:42] [Server thread/INFO]: Beelz was shot by Skeleton
