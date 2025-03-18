@@ -33,3 +33,21 @@
 [03:17:29] [Server thread/INFO]: SuperMago[/127.221.163.188:50847] logged in with entity id 66218 at (60.94107109135791, 64.0, 7.826052303048781)
 [03:17:29] [Server thread/INFO]: SuperMago joined the game
 [03:17:29] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[03:22:50] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ff9dd54
+[03:22:50] [Server thread/INFO]: Beelz[/127.177.222.21:43601] logged in with entity id 67294 at (75.58725974823697, 63.0, 24.761155366634366)
+[03:22:50] [Server thread/INFO]: Beelz joined the game
+[03:22:50] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[03:22:59] [Server thread/INFO]: <Beelz> ya quedo?
+[03:24:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=83, y=72, z=53} BlockPos{x=81, y=71, z=53}
+[03:24:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=83, y=72, z=53} BlockPos{x=81, y=71, z=53}
+[03:24:39] [Server thread/INFO]: <Beelz> ahorita entro otra vez
+[03:24:53] [Server thread/INFO]: <Beelz> entra al discord pa que hablemos ahi
+[03:24:55] [Server thread/INFO]: <Beelz> nomas ceno
+[03:24:58] [Server thread/INFO]: Beelz lost connection: Disconnected
+[03:24:58] [Server thread/INFO]: Beelz left the game
+[03:25:45] [Server thread/INFO]: SuperMago lost connection: Timed out
+[03:25:45] [Server thread/INFO]: SuperMago left the game
+[03:26:21] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ff60b5f
+[03:26:21] [Server thread/INFO]: SuperMago[/127.221.163.188:39387] logged in with entity id 67745 at (62.36334786994744, 64.0, 5.927553978823449)
+[03:26:21] [Server thread/INFO]: SuperMago joined the game
+[03:26:21] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
