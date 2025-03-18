@@ -1,6 +1,6 @@
-[15:14:33] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
-[15:14:33] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
-[15:14:33] [main/ERROR]: Zip Error when loading jar file /workspaces/server-factory/servidor_minecraft/mods/BiomesOPlenty-1.17.1-14.0.0.43-universal.jar
+[15:15:18] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[15:15:18] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
+[15:15:18] [main/ERROR]: Zip Error when loading jar file /workspaces/server-factory/servidor_minecraft/mods/BiomesOPlenty-1.17.1-14.0.0.43-universal.jar
 java.util.zip.ZipException: zip END header not found
 	at java.util.zip.ZipFile$Source.findEND(ZipFile.java:1637) ~[?:?]
 	at java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1645) ~[?:?]
@@ -42,4 +42,4 @@ java.util.zip.ZipException: zip END header not found
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.0.7.jar%235!:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.0.7.jar%235!:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:90) [bootstraplauncher-0.1.17.jar:?]
-[15:14:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
+[15:15:18] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
