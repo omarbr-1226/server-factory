@@ -1512,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-18 04:32:36 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/crimson": {
     "criteria": {
       "has_planks": "2025-03-17 21:15:25 +0000"
@@ -1739,6 +1745,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-17 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-18 04:32:36 +0000"
     },
     "done": true
   },
