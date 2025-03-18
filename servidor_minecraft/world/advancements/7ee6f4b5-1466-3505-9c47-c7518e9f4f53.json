@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-18 04:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2025-03-17 18:48:46 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-17 22:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-18 04:39:28 +0000"
     },
     "done": true
   },
@@ -424,6 +436,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 20:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-18 04:42:06 +0000"
     },
     "done": true
   },
@@ -805,6 +823,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-18 04:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-17 22:20:53 +0000"
@@ -883,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-18 04:39:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-17 20:54:32 +0000",
@@ -891,6 +921,7 @@
       "minecraft:creeper": "2025-03-17 23:32:51 +0000",
       "minecraft:witch": "2025-03-18 00:20:51 +0000",
       "minecraft:zombie": "2025-03-17 19:29:26 +0000",
+      "minecraft:drowned": "2025-03-18 04:39:27 +0000",
       "minecraft:zombie_villager": "2025-03-17 22:57:31 +0000"
     },
     "done": false
@@ -985,6 +1016,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-18 04:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-03-17 22:20:53 +0000"
@@ -1072,6 +1109,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-17 23:23:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-18 04:42:06 +0000"
     },
     "done": true
   },
@@ -1234,6 +1277,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 20:55:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-18 04:42:06 +0000"
     },
     "done": true
   },
@@ -1498,6 +1547,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-03-18 00:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-18 04:42:06 +0000"
     },
     "done": true
   },
@@ -1779,6 +1834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-18 04:42:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-17 22:20:53 +0000"
@@ -1842,6 +1903,12 @@
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2025-03-17 19:09:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 04:42:06 +0000"
     },
     "done": true
   },
