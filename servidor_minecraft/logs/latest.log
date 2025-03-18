@@ -259,3 +259,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23:08:32] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
 [23:12:08] [Server thread/INFO]: SuperMago has made the advancement [Sweet Dreams]
 [23:24:27] [Server thread/INFO]: SuperMago has made the advancement [Monster Hunter]
+[23:30:51] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c400e34
+[23:30:51] [Server thread/INFO]: Beelz[/127.177.222.21:40873] logged in with entity id 3890 at (109.77432039114403, 74.0, 9.378400417412763)
+[23:30:51] [Server thread/INFO]: Beelz joined the game
+[23:30:51] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[23:31:00] [Server thread/INFO]: <SuperMago> tarde
+[23:31:14] [Server thread/INFO]: <Beelz> discord
+[23:31:24] [Server thread/INFO]: <SuperMago> sale
+[23:34:12] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@26708740
+[23:34:12] [Server thread/INFO]: Anterux[/127.250.24.147:48745] logged in with entity id 4814 at (107.45672643785163, 74.0, 6.287684427697163)
+[23:34:12] [Server thread/INFO]: Anterux joined the game
+[23:34:13] [Server thread/INFO]: Syncing config to Anterux (51549f53-2ca5-30e2-a3dc-935211485ea5)
+[23:35:31] [Server thread/INFO]: Anterux has made the advancement [Monster Hunter]
+[23:35:39] [Server thread/INFO]: Beelz has made the advancement [Monster Hunter]
+[23:37:05] [Server thread/INFO]: Anterux is bleeding...
