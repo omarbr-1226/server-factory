@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-18 23:34:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_wool": {
     "criteria": {
       "has_white_wool": "2025-03-18 19:30:47 +0000"
@@ -541,6 +547,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie_villager": "2025-03-18 23:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-03-18 17:04:26 +0000"
@@ -771,6 +783,13 @@
       "has_planks": "2025-03-18 17:04:24 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-18 23:37:12 +0000",
+      "minecraft:zombie_villager": "2025-03-18 23:35:31 +0000"
+    },
+    "done": false
   },
   "mcwroofs:recipes/bricks": {
     "criteria": {

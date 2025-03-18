@@ -273,3 +273,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23:35:31] [Server thread/INFO]: Anterux has made the advancement [Monster Hunter]
 [23:35:39] [Server thread/INFO]: Beelz has made the advancement [Monster Hunter]
 [23:37:05] [Server thread/INFO]: Anterux is bleeding...
+[23:41:11] [Server thread/INFO]: Anterux lost connection: Disconnected
+[23:41:11] [Server thread/INFO]: Anterux left the game
+[23:41:28] [Server thread/INFO]: Beelz is bleeding...
+[23:41:54] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
+[23:45:40] [Server thread/INFO]: SuperMago is bleeding...
+[23:46:11] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
+[23:46:34] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@292f8fcd
+[23:46:34] [Server thread/INFO]: Anterux[/127.250.24.147:57619] logged in with entity id 7663 at (163.57975685442258, 64.0, 78.74192766968744)
+[23:46:34] [Server thread/INFO]: Anterux joined the game
+[23:46:34] [Server thread/INFO]: Syncing config to Anterux (51549f53-2ca5-30e2-a3dc-935211485ea5)
+[23:46:53] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
+[23:47:34] [Server thread/INFO]: <Anterux> WIII
+[23:48:51] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]

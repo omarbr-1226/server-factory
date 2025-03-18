@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-18 23:40:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-03-18 16:04:38 +0000"
@@ -273,6 +279,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-18 23:29:33 +0000",
       "cooked_mutton": "2025-03-18 19:36:05 +0000",
+      "porkchop": "2025-03-18 23:43:04 +0000",
       "apple": "2025-03-18 23:12:48 +0000",
       "mutton": "2025-03-18 16:09:10 +0000"
     },
@@ -653,7 +660,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-18 23:24:27 +0000",
-      "minecraft:spider": "2025-03-18 23:25:31 +0000"
+      "minecraft:spider": "2025-03-18 23:25:31 +0000",
+      "minecraft:enderman": "2025-03-18 23:39:56 +0000",
+      "minecraft:zombie": "2025-03-18 23:35:25 +0000"
     },
     "done": false
   },

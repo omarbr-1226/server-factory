@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-03-18 23:42:37 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/spruce": {
     "criteria": {
       "has_planks": "2025-03-18 16:11:37 +0000"
@@ -355,8 +361,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-03-18 23:42:28 +0000",
       "cooked_mutton": "2025-03-18 23:31:51 +0000",
-      "cooked_beef": "2025-03-18 19:34:50 +0000"
+      "cooked_beef": "2025-03-18 19:34:50 +0000",
+      "apple": "2025-03-18 23:34:43 +0000",
+      "rotten_flesh": "2025-03-18 23:37:26 +0000"
     },
     "done": false
   },
@@ -591,6 +600,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-18 19:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2025-03-18 23:35:39 +0000"
     },
     "done": true
   },
@@ -873,6 +888,12 @@
       "has_planks": "2025-03-18 16:11:37 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-03-18 23:35:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
