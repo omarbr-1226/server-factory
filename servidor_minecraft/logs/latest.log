@@ -1,43 +1,46 @@
-[16:56:58] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
-[16:56:58] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
-[16:56:58] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
-[16:56:58] [main/INFO]: Found mod file BiomesOPlenty-1.17.1-14.0.0.43-universal.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file CreativeCore_v2.3.0_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file dungeons_enhanced-1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file elevatorid-1.17.1-1.8.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file EpicFight-17.1.13-beta.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file ExtraGems-1.17-(v.2.0.5).jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file Jade-1.17.1-3.3.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file mcw-roofs-2.1.1-mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file musketmod-1.17.1-forge-1.4.3.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file Paraglider-1.17.1-1.4.0.5.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file PlayerRevive_v2.0.0-pre04_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file reap-1.17.1-1.0.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file structure_gel-1.17.1-2.0.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file TravelersBackpack-1.17.1-6.0.43.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[16:56:58] [main/INFO]: Found mod file fmlcore-1.17.1-37.1.1.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[16:56:58] [main/INFO]: Found mod file javafmllanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[16:56:58] [main/INFO]: Found mod file mclanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[16:56:58] [main/INFO]: Found mod file server-1.17.1-20210706.113038-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[16:56:58] [main/INFO]: Found mod file forge-1.17.1-37.1.1-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[16:57:00] [main/INFO]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[16:57:00] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
-[16:57:03] [main/WARN]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
-[16:57:03] [main/WARN]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
-[16:57:07] [modloading-worker-0/INFO]: Configuration has been loaded
-[16:57:07] [modloading-worker-0/INFO]: Forge mod loading, version 37.1.1, for MC 1.17.1 with MCP 20210706.113038
-[16:57:07] [modloading-worker-0/INFO]: MinecraftForge v37.1.1 Initialized
-[16:57:08] [modloading-worker-0/INFO]: Load Configuration File
-[16:57:08] [modloading-worker-0/INFO]: Load Configuration File
-[16:57:09] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[16:57:09] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[16:57:10] [main/INFO]: Dungeons Enhanced structures loaded
-[16:57:10] [main/INFO]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
-[16:57:10] [main/INFO]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
-[16:57:10] [main/INFO]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
-[16:57:10] [main/INFO]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
-[16:57:10] [Forge Version Check/INFO]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs
-[16:57:11] [Forge Version Check/WARN]: Failed to process update information
+[17:42:01] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[17:42:01] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
+[17:42:01] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
+[17:42:01] [main/INFO]: Found mod file BiomesOPlenty-1.17.1-14.0.0.43-universal.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file CreativeCore_v2.3.0_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file dungeons_enhanced-1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file elevatorid-1.17.1-1.8.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file EpicFight-17.1.13-beta.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file ExtraGems-1.17-(v.2.0.5).jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file Jade-1.17.1-3.3.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file mcw-roofs-2.1.1-mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file musketmod-1.17.1-forge-1.4.3.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file Paraglider-1.17.1-1.4.0.5.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file PlayerRevive_v2.0.0-pre04_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file reap-1.17.1-1.0.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file structure_gel-1.17.1-2.0.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:01] [main/INFO]: Found mod file TravelersBackpack-1.17.1-6.0.43.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:42:02] [main/INFO]: Found mod file fmlcore-1.17.1-37.1.1.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:42:02] [main/INFO]: Found mod file javafmllanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:42:02] [main/INFO]: Found mod file mclanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:42:02] [main/INFO]: Found mod file server-1.17.1-20210706.113038-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:42:02] [main/INFO]: Found mod file forge-1.17.1-37.1.1-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:42:04] [main/INFO]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[17:42:04] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
+[17:42:06] [main/WARN]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[17:42:06] [main/WARN]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[17:42:10] [modloading-worker-0/INFO]: Configuration has been loaded
+[17:42:10] [modloading-worker-0/INFO]: Forge mod loading, version 37.1.1, for MC 1.17.1 with MCP 20210706.113038
+[17:42:10] [modloading-worker-0/INFO]: MinecraftForge v37.1.1 Initialized
+[17:42:11] [modloading-worker-0/INFO]: Load Configuration File
+[17:42:11] [modloading-worker-0/INFO]: Load Configuration File
+[17:42:13] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[17:42:13] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[17:42:13] [main/INFO]: Dungeons Enhanced structures loaded
+[17:42:14] [main/INFO]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[17:42:14] [main/INFO]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[17:42:14] [main/INFO]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[17:42:14] [main/INFO]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[17:42:14] [Forge Version Check/INFO]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs
+[17:42:14] [modloading-worker-0/INFO]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[17:42:14] [modloading-worker-0/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[17:42:14] [modloading-worker-0/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
+[17:42:14] [Forge Version Check/WARN]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:899) ~[gson-2.8.0.jar%2322!:?]
 	at com.google.gson.Gson.fromJson(Gson.java:852) ~[gson-2.8.0.jar%2322!:?]
@@ -52,263 +55,230 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.0.jar%2322!:?]
 	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar%2322!:?]
 	... 6 more
-[16:57:11] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[16:57:11] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 37.1.1 Target: null
-[16:57:11] [Forge Version Check/INFO]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
-[16:57:11] [modloading-worker-0/INFO]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
-[16:57:11] [modloading-worker-0/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[16:57:11] [modloading-worker-0/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
-[16:57:12] [Forge Version Check/INFO]: [reap] Found status: UP_TO_DATE Current: 1.17.1-1.0.0 Target: null
-[16:57:12] [Forge Version Check/INFO]: [extragems] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/ExtraGems.json
-[16:57:12] [Forge Version Check/INFO]: [extragems] Found status: UP_TO_DATE Current: 2.0.5 Target: null
-[16:57:12] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[16:57:12] [Forge Version Check/INFO]: [travelersbackpack] Found status: OUTDATED Current: 6.0.43 Target: 6.0.52
-[16:57:15] [main/ERROR]: Error adding element: Value 9 outside of range [0:7]
-[16:57:16] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:57:17] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2340!/assets/.mcassetsroot' uses unexpected schema
-[16:57:17] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2340!/data/.mcassetsroot' uses unexpected schema
-[16:57:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:57:17] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:57:17] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:57:17] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[16:57:17] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[16:57:17] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
-[16:57:17] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
-[16:57:17] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.1.1-universal.jar, elevatorid-1.17.1-1.8.1.jar, musketmod-1.17.1-forge-1.4.3.jar, BiomesOPlenty-1.17.1-14.0.0.43-universal.jar, Jade-1.17.1-3.3.1.jar, mcw-roofs-2.1.1-mc1.17.1.jar, CreativeCore_v2.3.0_mc1.17.1.jar, dungeons_enhanced-1.17.1-2.0.jar, Paraglider-1.17.1-1.4.0.5.jar, reap-1.17.1-1.0.0.jar, PlayerRevive_v2.0.0-pre04_mc1.17.1.jar, ExtraGems-1.17-(v.2.0.5).jar, EpicFight-17.1.13-beta.jar, structure_gel-1.17.1-2.0.1.jar, TravelersBackpack-1.17.1-6.0.43.jar
-[16:57:18] [Worker-Main-4/ERROR]: Couldn't load tag forge:ores as it is missing following references: #forge:ores/amethyst_ore (from ExtraGems-1.17-(v.2.0.5).jar)
-[16:57:20] [Worker-Main-4/INFO]: Loaded 8 recipes
-[16:57:23] [Worker-Main-4/INFO]: Loaded 1559 advancements
-[16:57:23] [Worker-Main-4/INFO]: Configuration has been loaded
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:leather_helmet
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:diamond_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:iron_shovel
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:chainmail_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:diamond_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:golden_longsword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:netherite_greatsword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:stone_axe
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:netherite_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:diamond_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:iron_sword
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:netherite_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:iron_greatsword
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:diamond_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:leather_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:netherite_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:iron_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:netherite_sword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:diamond_tachi
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:trident
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:chainmail_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:iron_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:chainmail_leggings
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:netherite_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:diamond_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:golden_greatsword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:netherite_longsword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:golden_sword
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:diamond_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:netherite_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:iron_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:golden_tachi
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:wooden_axe
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:golden_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:netherite_tachi
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:crossbow
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:diamond_boots
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:golden_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:diamond_greatsword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:stone_sword
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:iron_leggings
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:leather_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:golden_spear
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:diamond_sword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:golden_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:netherite_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:iron_tachi
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:diamond_longsword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:wooden_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:wooden_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:stone_greatsword
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for epicfight:stray_pants
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:leather_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:golden_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:stone_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:stone_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:golden_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:knuckle
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:netherite_dagger
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:netherite_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:wooden_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:diamond_dagger
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:iron_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:stone_spear
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:golden_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:iron_dagger
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:chainmail_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:golden_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:diamond_spear
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:iron_longsword
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for epicfight:stray_robe
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:iron_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:katana
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:wooden_sword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:golden_dagger
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:iron_spear
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for epicfight:stray_hat
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:golden_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:stone_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:bow
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:diamond_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for minecraft:netherite_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for epicfight:netherite_spear
-[16:57:23] [Worker-Main-4/INFO]: register armor capability for minecraft:iron_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for turtle_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for shield
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for amethyst_sword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for amethyst_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for amethyst_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for amethyst_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for amethyst_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for ruby_sword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for ruby_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for ruby_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for ruby_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for ruby_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for sapphire_sword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for sapphire_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for sapphire_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for sapphire_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for sapphire_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for topaz_sword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for topaz_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for topaz_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for topaz_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for topaz_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for crystal_sword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for crystal_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for crystal_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for crystal_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for crystal_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for emerald_sword
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for emerald_pickaxe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for emerald_axe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for emerald_shovel
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for emerald_hoe
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for amethyst_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for amethyst_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for amethyst_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for amethyst_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for ruby_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for ruby_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for ruby_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for ruby_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for sapphire_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for sapphire_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for sapphire_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for sapphire_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for topaz_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for topaz_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for topaz_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for topaz_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for crystal_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for crystal_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for crystal_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for crystal_boots
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for emerald_helmet
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for emerald_leggings
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for emerald_chestplate
-[16:57:23] [Worker-Main-4/INFO]: register weapon capability for emerald_boots
-[16:57:25] [main/INFO]: Injecting existing registry data into this CLIENT instance
-[16:57:28] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[16:57:28] [Server thread/INFO]: Loading properties
-[16:57:28] [Server thread/INFO]: Default game type: SURVIVAL
-[16:57:28] [Server thread/INFO]: Generating keypair
-[16:57:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:57:28] [Server thread/INFO]: Using epoll channel type
-[16:57:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:57:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:57:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:57:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:57:28] [Server thread/INFO]: Preparing level "world"
-[16:57:29] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:57:29] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:57:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[16:57:35] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[16:57:35] [Worker-Main-6/INFO]: Preparing spawn area: 52%
-[16:57:36] [Worker-Main-4/INFO]: Preparing spawn area: 93%
-[16:57:36] [Server thread/INFO]: Time elapsed: 7212 ms
-[16:57:36] [Server thread/INFO]: Done (7.520s)! For help, type "help"
-[16:58:19] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2ea2f27e[id=<null>,name=marco,properties={},legacy=false] (/127.10.102.148:46313): Took too long to log in
-[16:58:19] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ea2f27e[id=<null>,name=marco,properties={},legacy=false] (/127.10.102.148:46313) lost connection: Took too long to log in
-[16:58:19] [Server thread/WARN]: handleDisconnection() called twice
-[16:58:40] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@55600d1
-[16:58:40] [Server thread/INFO]: marco[/127.10.102.148:43337] logged in with entity id 212 at (66.73883540205082, 70.0, 103.04843487460633)
-[16:58:40] [Server thread/INFO]: marco joined the game
-[16:58:40] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[16:59:10] [Server thread/INFO]: marco lost connection: Timed out
-[16:59:10] [Server thread/INFO]: marco left the game
-[16:59:10] [Server thread/WARN]: handleDisconnection() called twice
-[16:59:16] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e217a08
-[16:59:16] [Server thread/INFO]: Beelz[/127.10.102.148:43267] logged in with entity id 280 at (46.50981701390123, 66.0, 116.34242585794858)
-[16:59:16] [Server thread/INFO]: Beelz joined the game
-[16:59:16] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[16:59:18] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b5b8668
-[16:59:18] [Server thread/INFO]: SuperMago[/127.10.102.148:53941] logged in with entity id 319 at (48.30000001192093, 71.15312379606114, 133.31789315793367)
-[16:59:18] [Server thread/INFO]: SuperMago joined the game
-[16:59:18] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[16:59:27] [Server thread/INFO]: [Beelz: Set the time to 1000]
-[16:59:49] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@19ff8536
-[16:59:49] [Server thread/INFO]: marco[/127.10.102.148:34125] logged in with entity id 401 at (63.75102785349562, 68.79673560066871, 116.77282608685053)
-[16:59:49] [Server thread/INFO]: marco joined the game
-[16:59:49] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[17:00:06] [Server thread/INFO]: Beelz is bleeding...
-[17:00:34] [Server thread/INFO]: marco lost connection: Timed out
-[17:00:34] [Server thread/INFO]: marco left the game
-[17:01:17] [Server thread/INFO]: Beelz lost connection: Timed out
-[17:01:17] [Server thread/INFO]: Beelz left the game
-[17:01:26] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9c8d3f4
-[17:01:26] [Server thread/INFO]: marco[/127.10.102.148:49641] logged in with entity id 634 at (65.3433358311504, 68.0, 134.313293982452)
-[17:01:26] [Server thread/INFO]: marco joined the game
-[17:01:26] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[17:01:27] [Server thread/INFO]: SuperMago has made the advancement [Ice Bucket Challenge]
-[17:02:41] [Server thread/INFO]: marco lost connection: Timed out
-[17:02:41] [Server thread/INFO]: marco left the game
-[17:03:02] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@52017da4
-[17:03:02] [Server thread/INFO]: Beelz[/127.10.102.148:36325] logged in with entity id 1059 at (60.873597394040196, 69.0, 132.82476563544287)
-[17:03:02] [Server thread/INFO]: Beelz joined the game
-[17:03:02] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[17:03:04] [Server thread/INFO]: SuperMago is bleeding...
-[17:04:00] [Server thread/INFO]: Beelz is bleeding...
-[17:04:02] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7bd7ad89
-[17:04:02] [Server thread/INFO]: Anterux[/127.10.102.148:35735] logged in with entity id 1211 at (68.5, 70.0, 105.5)
-[17:04:02] [Server thread/INFO]: Anterux joined the game
-[17:04:02] [Server thread/INFO]: Syncing config to Anterux (51549f53-2ca5-30e2-a3dc-935211485ea5)
-[17:04:02] [Server thread/INFO]: SuperMago is bleeding...
-[17:04:17] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@623aaa2f
-[17:04:17] [Server thread/INFO]: marco[/127.10.102.148:37009] logged in with entity id 1281 at (82.52264805307792, 70.0, 128.30000001192093)
-[17:04:17] [Server thread/INFO]: marco joined the game
-[17:04:17] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[17:04:17] [Server thread/INFO]: Beelz lost connection: Timed out
-[17:04:17] [Server thread/INFO]: Beelz left the game
-[17:04:17] [Server thread/INFO]: Beelz was slain by Zombie
-[17:05:02] [Server thread/INFO]: marco lost connection: Timed out
-[17:05:02] [Server thread/INFO]: marco left the game
-[17:05:02] [Server thread/INFO]: SuperMago was slain by Zombie
-[17:05:12] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[17:05:12] [Server thread/INFO]: SuperMago left the game
-[17:06:29] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b78031
-[17:06:29] [Server thread/INFO]: Beelz[/127.10.102.148:46077] logged in with entity id 1746 at (7.998176815381439, 64.0, 135.7576496246346)
-[17:06:29] [Server thread/INFO]: Beelz joined the game
-[17:06:29] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[17:06:45] [Server thread/INFO]: [Beelz: Teleported Beelz to Anterux]
+[17:42:14] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17:42:15] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 37.1.1 Target: null
+[17:42:15] [Forge Version Check/INFO]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[17:42:16] [Forge Version Check/INFO]: [reap] Found status: UP_TO_DATE Current: 1.17.1-1.0.0 Target: null
+[17:42:16] [Forge Version Check/INFO]: [extragems] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/ExtraGems.json
+[17:42:16] [Forge Version Check/INFO]: [extragems] Found status: UP_TO_DATE Current: 2.0.5 Target: null
+[17:42:16] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17:42:16] [Forge Version Check/INFO]: [travelersbackpack] Found status: OUTDATED Current: 6.0.43 Target: 6.0.52
+[17:42:19] [main/ERROR]: Error adding element: Value 9 outside of range [0:7]
+[17:42:20] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:42:20] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2340!/assets/.mcassetsroot' uses unexpected schema
+[17:42:20] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2340!/data/.mcassetsroot' uses unexpected schema
+[17:42:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:42:20] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:42:20] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:42:20] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:42:20] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:42:20] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[17:42:20] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[17:42:20] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.1.1-universal.jar, elevatorid-1.17.1-1.8.1.jar, musketmod-1.17.1-forge-1.4.3.jar, BiomesOPlenty-1.17.1-14.0.0.43-universal.jar, Jade-1.17.1-3.3.1.jar, mcw-roofs-2.1.1-mc1.17.1.jar, CreativeCore_v2.3.0_mc1.17.1.jar, dungeons_enhanced-1.17.1-2.0.jar, Paraglider-1.17.1-1.4.0.5.jar, reap-1.17.1-1.0.0.jar, PlayerRevive_v2.0.0-pre04_mc1.17.1.jar, ExtraGems-1.17-(v.2.0.5).jar, EpicFight-17.1.13-beta.jar, structure_gel-1.17.1-2.0.1.jar, TravelersBackpack-1.17.1-6.0.43.jar
+[17:42:21] [Worker-Main-6/ERROR]: Couldn't load tag forge:ores as it is missing following references: #forge:ores/amethyst_ore (from ExtraGems-1.17-(v.2.0.5).jar)
+[17:42:23] [Worker-Main-6/INFO]: Loaded 8 recipes
+[17:42:26] [Worker-Main-6/INFO]: Loaded 1559 advancements
+[17:42:26] [Worker-Main-6/INFO]: Configuration has been loaded
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_helmet
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_shovel
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_longsword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_greatsword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_axe
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_sword
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_greatsword
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_sword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_tachi
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:trident
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_leggings
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_greatsword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_longsword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_sword
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_tachi
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_axe
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_tachi
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:crossbow
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_boots
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_greatsword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_sword
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_leggings
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_spear
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_sword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_tachi
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_longsword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:stone_greatsword
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for epicfight:stray_pants
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:knuckle
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_dagger
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_dagger
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:stone_spear
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_dagger
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_spear
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_longsword
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for epicfight:stray_robe
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:katana
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_sword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_dagger
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_spear
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for epicfight:stray_hat
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:bow
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_spear
+[17:42:26] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for turtle_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for shield
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for amethyst_sword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for amethyst_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for amethyst_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for amethyst_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for amethyst_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for ruby_sword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for ruby_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for ruby_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for ruby_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for ruby_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for sapphire_sword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for sapphire_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for sapphire_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for sapphire_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for sapphire_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for topaz_sword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for topaz_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for topaz_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for topaz_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for topaz_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for crystal_sword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for crystal_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for crystal_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for crystal_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for crystal_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for emerald_sword
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for emerald_pickaxe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for emerald_axe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for emerald_shovel
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for emerald_hoe
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for amethyst_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for amethyst_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for amethyst_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for amethyst_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for ruby_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for ruby_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for ruby_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for ruby_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for sapphire_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for sapphire_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for sapphire_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for sapphire_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for topaz_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for topaz_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for topaz_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for topaz_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for crystal_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for crystal_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for crystal_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for crystal_boots
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for emerald_helmet
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for emerald_leggings
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for emerald_chestplate
+[17:42:26] [Worker-Main-6/INFO]: register weapon capability for emerald_boots
+[17:42:28] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[17:42:30] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[17:42:30] [Server thread/INFO]: Loading properties
+[17:42:30] [Server thread/INFO]: Default game type: SURVIVAL
+[17:42:30] [Server thread/INFO]: Generating keypair
+[17:42:31] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:42:31] [Server thread/INFO]: Using epoll channel type
+[17:42:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:42:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:42:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:42:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:42:31] [Server thread/INFO]: Preparing level "world"
+[17:42:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:42:32] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:42:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:42:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:42:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:42:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:42:38] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:42:39] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[17:42:39] [Worker-Main-6/INFO]: Preparing spawn area: 64%
+[17:42:40] [Worker-Main-5/INFO]: Preparing spawn area: 99%
+[17:42:40] [Server thread/INFO]: Time elapsed: 9105 ms
+[17:42:40] [Server thread/INFO]: Done (9.359s)! For help, type "help"
+[17:42:53] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2d4c7cb5
+[17:42:53] [Server thread/INFO]: ANGEL[/127.10.102.148:48901] logged in with entity id 243 at (60.5, 68.0, 105.5)
+[17:42:53] [Server thread/INFO]: ANGEL joined the game
+[17:42:53] [Server thread/INFO]: Syncing config to ANGEL (fbd3f129-5e54-3530-b52f-350e37092e72)
+[17:42:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=63, z=105}
+[17:42:57] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=63, z=105}
+[17:42:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=63, z=105}
+[17:42:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=63, z=105}
+[17:42:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=63, z=105}
+[17:42:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=63, z=105}
+[17:42:58] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=63, z=105}
+[17:42:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=63, y=69, z=105}
+[17:42:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=69, z=107}
+[17:42:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=62, y=67, z=104}
+[17:42:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=61, y=67, z=105}
+[17:42:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=68, z=106}
+[17:42:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=68, z=106}
+[17:42:59] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=68, z=106}
+[17:43:00] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7fb3066f
+[17:43:00] [Server thread/INFO]: Beelz[/127.10.102.148:43727] logged in with entity id 292 at (144.31231610882736, 72.0, 184.04076174324277)
+[17:43:00] [Server thread/INFO]: Beelz joined the game
+[17:43:00] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[17:43:01] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=60, y=69, z=107}
+[17:43:21] [Server thread/INFO]: [Beelz: Set the time to 1000]
+[17:43:43] [Server thread/INFO]: [Beelz: Made ANGEL a server operator]
+[17:43:49] [Server thread/INFO]: [Beelz: Teleported ANGEL to Beelz]
+[17:44:02] [Server thread/INFO]: Beelz lost connection: Disconnected
+[17:44:02] [Server thread/INFO]: Beelz left the game
+[17:44:12] [Server thread/INFO]: ANGEL lost connection: Disconnected
+[17:44:12] [Server thread/INFO]: ANGEL left the game

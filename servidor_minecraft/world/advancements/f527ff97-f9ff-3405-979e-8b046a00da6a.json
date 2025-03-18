@@ -92,6 +92,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-18 17:00:04 +0000",
+      "minecraft:desert": "2025-03-18 17:09:18 +0000",
       "minecraft:plains": "2025-03-18 16:16:44 +0000"
     },
     "done": false
@@ -186,6 +187,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-18 17:09:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-18 17:02:22 +0000"
@@ -195,6 +202,12 @@
   "mcwroofs:recipes/crimson_planks": {
     "criteria": {
       "has_planks": "2025-03-18 17:00:04 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-03-18 17:09:11 +0000"
     },
     "done": true
   },
