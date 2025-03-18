@@ -257,3 +257,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23:08:32] [Server thread/INFO]: SuperMago[/127.215.231.242:46343] logged in with entity id 219 at (112.37619640832159, 80.0, -11.311650008537224)
 [23:08:32] [Server thread/INFO]: SuperMago joined the game
 [23:08:32] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[23:12:08] [Server thread/INFO]: SuperMago has made the advancement [Sweet Dreams]
