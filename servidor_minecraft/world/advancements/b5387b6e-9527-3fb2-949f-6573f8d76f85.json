@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-03-18 03:42:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 23:35:26 +0000"
@@ -1209,6 +1215,12 @@
   "mcwroofs:recipes/terracotta": {
     "criteria": {
       "has_planks": "2025-03-17 21:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-03-18 03:42:00 +0000"
     },
     "done": true
   },
