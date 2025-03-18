@@ -29,3 +29,7 @@
 [01:49:33] [Server thread/INFO]: SuperMago has made the advancement [Take Aim]
 [01:52:34] [Server thread/INFO]: SuperMago lost connection: Disconnected
 [01:52:34] [Server thread/INFO]: SuperMago left the game
+[03:17:29] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@682fe8c9
+[03:17:29] [Server thread/INFO]: SuperMago[/127.221.163.188:50847] logged in with entity id 66218 at (60.94107109135791, 64.0, 7.826052303048781)
+[03:17:29] [Server thread/INFO]: SuperMago joined the game
+[03:17:29] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
