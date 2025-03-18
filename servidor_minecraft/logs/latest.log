@@ -1,68 +1,45 @@
-[00:01:41] [Server thread/INFO]: [Beelz: Teleported SuperMago to Beelz]
-[00:02:47] [Server thread/INFO]: <Beelz> adolfmier
-[00:04:27] [Server thread/INFO]: Beelz has reached the goal [Half a flight]
-[00:04:32] [Server thread/INFO]: SuperMago has reached the goal [Half a flight]
-[00:04:39] [Server thread/INFO]: <Beelz> adolfmir
-[00:05:21] [Server thread/INFO]: <Beelz> adolfmir
-[00:09:59] [Server thread/INFO]: SuperMago is bleeding...
-[00:10:09] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[00:10:09] [Server thread/INFO]: SuperMago left the game
-[00:10:09] [Server thread/INFO]: SuperMago drowned
-[00:10:20] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18fed31c
-[00:10:20] [Server thread/INFO]: SuperMago[/127.221.163.188:51469] logged in with entity id 50204 at (64.7574153560906, 61.35893260459845, -9.529194317675687)
-[00:10:20] [Server thread/INFO]: SuperMago joined the game
-[00:10:20] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[00:14:45] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[00:14:49] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
-[00:15:19] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
-[00:16:38] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[00:22:43] [Server thread/INFO]: Beelz is bleeding...
-[00:28:28] [Server thread/INFO]: <Beelz> adolfmir
-[00:33:20] [Server thread/INFO]: SuperMago has made the advancement [Suit Up]
-[00:33:53] [Server thread/INFO]: Beelz is bleeding...
-[00:34:27] [Server thread/INFO]: [Beelz: Teleported Beelz to 67.500000, 64.500000, 6.500000]
-[00:37:03] [Server thread/INFO]: SuperMago is bleeding...
-[00:37:18] [Server thread/INFO]: [Beelz: Teleported SuperMago to Beelz]
-[00:43:44] [Server thread/INFO]: Beelz lost connection: Disconnected
-[00:43:44] [Server thread/INFO]: Beelz left the game
-[01:49:19] [Server thread/INFO]: SuperMago has made the advancement [Ol' Betsy]
-[01:49:33] [Server thread/INFO]: SuperMago has made the advancement [Take Aim]
-[01:52:34] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[01:52:34] [Server thread/INFO]: SuperMago left the game
-[03:17:29] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@682fe8c9
-[03:17:29] [Server thread/INFO]: SuperMago[/127.221.163.188:50847] logged in with entity id 66218 at (60.94107109135791, 64.0, 7.826052303048781)
-[03:17:29] [Server thread/INFO]: SuperMago joined the game
-[03:17:29] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[03:22:50] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ff9dd54
-[03:22:50] [Server thread/INFO]: Beelz[/127.177.222.21:43601] logged in with entity id 67294 at (75.58725974823697, 63.0, 24.761155366634366)
-[03:22:50] [Server thread/INFO]: Beelz joined the game
-[03:22:50] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[03:22:59] [Server thread/INFO]: <Beelz> ya quedo?
-[03:24:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=83, y=72, z=53} BlockPos{x=81, y=71, z=53}
-[03:24:26] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=83, y=72, z=53} BlockPos{x=81, y=71, z=53}
-[03:24:39] [Server thread/INFO]: <Beelz> ahorita entro otra vez
-[03:24:53] [Server thread/INFO]: <Beelz> entra al discord pa que hablemos ahi
-[03:24:55] [Server thread/INFO]: <Beelz> nomas ceno
-[03:24:58] [Server thread/INFO]: Beelz lost connection: Disconnected
-[03:24:58] [Server thread/INFO]: Beelz left the game
-[03:25:45] [Server thread/INFO]: SuperMago lost connection: Timed out
-[03:25:45] [Server thread/INFO]: SuperMago left the game
-[03:26:21] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ff60b5f
-[03:26:21] [Server thread/INFO]: SuperMago[/127.221.163.188:39387] logged in with entity id 67745 at (62.36334786994744, 64.0, 5.927553978823449)
-[03:26:21] [Server thread/INFO]: SuperMago joined the game
-[03:26:21] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[03:49:25] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30094d3b
-[03:49:25] [Server thread/INFO]: Beelz[/127.177.222.21:39019] logged in with entity id 70940 at (93.15631701346494, 66.0, 15.075801220111252)
-[03:49:25] [Server thread/INFO]: Beelz joined the game
-[03:49:25] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[03:55:39] [Server thread/INFO]: SuperMago is bleeding...
-[03:56:19] [Server thread/INFO]: <Beelz> adolfmir
-[04:06:35] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[04:06:35] [Server thread/INFO]: SuperMago left the game
-[04:15:11] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7eafad66
-[04:15:11] [Server thread/INFO]: SuperMago[/127.221.163.188:53349] logged in with entity id 75217 at (94.19162974360287, 63.0, 29.583304171185933)
-[04:15:11] [Server thread/INFO]: SuperMago joined the game
-[04:15:11] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[04:21:08] [Server thread/INFO]: <Beelz> perame
-[04:26:49] [Server thread/INFO]: <Beelz> adolfmir
-[04:39:32] [Server thread/INFO]: SuperMago is bleeding...
+[15:10:33] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[15:10:33] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
+[15:10:33] [main/ERROR]: Zip Error when loading jar file /workspaces/server-factory/servidor_minecraft/mods/BiomesOPlenty-1.17.1-14.0.0.43-universal.jar
+java.util.zip.ZipException: zip END header not found
+	at java.util.zip.ZipFile$Source.findEND(ZipFile.java:1637) ~[?:?]
+	at java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1645) ~[?:?]
+	at java.util.zip.ZipFile$Source.<init>(ZipFile.java:1483) ~[?:?]
+	at java.util.zip.ZipFile$Source.get(ZipFile.java:1445) ~[?:?]
+	at java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:717) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:251) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:180) ~[?:?]
+	at java.util.zip.ZipFile.<init>(ZipFile.java:194) ~[?:?]
+	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.visitFile(ModDirTransformerDiscoverer.java:66) ~[fmlloader-1.17.1-37.1.1.jar%2323!:1.0]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.scan(ModDirTransformerDiscoverer.java:56) ~[fmlloader-1.17.1-37.1.1.jar%2323!:1.0]
+	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.candidates(ModDirTransformerDiscoverer.java:39) ~[fmlloader-1.17.1-37.1.1.jar%2323!:1.0]
+	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$discoverServices$14(TransformationServicesHandler.java:124) ~[modlauncher-9.0.7.jar%235!:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) [?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) [?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) [?:?]
+	at java.util.ServiceLoader$ProviderSpliterator.tryAdvance(ServiceLoader.java:1499) [?:?]
+	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) [?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575) [?:?]
+	at java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260) [?:?]
+	at java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616) [?:?]
+	at java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:622) [?:?]
+	at java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:627) [?:?]
+	at cpw.mods.modlauncher.TransformationServicesHandler.discoverServices(TransformationServicesHandler.java:126) [modlauncher-9.0.7.jar%235!:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:86) [modlauncher-9.0.7.jar%235!:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.0.7.jar%235!:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.0.7.jar%235!:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.0.7.jar%235!:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:90) [bootstraplauncher-0.1.17.jar:?]
+[15:10:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
