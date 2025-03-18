@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-03-18 00:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-03-17 21:23:37 +0000"
@@ -622,6 +628,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-03-18 00:04:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-03-17 21:24:15 +0000"
@@ -731,6 +743,12 @@
       "minecraft:zombie": "2025-03-17 22:10:59 +0000"
     },
     "done": false
+  },
+  "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-03-18 00:04:32 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
@@ -1355,6 +1373,7 @@
       "minecraft:forest": "2025-03-17 21:22:56 +0000",
       "minecraft:birch_forest": "2025-03-17 21:25:28 +0000",
       "minecraft:beach": "2025-03-17 21:13:45 +0000",
+      "minecraft:dark_forest": "2025-03-17 23:59:17 +0000",
       "minecraft:river": "2025-03-17 21:46:25 +0000",
       "minecraft:birch_forest_hills": "2025-03-17 21:28:00 +0000",
       "minecraft:wooded_hills": "2025-03-17 21:13:03 +0000",
