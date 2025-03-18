@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-03-18 01:49:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-03-17 23:13:45 +0000"
@@ -567,6 +573,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-03-17 21:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-03-18 01:49:43 +0000"
     },
     "done": true
   },
@@ -880,6 +892,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-17 23:13:44 +0000",
       "minecraft:spider": "2025-03-18 00:35:56 +0000",
+      "minecraft:creeper": "2025-03-18 01:49:37 +0000",
       "minecraft:witch": "2025-03-18 01:30:46 +0000",
       "minecraft:enderman": "2025-03-17 22:10:05 +0000",
       "minecraft:zombie": "2025-03-17 22:10:59 +0000"
@@ -1606,6 +1619,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-03-18 01:49:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-03-17 21:15:25 +0000"
@@ -1761,6 +1780,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-17 21:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-03-18 01:49:33 +0000"
     },
     "done": true
   },
