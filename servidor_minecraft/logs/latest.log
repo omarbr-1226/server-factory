@@ -1,45 +1,623 @@
-[15:25:28] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
-[15:25:28] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
-[15:25:28] [main/ERROR]: Zip Error when loading jar file /workspaces/server-factory/servidor_minecraft/mods/BiomesOPlenty-1.17.1-14.0.0.43-universal.jar
-java.util.zip.ZipException: zip END header not found
-	at java.util.zip.ZipFile$Source.findEND(ZipFile.java:1637) ~[?:?]
-	at java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1645) ~[?:?]
-	at java.util.zip.ZipFile$Source.<init>(ZipFile.java:1483) ~[?:?]
-	at java.util.zip.ZipFile$Source.get(ZipFile.java:1445) ~[?:?]
-	at java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:717) ~[?:?]
-	at java.util.zip.ZipFile.<init>(ZipFile.java:251) ~[?:?]
-	at java.util.zip.ZipFile.<init>(ZipFile.java:180) ~[?:?]
-	at java.util.zip.ZipFile.<init>(ZipFile.java:194) ~[?:?]
-	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.visitFile(ModDirTransformerDiscoverer.java:66) ~[fmlloader-1.17.1-37.1.1.jar%2323!:1.0]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
-	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
-	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
-	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
-	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.scan(ModDirTransformerDiscoverer.java:56) ~[fmlloader-1.17.1-37.1.1.jar%2323!:1.0]
-	at net.minecraftforge.fml.loading.ModDirTransformerDiscoverer.candidates(ModDirTransformerDiscoverer.java:39) ~[fmlloader-1.17.1-37.1.1.jar%2323!:1.0]
-	at cpw.mods.modlauncher.TransformationServicesHandler.lambda$discoverServices$14(TransformationServicesHandler.java:124) ~[modlauncher-9.0.7.jar%235!:?]
-	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) [?:?]
-	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) [?:?]
-	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) [?:?]
-	at java.util.ServiceLoader$ProviderSpliterator.tryAdvance(ServiceLoader.java:1499) [?:?]
-	at java.util.Spliterator.forEachRemaining(Spliterator.java:332) [?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) [?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) [?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575) [?:?]
-	at java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260) [?:?]
-	at java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616) [?:?]
-	at java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:622) [?:?]
-	at java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:627) [?:?]
-	at cpw.mods.modlauncher.TransformationServicesHandler.discoverServices(TransformationServicesHandler.java:126) [modlauncher-9.0.7.jar%235!:?]
-	at cpw.mods.modlauncher.Launcher.run(Launcher.java:86) [modlauncher-9.0.7.jar%235!:?]
-	at cpw.mods.modlauncher.Launcher.main(Launcher.java:77) [modlauncher-9.0.7.jar%235!:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) [modlauncher-9.0.7.jar%235!:?]
-	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) [modlauncher-9.0.7.jar%235!:?]
-	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:90) [bootstraplauncher-0.1.17.jar:?]
-[15:25:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
+[16:02:10] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[16:02:10] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
+[16:02:10] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
+[16:02:10] [main/INFO]: Found mod file BiomesOPlenty-1.17.1-14.0.0.43-universal.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file CreativeCore_v2.3.0_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file dungeons_enhanced-1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file elevatorid-1.17.1-1.8.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file EpicFight-17.1.13-beta.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file ExtraGems-1.17-(v.2.0.5).jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file Jade-1.17.1-3.3.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file mcw-roofs-2.1.1-mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file musketmod-1.17.1-forge-1.4.3.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file Paraglider-1.17.1-1.4.0.5.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file PlayerRevive_v2.0.0-pre04_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file reap-1.17.1-1.0.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file structure_gel-1.17.1-2.0.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file TravelersBackpack-1.17.1-6.0.43.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[16:02:10] [main/INFO]: Found mod file fmlcore-1.17.1-37.1.1.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[16:02:10] [main/INFO]: Found mod file javafmllanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[16:02:10] [main/INFO]: Found mod file mclanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[16:02:10] [main/INFO]: Found mod file server-1.17.1-20210706.113038-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[16:02:10] [main/INFO]: Found mod file forge-1.17.1-37.1.1-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[16:02:12] [main/INFO]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[16:02:12] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
+[16:02:15] [main/WARN]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[16:02:15] [main/WARN]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[16:02:19] [modloading-worker-0/INFO]: Configuration file not found, default created
+[16:02:19] [modloading-worker-0/INFO]: Configuration file belongs to older version, updating
+[16:02:19] [modloading-worker-0/INFO]: Configuration has been loaded
+[16:02:19] [modloading-worker-0/INFO]: Forge mod loading, version 37.1.1, for MC 1.17.1 with MCP 20210706.113038
+[16:02:19] [modloading-worker-0/INFO]: MinecraftForge v37.1.1 Initialized
+[16:02:20] [modloading-worker-0/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/epicfight-client.toml is not correct. Correcting
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.long_press_count was corrected from null to its default, 2. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.show_health_indicator was corrected from null to its default, true. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.show_target_indicator was corrected from null to its default, true. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.filter_animation was corrected from null to its default, false. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.laser_pointer_color was corrected from null to its default, 0.328125. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.enable_laser_pointer was corrected from null to its default, true. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.camera_auto_switch was corrected from null to its default, false. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.auto_preparation was corrected from null to its default, false. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.off_gore was corrected from null to its default, false. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.battle_autoswitch_items was corrected from null to its default, []. 
+[16:02:20] [modloading-worker-0/WARN]: Incorrect key ingame.mining_autoswitch_items was corrected from null to its default, []. 
+[16:02:20] [modloading-worker-0/INFO]: Load Configuration File
+[16:02:20] [modloading-worker-0/INFO]: Load Configuration File
+[16:02:22] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:22] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[16:02:22] [main/INFO]: Dungeons Enhanced structures loaded
+[16:02:22] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/jade-addons.toml is not correct. Correcting
+[16:02:22] [main/WARN]: Incorrect key inventory was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key inventory.sneakShowAmount was corrected from null to its default, 54. 
+[16:02:22] [main/WARN]: Incorrect key inventory.normalShowAmount was corrected from null to its default, 0. 
+[16:02:22] [main/WARN]: Incorrect key inventory.showItemPreLine was corrected from null to its default, 9. 
+[16:02:22] [main/WARN]: Incorrect key inventory.blacklist was corrected from null to its default, [refinedstorage:disk_drive]. 
+[16:02:22] [main/WARN]: Incorrect key inventory.bypassLockedContainer was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key customContainerName was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key customContainerName.onlyShowVanilla was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key customContainerName.blacklist was corrected from null to its default, [thermal]. 
+[16:02:22] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/dungeons_enhanced-common.toml is not correct. Correcting
+[16:02:22] [main/WARN]: Incorrect key Castle was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Castle.probability was corrected from null to its default, 25. 
+[16:02:22] [main/WARN]: Incorrect key Castle.spacing was corrected from null to its default, 57. 
+[16:02:22] [main/WARN]: Incorrect key Castle.offset was corrected from null to its default, 14. 
+[16:02:22] [main/WARN]: Incorrect key Castle.biomes was corrected from null to its default, [#structure_gel:cold, #structure_gel:snowy, !#structure_gel:mountain, !#structure_gel:snowy_mountain]. 
+[16:02:22] [main/WARN]: Incorrect key Castle.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Castle.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Desert Temple was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Desert Temple.probability was corrected from null to its default, 60. 
+[16:02:22] [main/WARN]: Incorrect key Desert Temple.spacing was corrected from null to its default, 32. 
+[16:02:22] [main/WARN]: Incorrect key Desert Temple.offset was corrected from null to its default, 8. 
+[16:02:22] [main/WARN]: Incorrect key Desert Temple.biomes was corrected from null to its default, [minecraft:desert]. 
+[16:02:22] [main/WARN]: Incorrect key Desert Temple.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Desert Temple.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Desert Tomb was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Desert Tomb.probability was corrected from null to its default, 65. 
+[16:02:22] [main/WARN]: Incorrect key Desert Tomb.spacing was corrected from null to its default, 29. 
+[16:02:22] [main/WARN]: Incorrect key Desert Tomb.offset was corrected from null to its default, 7. 
+[16:02:22] [main/WARN]: Incorrect key Desert Tomb.biomes was corrected from null to its default, [minecraft:desert]. 
+[16:02:22] [main/WARN]: Incorrect key Desert Tomb.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Desert Tomb.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Druid Circle was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Druid Circle.probability was corrected from null to its default, 40. 
+[16:02:22] [main/WARN]: Incorrect key Druid Circle.spacing was corrected from null to its default, 39. 
+[16:02:22] [main/WARN]: Incorrect key Druid Circle.offset was corrected from null to its default, 9. 
+[16:02:22] [main/WARN]: Incorrect key Druid Circle.biomes was corrected from null to its default, [#structure_gel:neutral_temp, !#structure_gel:wooded]. 
+[16:02:22] [main/WARN]: Incorrect key Druid Circle.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Druid Circle.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Dungeon Variant was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Dungeon Variant.probability was corrected from null to its default, 80. 
+[16:02:22] [main/WARN]: Incorrect key Dungeon Variant.spacing was corrected from null to its default, 12. 
+[16:02:22] [main/WARN]: Incorrect key Dungeon Variant.offset was corrected from null to its default, 3. 
+[16:02:22] [main/WARN]: Incorrect key Dungeon Variant.biomes was corrected from null to its default, []. 
+[16:02:22] [main/WARN]: Incorrect key Dungeon Variant.is_whitelist was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key Dungeon Variant.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Hay Storage was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Hay Storage.probability was corrected from null to its default, 85. 
+[16:02:22] [main/WARN]: Incorrect key Hay Storage.spacing was corrected from null to its default, 24. 
+[16:02:22] [main/WARN]: Incorrect key Hay Storage.offset was corrected from null to its default, 6. 
+[16:02:22] [main/WARN]: Incorrect key Hay Storage.biomes was corrected from null to its default, [#structure_gel:savanna]. 
+[16:02:22] [main/WARN]: Incorrect key Hay Storage.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Hay Storage.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Ice Pit was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Ice Pit.probability was corrected from null to its default, 70. 
+[16:02:22] [main/WARN]: Incorrect key Ice Pit.spacing was corrected from null to its default, 35. 
+[16:02:22] [main/WARN]: Incorrect key Ice Pit.offset was corrected from null to its default, 8. 
+[16:02:22] [main/WARN]: Incorrect key Ice Pit.biomes was corrected from null to its default, [#structure_gel:snowy, #structure_gel:frozen, !#structure_gel:snowy_mountain, !#structure_gel:mountain]. 
+[16:02:22] [main/WARN]: Incorrect key Ice Pit.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Ice Pit.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Jungle Monument was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Jungle Monument.probability was corrected from null to its default, 70. 
+[16:02:22] [main/WARN]: Incorrect key Jungle Monument.spacing was corrected from null to its default, 20. 
+[16:02:22] [main/WARN]: Incorrect key Jungle Monument.offset was corrected from null to its default, 5. 
+[16:02:22] [main/WARN]: Incorrect key Jungle Monument.biomes was corrected from null to its default, [#structure_gel:jungle, !#structure_gel:bamboo_jungle]. 
+[16:02:22] [main/WARN]: Incorrect key Jungle Monument.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Jungle Monument.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Large Dungeon was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Large Dungeon.probability was corrected from null to its default, 35. 
+[16:02:22] [main/WARN]: Incorrect key Large Dungeon.spacing was corrected from null to its default, 38. 
+[16:02:22] [main/WARN]: Incorrect key Large Dungeon.offset was corrected from null to its default, 9. 
+[16:02:22] [main/WARN]: Incorrect key Large Dungeon.biomes was corrected from null to its default, [#structure_gel:neutral_temp, #structure_gel:cold, !#structure_gel:mountain]. 
+[16:02:22] [main/WARN]: Incorrect key Large Dungeon.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Large Dungeon.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Miners House was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Miners House.probability was corrected from null to its default, 80. 
+[16:02:22] [main/WARN]: Incorrect key Miners House.spacing was corrected from null to its default, 24. 
+[16:02:22] [main/WARN]: Incorrect key Miners House.offset was corrected from null to its default, 6. 
+[16:02:22] [main/WARN]: Incorrect key Miners House.biomes was corrected from null to its default, [minecraft:badlands, minecraft:badlands_plateau]. 
+[16:02:22] [main/WARN]: Incorrect key Miners House.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Miners House.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Monster Maze was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Monster Maze.probability was corrected from null to its default, 50. 
+[16:02:22] [main/WARN]: Incorrect key Monster Maze.spacing was corrected from null to its default, 34. 
+[16:02:22] [main/WARN]: Incorrect key Monster Maze.offset was corrected from null to its default, 8. 
+[16:02:22] [main/WARN]: Incorrect key Monster Maze.biomes was corrected from null to its default, [#structure_gel:spooky, #structure_gel:pumpkin, !#structure_gel:sandy]. 
+[16:02:22] [main/WARN]: Incorrect key Monster Maze.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Monster Maze.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Mushroom House was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Mushroom House.probability was corrected from null to its default, 90. 
+[16:02:22] [main/WARN]: Incorrect key Mushroom House.spacing was corrected from null to its default, 15. 
+[16:02:22] [main/WARN]: Incorrect key Mushroom House.offset was corrected from null to its default, 3. 
+[16:02:22] [main/WARN]: Incorrect key Mushroom House.biomes was corrected from null to its default, [minecraft:mushroom_fields, minecraft:mushroom_field_shore]. 
+[16:02:22] [main/WARN]: Incorrect key Mushroom House.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Mushroom House.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Pillager Camp was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Pillager Camp.probability was corrected from null to its default, 35. 
+[16:02:22] [main/WARN]: Incorrect key Pillager Camp.spacing was corrected from null to its default, 49. 
+[16:02:22] [main/WARN]: Incorrect key Pillager Camp.offset was corrected from null to its default, 12. 
+[16:02:22] [main/WARN]: Incorrect key Pillager Camp.biomes was corrected from null to its default, [#structure_gel:neutral_temp, !#structure_gel:mountain, !#structure_gel:wooded]. 
+[16:02:22] [main/WARN]: Incorrect key Pillager Camp.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Pillager Camp.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Ruined Building was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Ruined Building.probability was corrected from null to its default, 45. 
+[16:02:22] [main/WARN]: Incorrect key Ruined Building.spacing was corrected from null to its default, 27. 
+[16:02:22] [main/WARN]: Incorrect key Ruined Building.offset was corrected from null to its default, 6. 
+[16:02:22] [main/WARN]: Incorrect key Ruined Building.biomes was corrected from null to its default, [#structure_gel:neutral_temp]. 
+[16:02:22] [main/WARN]: Incorrect key Ruined Building.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Ruined Building.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Stables was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Stables.probability was corrected from null to its default, 32. 
+[16:02:22] [main/WARN]: Incorrect key Stables.spacing was corrected from null to its default, 46. 
+[16:02:22] [main/WARN]: Incorrect key Stables.offset was corrected from null to its default, 11. 
+[16:02:22] [main/WARN]: Incorrect key Stables.biomes was corrected from null to its default, [#structure_gel:neutral_temp, !#structure_gel:mountain, !#structure_gel:wooded]. 
+[16:02:22] [main/WARN]: Incorrect key Stables.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Stables.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Tall Witch Hut was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Tall Witch Hut.probability was corrected from null to its default, 60. 
+[16:02:22] [main/WARN]: Incorrect key Tall Witch Hut.spacing was corrected from null to its default, 18. 
+[16:02:22] [main/WARN]: Incorrect key Tall Witch Hut.offset was corrected from null to its default, 4. 
+[16:02:22] [main/WARN]: Incorrect key Tall Witch Hut.biomes was corrected from null to its default, [#structure_gel:humid, !#structure_gel:tropical, !#structure_gel:jungle, #structure_gel:pumpkin]. 
+[16:02:22] [main/WARN]: Incorrect key Tall Witch Hut.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Tall Witch Hut.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Tower of the Undead was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Tower of the Undead.probability was corrected from null to its default, 35. 
+[16:02:22] [main/WARN]: Incorrect key Tower of the Undead.spacing was corrected from null to its default, 37. 
+[16:02:22] [main/WARN]: Incorrect key Tower of the Undead.offset was corrected from null to its default, 9. 
+[16:02:22] [main/WARN]: Incorrect key Tower of the Undead.biomes was corrected from null to its default, [#structure_gel:neutral_temp, #structure_gel:savanna, !#structure_gel:mountain, #structure_gel:swamp]. 
+[16:02:22] [main/WARN]: Incorrect key Tower of the Undead.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Tower of the Undead.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Tree House was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Tree House.probability was corrected from null to its default, 40. 
+[16:02:22] [main/WARN]: Incorrect key Tree House.spacing was corrected from null to its default, 31. 
+[16:02:22] [main/WARN]: Incorrect key Tree House.offset was corrected from null to its default, 7. 
+[16:02:22] [main/WARN]: Incorrect key Tree House.biomes was corrected from null to its default, [#forge:jungle]. 
+[16:02:22] [main/WARN]: Incorrect key Tree House.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Tree House.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Watch Tower was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Watch Tower.probability was corrected from null to its default, 35. 
+[16:02:22] [main/WARN]: Incorrect key Watch Tower.spacing was corrected from null to its default, 33. 
+[16:02:22] [main/WARN]: Incorrect key Watch Tower.offset was corrected from null to its default, 8. 
+[16:02:22] [main/WARN]: Incorrect key Watch Tower.biomes was corrected from null to its default, [#structure_gel:cold, #structure_gel:snowy]. 
+[16:02:22] [main/WARN]: Incorrect key Watch Tower.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Watch Tower.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Incorrect key Witch Tower was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key Witch Tower.probability was corrected from null to its default, 50. 
+[16:02:22] [main/WARN]: Incorrect key Witch Tower.spacing was corrected from null to its default, 21. 
+[16:02:22] [main/WARN]: Incorrect key Witch Tower.offset was corrected from null to its default, 5. 
+[16:02:22] [main/WARN]: Incorrect key Witch Tower.biomes was corrected from null to its default, [#structure_gel:spruce_forest, #structure_gel:large_spruce_forest]. 
+[16:02:22] [main/WARN]: Incorrect key Witch Tower.is_whitelist was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key Witch Tower.valid_dimensions was corrected from null to its default, [minecraft:overworld]. 
+[16:02:22] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/biomesoplenty/generation.toml is not correct. Correcting
+[16:02:22] [main/WARN]: Incorrect key overworld was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key overworld.biome_size was corrected from null to its default, MEDIUM. 
+[16:02:22] [main/WARN]: Incorrect key overworld.river_size was corrected from null to its default, MEDIUM. 
+[16:02:22] [main/WARN]: Incorrect key overworld.temperature_variation_scheme was corrected from null to its default, MEDIUM_ZONES. 
+[16:02:22] [main/WARN]: Incorrect key overworld.rainfall_variation_scheme was corrected from null to its default, MEDIUM_ZONES. 
+[16:02:22] [main/WARN]: Incorrect key overworld.enhance_vanilla_biomes was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key overworld.use_bop_nether was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/paraglider-common.toml is not correct. Correcting
+[16:02:22] [main/WARN]: Incorrect key features was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key features.spiritOrbGens was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key features.heartContainers was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key features.staminaVessels was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key features.structures was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key debug was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key debug.debugPlayerMovement was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key debug.traceMovementPacket was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key debug.traceParaglidingPacket was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key debug.traceVesselPacket was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/structure_gel-common.toml is not correct. Correcting
+[16:02:22] [main/WARN]: Incorrect key biome_dictionary was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key biome_dictionary.ignored_mods was corrected from null to its default, []. 
+[16:02:22] [main/WARN]: Incorrect key biome_dictionary.make_best_guess was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key vanilla_enhancements was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key vanilla_enhancements.exceed_fill_and_clone_limit was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key vanilla_enhancements.extra_lake_proofing was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key console_debug was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key console_debug.console_debug was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/extragems-common.toml is not correct. Correcting
+[16:02:22] [main/WARN]: Incorrect key world was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key world.loot_generator was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key world.stone_ore_generation was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key world.deepslate_ore_generation was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key world.ruby_ore_generation was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key world.sapphire_ore_generation was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key world.topaz_ore_generation was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key world.crystal_ore_generation was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key world.ore_rarity was corrected from null to its default, 5. 
+[16:02:22] [main/WARN]: Incorrect key world.deepslate_ore_rarity was corrected from null to its default, 3. 
+[16:02:22] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/travelersbackpack-common.toml is not correct. Correcting
+[16:02:22] [main/WARN]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.enableTierUpgrades was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.disableCrafting was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.enableBackpackBlockWearable was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.invulnerableBackpack was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.toolSlotsAcceptSwords was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.toolSlotsAcceptableItems was corrected from null to its default, []. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.blacklistedItems was corrected from null to its default, []. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.allowShulkerBoxes was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.tanksCapacity was corrected from null to its default, [2000, 3000, 4000, 5000, 6000]. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.voidProtection was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.backpackDeathPlace was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.backpackForceDeathPlace was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.enableSleepingBagSpawnPoint was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackSettings.curiosIntegration was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key common.world was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key common.world.enableLoot was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.world.spawnEntitiesWithBackpack was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.world.possibleOverworldEntityTypes was corrected from null to its default, [minecraft:zombie, minecraft:skeleton, minecraft:enderman]. 
+[16:02:22] [main/WARN]: Incorrect key common.world.possibleNetherEntityTypes was corrected from null to its default, [minecraft:wither_skeleton, minecraft:piglin]. 
+[16:02:22] [main/WARN]: Incorrect key common.world.spawnChance was corrected from null to its default, 500. 
+[16:02:22] [main/WARN]: Incorrect key common.world.overworldBackpacks was corrected from null to its default, [travelersbackpack:standard, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:coal, travelersbackpack:bookshelf, travelersbackpack:sandstone, travelersbackpack:snow, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:hay, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:enderman, travelersbackpack:skeleton, travelersbackpack:spider, travelersbackpack:bee, travelersbackpack:wolf, travelersbackpack:fox, travelersbackpack:ocelot, travelersbackpack:horse, travelersbackpack:cow, travelersbackpack:pig, travelersbackpack:sheep, travelersbackpack:chicken, travelersbackpack:squid]. 
+[16:02:22] [main/WARN]: Incorrect key common.world.netherBackpacks was corrected from null to its default, [travelersbackpack:quartz, travelersbackpack:nether, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:wither]. 
+[16:02:22] [main/WARN]: Incorrect key common.world.enableVillagerTrade was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackAbilities was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackAbilities.enableBackpackAbilities was corrected from null to its default, true. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackAbilities.forceAbilityEnabled was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key common.backpackAbilities.allowedAbilities was corrected from null to its default, [travelersbackpack:netherite, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:bookshelf, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:dragon, travelersbackpack:enderman, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:spider, travelersbackpack:wither, travelersbackpack:bat, travelersbackpack:bee, travelersbackpack:ocelot, travelersbackpack:cow, travelersbackpack:chicken, travelersbackpack:squid]. 
+[16:02:22] [main/WARN]: Incorrect key common.slownessDebuff was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:22] [main/WARN]: Incorrect key common.slownessDebuff.tooManyBackpacksSlowness was corrected from null to its default, false. 
+[16:02:22] [main/WARN]: Incorrect key common.slownessDebuff.maxNumberOfBackpacks was corrected from null to its default, 3. 
+[16:02:22] [main/WARN]: Incorrect key common.slownessDebuff.slownessPerExcessedBackpack was corrected from null to its default, 1.0. 
+[16:02:23] [main/INFO]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[16:02:23] [main/INFO]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[16:02:23] [main/INFO]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[16:02:23] [main/INFO]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[16:02:23] [Forge Version Check/INFO]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs
+[16:02:24] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:899) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:852) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:801) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:773) ~[gson-2.8.0.jar%2322!:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:190) ~[fmlcore-1.17.1-37.1.1.jar%2341!:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:129) [fmlcore-1.17.1-37.1.1.jar%2341!:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:385) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar%2322!:?]
+	... 6 more
+[16:02:24] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[16:02:24] [modloading-worker-0/INFO]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[16:02:24] [modloading-worker-0/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[16:02:24] [modloading-worker-0/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
+[16:02:24] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 37.1.1 Target: null
+[16:02:24] [Forge Version Check/INFO]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[16:02:25] [Forge Version Check/INFO]: [reap] Found status: UP_TO_DATE Current: 1.17.1-1.0.0 Target: null
+[16:02:25] [Forge Version Check/INFO]: [extragems] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/ExtraGems.json
+[16:02:25] [Forge Version Check/INFO]: [extragems] Found status: UP_TO_DATE Current: 2.0.5 Target: null
+[16:02:25] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[16:02:25] [Forge Version Check/INFO]: [travelersbackpack] Found status: OUTDATED Current: 6.0.43 Target: 6.0.52
+[16:02:29] [main/ERROR]: Error adding element: Value 9 outside of range [0:7]
+[16:02:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:02:30] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2340!/assets/.mcassetsroot' uses unexpected schema
+[16:02:30] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2340!/data/.mcassetsroot' uses unexpected schema
+[16:02:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:02:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:02:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:02:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:02:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:02:30] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[16:02:30] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[16:02:30] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.1.1-universal.jar, elevatorid-1.17.1-1.8.1.jar, musketmod-1.17.1-forge-1.4.3.jar, BiomesOPlenty-1.17.1-14.0.0.43-universal.jar, Jade-1.17.1-3.3.1.jar, mcw-roofs-2.1.1-mc1.17.1.jar, CreativeCore_v2.3.0_mc1.17.1.jar, dungeons_enhanced-1.17.1-2.0.jar, Paraglider-1.17.1-1.4.0.5.jar, reap-1.17.1-1.0.0.jar, PlayerRevive_v2.0.0-pre04_mc1.17.1.jar, ExtraGems-1.17-(v.2.0.5).jar, EpicFight-17.1.13-beta.jar, structure_gel-1.17.1-2.0.1.jar, TravelersBackpack-1.17.1-6.0.43.jar
+[16:02:30] [Worker-Main-5/ERROR]: Couldn't load tag forge:ores as it is missing following references: #forge:ores/amethyst_ore (from ExtraGems-1.17-(v.2.0.5).jar)
+[16:02:32] [Worker-Main-5/INFO]: Loaded 8 recipes
+[16:02:35] [Worker-Main-5/INFO]: Loaded 1559 advancements
+[16:02:35] [Worker-Main-5/INFO]: Configuration has been loaded
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:leather_helmet
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:diamond_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_shovel
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:chainmail_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_longsword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_greatsword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_axe
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:netherite_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_sword
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:netherite_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_greatsword
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:diamond_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:leather_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:netherite_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_sword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_tachi
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:trident
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:chainmail_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:chainmail_leggings
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:netherite_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_greatsword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_longsword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_sword
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:diamond_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_tachi
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_axe
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:golden_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_tachi
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:crossbow
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:diamond_boots
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:golden_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_greatsword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_sword
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:iron_leggings
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:leather_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_spear
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_sword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_tachi
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_longsword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:stone_greatsword
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for epicfight:stray_pants
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:leather_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:knuckle
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_dagger
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_dagger
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:iron_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:stone_spear
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_dagger
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:chainmail_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:golden_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_spear
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_longsword
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for epicfight:stray_robe
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:iron_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:katana
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_sword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_dagger
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_spear
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for epicfight:stray_hat
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:golden_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:bow
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_spear
+[16:02:35] [Worker-Main-5/INFO]: register armor capability for minecraft:iron_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for turtle_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for shield
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for amethyst_sword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for amethyst_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for amethyst_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for amethyst_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for amethyst_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for ruby_sword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for ruby_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for ruby_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for ruby_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for ruby_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for sapphire_sword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for sapphire_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for sapphire_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for sapphire_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for sapphire_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for topaz_sword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for topaz_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for topaz_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for topaz_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for topaz_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for crystal_sword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for crystal_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for crystal_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for crystal_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for crystal_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for emerald_sword
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for emerald_pickaxe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for emerald_axe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for emerald_shovel
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for emerald_hoe
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for amethyst_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for amethyst_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for amethyst_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for amethyst_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for ruby_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for ruby_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for ruby_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for ruby_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for sapphire_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for sapphire_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for sapphire_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for sapphire_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for topaz_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for topaz_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for topaz_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for topaz_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for crystal_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for crystal_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for crystal_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for crystal_boots
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for emerald_helmet
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for emerald_leggings
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for emerald_chestplate
+[16:02:35] [Worker-Main-5/INFO]: register weapon capability for emerald_boots
+[16:02:37] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[16:02:40] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[16:02:40] [Server thread/INFO]: Loading properties
+[16:02:40] [Server thread/INFO]: Default game type: SURVIVAL
+[16:02:40] [Server thread/INFO]: Generating keypair
+[16:02:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:02:40] [Server thread/INFO]: Using epoll channel type
+[16:02:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:02:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:02:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:02:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:02:40] [Server thread/WARN]: Configuration file ./world/serverconfig/elevatorid-server.toml is not correct. Correcting
+[16:02:40] [Server thread/WARN]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key General.sameColor was corrected from null to its default, false. 
+[16:02:40] [Server thread/WARN]: Incorrect key General.range was corrected from null to its default, 256. 
+[16:02:40] [Server thread/WARN]: Incorrect key General.precisionTarget was corrected from null to its default, true. 
+[16:02:40] [Server thread/WARN]: Incorrect key General.mobSpawn was corrected from null to its default, false. 
+[16:02:40] [Server thread/WARN]: Incorrect key General.resetPitchNormal was corrected from null to its default, false. 
+[16:02:40] [Server thread/WARN]: Incorrect key General.resetPitchDirectional was corrected from null to its default, true. 
+[16:02:40] [Server thread/WARN]: Incorrect key General.useXP was corrected from null to its default, false. 
+[16:02:40] [Server thread/WARN]: Incorrect key General.XPPointsAmount was corrected from null to its default, 1. 
+[16:02:40] [Server thread/WARN]: Configuration file ./world/serverconfig/paraglider-server.toml is not correct. Correcting
+[16:02:40] [Server thread/WARN]: Incorrect key ascendingWinds was corrected from null to its default, true. 
+[16:02:40] [Server thread/WARN]: Incorrect key windSources was corrected from null to its default, [fire, soul_fire, campfire#lit=true, soul_campfire#lit=true]. 
+[16:02:40] [Server thread/WARN]: Incorrect key paraglidingSpeed was corrected from null to its default, 1.0. 
+[16:02:40] [Server thread/WARN]: Incorrect key paragliderDurability was corrected from null to its default, 0. 
+[16:02:40] [Server thread/WARN]: Incorrect key spiritOrbs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key spiritOrbs.enderDragonDropsVessel was corrected from null to its default, true. 
+[16:02:40] [Server thread/WARN]: Incorrect key spiritOrbs.raidGivesVessel was corrected from null to its default, true. 
+[16:02:40] [Server thread/WARN]: Incorrect key vessels was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key vessels.startingHearts was corrected from null to its default, 10. 
+[16:02:40] [Server thread/WARN]: Incorrect key vessels.maxHeartContainers was corrected from null to its default, 20. 
+[16:02:40] [Server thread/WARN]: Incorrect key vessels.maxStamina was corrected from null to its default, 3000. 
+[16:02:40] [Server thread/WARN]: Incorrect key vessels.startingStamina was corrected from null to its default, 1000. 
+[16:02:40] [Server thread/WARN]: Incorrect key vessels.maxStaminaVessels was corrected from null to its default, 10. 
+[16:02:40] [Server thread/WARN]: Incorrect key paragliderInTowersOfTheWild was corrected from null to its default, DEFAULT. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.paraglidingConsumesStamina was corrected from null to its default, true. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.runningAndSwimmingConsumesStamina was corrected from null to its default, false. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions.idleStaminaConsumption was corrected from null to its default, 20. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions.midairStaminaConsumption was corrected from null to its default, 0. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions.runningStaminaConsumption was corrected from null to its default, -10. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions.swimmingStaminaConsumption was corrected from null to its default, -6. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions.underwaterStaminaConsumption was corrected from null to its default, 3. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions.breathingUnderwaterStaminaConsumption was corrected from null to its default, 10. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions.ridingStaminaConsumption was corrected from null to its default, 20. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions.paraglidingStaminaConsumption was corrected from null to its default, -3. 
+[16:02:40] [Server thread/WARN]: Incorrect key stamina.consumptions.ascendingStaminaConsumption was corrected from null to its default, -3. 
+[16:02:40] [Server thread/WARN]: Configuration file ./world/serverconfig/reap-server.toml is not correct. Correcting
+[16:02:40] [Server thread/WARN]: Incorrect key crop_harvesting was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key crop_harvesting.whitelist was corrected from null to its default, [minecraft:nether_wart, minecraft:potatoes, minecraft:carrots, minecraft:wheat, minecraft:beetroots, minecraft:cocoa]. 
+[16:02:40] [Server thread/WARN]: Incorrect key crop_harvesting.consider_tool was corrected from null to its default, true. 
+[16:02:40] [Server thread/WARN]: Incorrect key tree_harvesting was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key tree_harvesting.log_types was corrected from null to its default, [minecraft:acacia_log, minecraft:birch_log, minecraft:dark_oak_log, minecraft:jungle_log, minecraft:oak_log, minecraft:spruce_log, minecraft:crimson_stem, minecraft:warped_stem]. 
+[16:02:40] [Server thread/WARN]: Incorrect key tree_harvesting.ground_types was corrected from null to its default, [minecraft:dirt, minecraft:grass_block, minecraft:coarse_dirt, minecraft:podzol, minecraft:mycelium, minecraft:warped_nylium, minecraft:crimson_nylium, minecraft:netherrack]. 
+[16:02:40] [Server thread/WARN]: Incorrect key tree_harvesting.allowed_tree_tools was corrected from null to its default, [minecraft:wooden_axe, minecraft:golden_axe, minecraft:stone_axe, minecraft:iron_axe, minecraft:diamond_axe, minecraft:netherite_axe]. 
+[16:02:40] [Server thread/WARN]: Incorrect key tree_harvesting.enabled was corrected from null to its default, true. 
+[16:02:40] [Server thread/WARN]: Incorrect key tree_harvesting.dynamic_breaking_speed was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key tree_harvesting.dynamic_breaking_speed.enabled was corrected from null to its default, true. 
+[16:02:40] [Server thread/WARN]: Incorrect key tree_harvesting.dynamic_breaking_speed.min_speed was corrected from null to its default, 10.0. 
+[16:02:40] [Server thread/WARN]: Incorrect key tree_harvesting.dynamic_breaking_speed.per_log was corrected from null to its default, 0.1. 
+[16:02:40] [Server thread/WARN]: Configuration file ./world/serverconfig/extragems-server.toml is not correct. Correcting
+[16:02:40] [Server thread/WARN]: Incorrect key blocks was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key blocks.charged_block_effect_duration was corrected from null to its default, 300. 
+[16:02:40] [Server thread/WARN]: Incorrect key blocks.charged_block_effect_amplifier was corrected from null to its default, 0. 
+[16:02:40] [Server thread/WARN]: Incorrect key gems was corrected from null to its default, SimpleCommentedConfig:{}. 
+[16:02:40] [Server thread/WARN]: Incorrect key gems.amulet_effect_duration was corrected from null to its default, 200. 
+[16:02:40] [Server thread/WARN]: Incorrect key gems.amulet_effect_amplifier was corrected from null to its default, 0. 
+[16:02:40] [Server thread/WARN]: Incorrect key gems.amulet_effect_radius was corrected from null to its default, 3. 
+[16:02:40] [Server thread/WARN]: Incorrect key gems.amulet_effect_cooldown was corrected from null to its default, 600. 
+[16:02:40] [Server thread/WARN]: Incorrect key gems.amulet_max_usages was corrected from null to its default, 100. 
+[16:02:40] [Server thread/WARN]: Incorrect key gems.charging_cost was corrected from null to its default, 15. 
+[16:02:40] [Server thread/INFO]: Preparing level "world"
+[16:02:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:02:41] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[16:02:45] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[16:02:46] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[16:02:46] [Worker-Main-5/INFO]: Preparing spawn area: 1%
+[16:02:48] [Worker-Main-5/INFO]: Preparing spawn area: 21%
+[16:02:48] [Worker-Main-5/INFO]: Preparing spawn area: 21%
+[16:02:48] [Worker-Main-6/INFO]: Preparing spawn area: 23%
+[16:02:48] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[16:02:49] [Worker-Main-4/INFO]: Preparing spawn area: 68%
+[16:02:49] [Worker-Main-6/INFO]: Preparing spawn area: 69%
+[16:02:50] [Worker-Main-5/INFO]: Preparing spawn area: 71%
+[16:02:50] [Worker-Main-6/INFO]: Preparing spawn area: 75%
+[16:02:51] [Worker-Main-5/INFO]: Preparing spawn area: 79%
+[16:02:51] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[16:02:52] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[16:02:52] [Worker-Main-4/INFO]: Preparing spawn area: 83%
+[16:02:53] [Worker-Main-6/INFO]: Preparing spawn area: 85%
+[16:02:53] [Worker-Main-5/INFO]: Preparing spawn area: 87%
+[16:02:54] [Worker-Main-4/INFO]: Preparing spawn area: 89%
+[16:02:54] [Worker-Main-4/INFO]: Preparing spawn area: 91%
+[16:02:55] [Worker-Main-6/INFO]: Preparing spawn area: 93%
+[16:02:55] [Worker-Main-4/INFO]: Preparing spawn area: 95%
+[16:02:56] [Worker-Main-4/INFO]: Preparing spawn area: 97%
+[16:02:56] [Worker-Main-6/INFO]: Preparing spawn area: 99%
+[16:02:56] [Server thread/INFO]: Time elapsed: 16020 ms
+[16:02:56] [Server thread/INFO]: Done (16.345s)! For help, type "help"
+[16:03:28] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3052877c
+[16:03:28] [Server thread/INFO]: Chavelo[/127.23.0.127:42449] logged in with entity id 119 at (55.5, 66.0, 91.5)
+[16:03:28] [Server thread/INFO]: Chavelo joined the game
+[16:03:28] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[16:03:37] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@722fa0f5
+[16:03:37] [Server thread/INFO]: SuperMago[/127.23.0.127:60605] logged in with entity id 279 at (70.5, 71.0, 89.5)
+[16:03:37] [Server thread/INFO]: SuperMago joined the game
+[16:03:37] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[16:04:59] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@231f4c06
+[16:04:59] [Server thread/INFO]: Beelz[/127.23.0.127:42541] logged in with entity id 523 at (56.5, 66.0, 104.5)
+[16:04:59] [Server thread/INFO]: Beelz joined the game
+[16:04:59] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[16:05:15] [Server thread/INFO]: SuperMago is bleeding...
+[16:06:06] [Server thread/INFO]: Made Beelz a server operator
+[16:06:13] [Server thread/INFO]: Chavelo has made the advancement [Stone Age]
+[16:06:13] [Server thread/INFO]: [Beelz: Teleported Beelz to 67.500000, 64.500000, 6.500000]
+[16:06:35] [Server thread/INFO]: Chavelo has made the advancement [Getting an Upgrade]
+[16:06:53] [Server thread/INFO]: [Beelz: Teleported Beelz to 63.500000, 91.500000, 752.500000]
+[16:06:54] [Server thread/INFO]: Beelz is bleeding...
+[16:07:04] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
+[16:07:18] [Server thread/INFO]: SuperMago is bleeding...
+[16:07:26] [Server thread/INFO]: Chavelo is bleeding...
+[16:07:27] [Server thread/INFO]: Beelz is bleeding...
+[16:08:06] [Server thread/INFO]: Chavelo is bleeding...
+[16:09:09] [Server thread/INFO]: SuperMago is bleeding...
+[16:09:21] [Server thread/INFO]: Chavelo is bleeding...
+[16:09:40] [Server thread/INFO]: SuperMago is bleeding...
+[16:09:45] [Server thread/INFO]: Beelz is bleeding...
+[16:09:58] [Server thread/INFO]: Chavelo was slain by Zombie
+[16:10:29] [Server thread/INFO]: Chavelo lost connection: Timed out
+[16:10:29] [Server thread/INFO]: Chavelo left the game
+[16:10:29] [Server thread/WARN]: handleDisconnection() called twice
+[16:10:40] [Server thread/INFO]: SuperMago was slain by Spider
+[16:10:45] [Server thread/INFO]: Beelz was slain by Spider
+[16:10:58] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[16:10:58] [Server thread/INFO]: op Chavelo<--[HERE]
+[16:11:03] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4cb18384
+[16:11:03] [Server thread/INFO]: Chavelo[/127.23.0.127:32949] logged in with entity id 2294 at (138.52136574641264, 69.0, 123.50476474383981)
+[16:11:03] [Server thread/INFO]: Chavelo joined the game
+[16:11:03] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[16:11:04] [Server thread/INFO]: Made SuperMago a server operator
+[16:11:07] [Server thread/INFO]: Chavelo is bleeding...
+[16:11:07] [Server thread/INFO]: SuperMago lost connection: Timed out
+[16:11:07] [Server thread/INFO]: SuperMago left the game
+[16:11:30] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17d10c3f
+[16:11:30] [Server thread/INFO]: SuperMago[/127.23.0.127:58711] logged in with entity id 2436 at (48.30000001192093, 71.92159999847412, 133.31789315793367)
+[16:11:30] [Server thread/INFO]: SuperMago joined the game
+[16:11:30] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[16:11:44] [Server thread/INFO]: Beelz lost connection: Timed out
+[16:11:44] [Server thread/INFO]: Beelz left the game
+[16:11:45] [Server thread/INFO]: SuperMago lost connection: Timed out
+[16:11:45] [Server thread/INFO]: SuperMago left the game
+[16:12:07] [Server thread/INFO]: Chavelo was slain by Zombie
