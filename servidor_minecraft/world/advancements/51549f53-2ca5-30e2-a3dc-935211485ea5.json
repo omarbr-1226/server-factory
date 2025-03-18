@@ -345,7 +345,8 @@
     "criteria": {
       "cooked_porkchop": "2025-03-18 19:35:25 +0000",
       "chicken": "2025-03-18 19:34:05 +0000",
-      "cooked_mutton": "2025-03-18 19:35:36 +0000"
+      "cooked_mutton": "2025-03-18 19:35:36 +0000",
+      "cooked_beef": "2025-03-18 23:51:34 +0000"
     },
     "done": false
   },
@@ -376,6 +377,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-03-18 17:08:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-18 23:49:51 +0000"
     },
     "done": true
   },
@@ -790,6 +797,12 @@
       "minecraft:zombie_villager": "2025-03-18 23:35:31 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-18 23:49:51 +0000"
+    },
+    "done": true
   },
   "mcwroofs:recipes/bricks": {
     "criteria": {

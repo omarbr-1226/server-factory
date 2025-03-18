@@ -465,6 +465,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-03-18 23:49:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-03-18 19:24:19 +0000"
@@ -662,7 +668,8 @@
       "minecraft:skeleton": "2025-03-18 23:24:27 +0000",
       "minecraft:spider": "2025-03-18 23:25:31 +0000",
       "minecraft:enderman": "2025-03-18 23:39:56 +0000",
-      "minecraft:zombie": "2025-03-18 23:35:25 +0000"
+      "minecraft:zombie": "2025-03-18 23:35:25 +0000",
+      "minecraft:zombie_villager": "2025-03-18 23:45:26 +0000"
     },
     "done": false
   },
