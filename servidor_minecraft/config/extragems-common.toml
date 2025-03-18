@@ -1,16 +1,8 @@
 
 #World
 [world]
-	#Enable or disable the dungeon loot generator
-	loot_generator = true
 	#Enable normal ore variants generation in the stone layers
 	stone_ore_generation = true
-	#Enable ore variants generation in the deepslate layers
-	deepslate_ore_generation = true
-	#Enable or disable the ruby ore generation in your world
-	ruby_ore_generation = true
-	#Enable or disable the sapphire ore generation in your world
-	sapphire_ore_generation = true
 	#Enable or disable the topaz ore generation in your world
 	topaz_ore_generation = true
 	#Enable or disable the crystal ore generation in your world
@@ -18,7 +10,15 @@
 	#Change the rarity of regular ores
 	#Range: 1 ~ 100
 	ore_rarity = 5
+	#Enable or disable the dungeon loot generator
+	loot_generator = true
+	#Enable or disable the sapphire ore generation in your world
+	sapphire_ore_generation = true
+	#Enable or disable the ruby ore generation in your world
+	ruby_ore_generation = true
 	#Change the rarity of deepslate ores
 	#Range: 1 ~ 100
 	deepslate_ore_rarity = 3
+	#Enable ore variants generation in the deepslate layers
+	deepslate_ore_generation = true
 

@@ -65,15 +65,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lime_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-03-18 16:10:17 +0000"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/stone": {
     "criteria": {
       "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-18 16:10:17 +0000"
     },
     "done": true
   },
@@ -101,15 +101,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magenta_wool": {
-    "criteria": {
-      "has_white_wool": "2025-03-18 16:06:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-18 16:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-18 16:06:59 +0000"
     },
     "done": true
   },
@@ -137,15 +137,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-03-18 16:10:17 +0000"
-    },
-    "done": true
-  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-03-18 16:10:17 +0000"
     },
     "done": true
   },
@@ -305,15 +305,15 @@
     },
     "done": true
   },
-  "paraglider:recipes/paraglider/paraglider": {
-    "criteria": {
-      "has_stick": "2025-03-18 16:05:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-18 16:05:36 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2025-03-18 16:05:55 +0000"
     },
     "done": true
   },
@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/crimson_planks": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-18 16:10:17 +0000"
@@ -338,12 +344,6 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-18 16:10:17 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/crimson_planks": {
-    "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
     },
     "done": true
   },
@@ -505,15 +505,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-03-18 16:06:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-03-18 16:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-03-18 16:06:13 +0000"
     },
     "done": true
   },
@@ -631,15 +631,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2025-03-18 16:06:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-03-18 16:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-18 16:06:59 +0000"
     },
     "done": true
   },
