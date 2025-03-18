@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-03-17 21:23:37 +0000"
@@ -435,6 +441,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-03-18 00:32:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:28:12 +0000"
     },
     "done": true
   },
@@ -822,6 +834,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-17 21:35:47 +0000"
@@ -895,7 +913,8 @@
       "minecraft:creeper": "2025-03-18 01:49:37 +0000",
       "minecraft:witch": "2025-03-18 01:30:46 +0000",
       "minecraft:enderman": "2025-03-17 22:10:05 +0000",
-      "minecraft:zombie": "2025-03-17 22:10:59 +0000"
+      "minecraft:zombie": "2025-03-17 22:10:59 +0000",
+      "minecraft:drowned": "2025-03-18 03:32:17 +0000"
     },
     "done": false
   },
@@ -1013,6 +1032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:28:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-17 22:02:38 +0000"
@@ -1088,6 +1113,12 @@
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-03-17 23:02:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:28:12 +0000"
     },
     "done": true
   },
@@ -1256,6 +1287,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-03-17 23:35:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:28:12 +0000"
     },
     "done": true
   },
@@ -1478,6 +1515,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-03-17 21:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:28:12 +0000"
     },
     "done": true
   },
@@ -1729,6 +1772,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-03-18 03:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-03-17 21:15:25 +0000"
@@ -1786,6 +1835,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-03-18 01:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:28:12 +0000"
     },
     "done": true
   },
@@ -1852,6 +1907,12 @@
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2025-03-17 21:15:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 03:28:12 +0000"
     },
     "done": true
   },
