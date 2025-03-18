@@ -59,3 +59,7 @@
 [03:56:19] [Server thread/INFO]: <Beelz> adolfmir
 [04:06:35] [Server thread/INFO]: SuperMago lost connection: Disconnected
 [04:06:35] [Server thread/INFO]: SuperMago left the game
+[04:15:11] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7eafad66
+[04:15:11] [Server thread/INFO]: SuperMago[/127.221.163.188:53349] logged in with entity id 75217 at (94.19162974360287, 63.0, 29.583304171185933)
+[04:15:11] [Server thread/INFO]: SuperMago joined the game
+[04:15:11] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
