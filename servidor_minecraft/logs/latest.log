@@ -253,3 +253,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22:49:19] [Worker-Main-5/INFO]: Preparing spawn area: 88%
 [22:49:19] [Server thread/INFO]: Time elapsed: 9635 ms
 [22:49:19] [Server thread/INFO]: Done (9.952s)! For help, type "help"
+[23:08:32] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@565fbc3e
+[23:08:32] [Server thread/INFO]: SuperMago[/127.215.231.242:46343] logged in with entity id 219 at (112.37619640832159, 80.0, -11.311650008537224)
+[23:08:32] [Server thread/INFO]: SuperMago joined the game
+[23:08:32] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
