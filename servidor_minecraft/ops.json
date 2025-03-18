@@ -12,8 +12,26 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "f527ff97-f9ff-3405-979e-8b046a00da6a",
+    "name": "marco",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "51549f53-2ca5-30e2-a3dc-935211485ea5",
+    "name": "Anterux",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "7ee6f4b5-1466-3505-9c47-c7518e9f4f53",
     "name": "Beelz",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "e0b0bebe-40f6-30df-97c6-b6a1636c3cd3",
+    "name": "Chavelo",
     "level": 4,
     "bypassesPlayerLimit": false
   }

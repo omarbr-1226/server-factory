@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-03-18 19:22:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2025-03-18 16:04:38 +0000"
@@ -24,12 +30,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/black_wool": {
-    "criteria": {
-      "has_white_wool": "2025-03-18 16:04:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-03-18 16:04:38 +0000"
     },
@@ -77,31 +77,11 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/acacia": {
-    "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/hellbark_boat": {
-    "criteria": {
-      "in_water": "2025-03-18 17:01:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-03-18 16:04:38 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2025-03-18 16:08:18 +0000",
-      "minecraft:desert": "2025-03-18 16:06:42 +0000",
-      "minecraft:plains": "2025-03-18 16:03:37 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
@@ -109,15 +89,21 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/gutters": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
+      "has_the_recipe": "2025-03-18 19:22:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_wool": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "has_white_wool": "2025-03-18 16:04:38 +0000"
+      "has_stick": "2025-03-18 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/gutters": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
     },
     "done": true
   },
@@ -139,21 +125,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "consumed_item": "2025-03-18 16:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2025-03-18 17:01:43 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/acacia_planks": {
-    "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
+      "has_stick": "2025-03-18 19:22:57 +0000"
     },
     "done": true
   },
@@ -175,33 +149,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_obsidian": "2025-03-18 17:01:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2025-03-18 17:01:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-03-18 17:01:07 +0000"
+      "has_stick": "2025-03-18 19:22:57 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-03-18 16:04:38 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/concrete": {
-    "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
     },
     "done": true
   },
@@ -223,15 +179,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "killed_something": "2025-03-18 16:04:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-03-18 17:01:43 +0000"
+      "has_planks": "2025-03-18 19:22:55 +0000"
     },
     "done": true
   },
@@ -265,31 +215,19 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/spruce_planks": {
+  "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
+      "has_stick": "2025-03-18 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-18 19:21:34 +0000"
     },
     "done": true
   },
   "mcwroofs:recipes/warped": {
-    "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-03-18 17:01:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2025-03-18 16:04:38 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/andesite": {
     "criteria": {
       "has_planks": "2025-03-18 16:04:27 +0000"
     },
@@ -313,27 +251,299 @@
     },
     "done": false
   },
-  "mcwroofs:recipes/bricks": {
-    "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-03-18 17:01:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
+  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_flint": "2025-03-18 17:01:29 +0000"
+      "has_stick": "2025-03-18 19:22:57 +0000"
     },
     "done": true
   },
   "mcwroofs:recipes/jungle_planks": {
     "criteria": {
       "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-18 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-03-18 19:22:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/crimson": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-18 19:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-03-18 19:22:49 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2025-03-18 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-03-18 16:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2025-03-18 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/crimson_planks": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-18 16:04:38 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/dark_oak_planks": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-18 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-18 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-03-18 17:01:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-18 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-18 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-18 16:04:38 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2025-03-18 16:08:18 +0000",
+      "minecraft:desert": "2025-03-18 16:06:42 +0000",
+      "minecraft:plains": "2025-03-18 16:03:37 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-18 19:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-18 16:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-03-18 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-18 16:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/acacia_planks": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-18 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-03-18 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-18 17:01:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-18 17:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-18 19:22:55 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-18 16:04:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/spruce_planks": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-03-18 16:04:38 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/andesite": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-18 19:22:08 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bricks": {
+    "criteria": {
+      "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-03-18 17:01:29 +0000"
     },
     "done": true
   },
@@ -373,21 +583,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/magic_boat": {
+  "minecraft:recipes/decorations/chain": {
     "criteria": {
-      "in_water": "2025-03-18 17:01:43 +0000"
+      "has_iron_nugget": "2025-03-18 17:01:07 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-03-18 17:01:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_nugget": "2025-03-18 17:01:07 +0000"
     },
     "done": true
   },
@@ -403,12 +607,6 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/crimson": {
-    "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-03-18 16:04:38 +0000"
@@ -421,9 +619,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
+  "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
-      "has_white_wool": "2025-03-18 16:04:38 +0000"
+      "has_planks": "2025-03-18 19:22:55 +0000"
     },
     "done": true
   },
@@ -433,9 +631,15 @@
     },
     "done": true
   },
-  "mcwroofs:recipes/crimson_planks": {
+  "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
+      "has_stick": "2025-03-18 19:22:57 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-03-18 19:22:49 +0000"
     },
     "done": true
   },
@@ -451,45 +655,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2025-03-18 16:04:38 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2025-03-18 17:01:43 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/dark_oak_planks": {
-    "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-03-18 16:04:38 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
+  "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
-      "in_water": "2025-03-18 17:01:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-03-18 17:01:27 +0000"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/birch": {
-    "criteria": {
-      "has_planks": "2025-03-18 16:04:27 +0000"
+      "has_planks": "2025-03-18 19:22:55 +0000"
     },
     "done": true
   },
