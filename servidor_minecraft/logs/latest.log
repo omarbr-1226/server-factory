@@ -282,3 +282,34 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17:44:02] [Server thread/INFO]: Beelz left the game
 [17:44:12] [Server thread/INFO]: ANGEL lost connection: Disconnected
 [17:44:12] [Server thread/INFO]: ANGEL left the game
+[17:53:18] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7046d3ed
+[17:53:18] [Server thread/INFO]: Chavelo[/127.23.0.127:45243] logged in with entity id 646 at (138.30000001192093, 68.0, 124.73768011058053)
+[17:53:18] [Server thread/INFO]: Chavelo joined the game
+[17:53:18] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[17:53:33] [Server thread/INFO]: Chavelo lost connection: Timed out
+[17:53:33] [Server thread/INFO]: Chavelo left the game
+[17:53:33] [Server thread/WARN]: handleDisconnection() called twice
+[17:53:56] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1e1c10e4
+[17:53:56] [Server thread/INFO]: Chavelo[/127.23.0.127:59359] logged in with entity id 728 at (138.30000001192093, 68.0, 124.73768011058053)
+[17:53:56] [Server thread/INFO]: Chavelo joined the game
+[17:53:56] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[17:54:11] [Server thread/INFO]: Chavelo lost connection: Timed out
+[17:54:11] [Server thread/INFO]: Chavelo left the game
+[18:01:51] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5c6d6ff1
+[18:01:51] [Server thread/INFO]: Chavelo[/127.23.0.127:35297] logged in with entity id 780 at (138.30000001192093, 68.0, 124.73768011058053)
+[18:01:51] [Server thread/INFO]: Chavelo joined the game
+[18:01:51] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[18:02:06] [Server thread/INFO]: Chavelo lost connection: Timed out
+[18:02:06] [Server thread/INFO]: Chavelo left the game
+[18:02:56] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4403060e
+[18:02:56] [Server thread/INFO]: Chavelo[/127.23.0.127:43303] logged in with entity id 838 at (138.30000001192093, 68.0, 124.73768011058053)
+[18:02:56] [Server thread/INFO]: Chavelo joined the game
+[18:02:56] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[18:03:11] [Server thread/INFO]: Chavelo lost connection: Timed out
+[18:03:11] [Server thread/INFO]: Chavelo left the game
+[18:04:32] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4407a2ac
+[18:04:32] [Server thread/INFO]: Chavelo[/127.23.0.127:36797] logged in with entity id 892 at (138.30000001192093, 68.0, 124.73768011058053)
+[18:04:32] [Server thread/INFO]: Chavelo joined the game
+[18:04:32] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[18:04:47] [Server thread/INFO]: Chavelo lost connection: Timed out
+[18:04:47] [Server thread/INFO]: Chavelo left the game
