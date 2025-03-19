@@ -322,3 +322,37 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [03:29:51] [Server thread/INFO]: marco[/127.106.95.209:45545] logged in with entity id 90312 at (-33.30000001192093, 11.0, 38.22895756239076)
 [03:29:51] [Server thread/INFO]: marco joined the game
 [03:29:51] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
+[03:32:49] [Server thread/INFO]: marco is bleeding...
+[03:32:58] [Server thread/INFO]: <marco> fack
+[03:33:03] [Server thread/INFO]: <Chavelo> voy
+[03:33:11] [Server thread/INFO]: [Chavelo: Teleported Chavelo to marco]
+[03:33:25] [Server thread/INFO]: Chavelo is bleeding...
+[03:33:32] [Server thread/INFO]: <marco> hay un buen
+[03:33:43] [Server thread/INFO]: Created new backpack backup file for Chavelo with unique ID ceb102c2-b28b-48b6-a9c8-cc9da52d3d10
+[03:33:43] [Server thread/INFO]: Your backpack has been placed at X: -46 Y: 14 Z: 42
+[03:33:43] [Server thread/INFO]: Chavelo was shot by Skeleton
+[03:33:49] [Server thread/INFO]: marco was slain by Zombie
+[03:34:01] [Server thread/INFO]: [Chavelo: Teleported Chavelo to -46.500000, 14.500000, 43.500000]
+[03:34:13] [Server thread/INFO]: [marco: Teleported marco to Chavelo]
+[03:34:21] [Server thread/INFO]: marco lost connection: Timed out
+[03:34:21] [Server thread/INFO]: marco left the game
+[03:34:49] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b4eb6be
+[03:34:49] [Server thread/INFO]: marco[/127.106.95.209:58189] logged in with entity id 92630 at (-52.0721838345136, 15.0, 37.17416688024628)
+[03:34:49] [Server thread/INFO]: marco joined the game
+[03:34:49] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
+[03:35:04] [Server thread/INFO]: marco lost connection: Timed out
+[03:35:04] [Server thread/INFO]: marco left the game
+[03:35:32] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@361a90b9
+[03:35:32] [Server thread/INFO]: marco[/127.106.95.209:41141] logged in with entity id 92768 at (-52.0721838345136, 15.0, 37.17416688024628)
+[03:35:32] [Server thread/INFO]: marco joined the game
+[03:35:32] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
+[03:35:50] [Server thread/INFO]: <Chavelo> si te falta algo me avisas ajaajja
+[03:36:14] [Server thread/INFO]: <marco> me devielves mi hierro
+[03:36:33] [Server thread/INFO]: <Chavelo> ya te lo di jaajjaja
+[03:36:43] [Server thread/INFO]: <marco> sisisi
+[03:37:05] [Server thread/INFO]: <marco> en que cordenada se encuantra diamante en esta vercion ?
+[03:37:17] [Server thread/INFO]: marco lost connection: Timed out
+[03:37:17] [Server thread/INFO]: marco left the game
+[03:37:21] [Server thread/INFO]: <Chavelo> en la misma q antes
+[03:37:42] [Server thread/INFO]: [Chavelo: Teleported Chavelo to SuperMago]
+[03:40:46] [Server thread/INFO]: <Chavelo> zzzzzzzzzz
