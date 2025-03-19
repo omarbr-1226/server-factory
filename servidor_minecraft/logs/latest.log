@@ -952,3 +952,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16:07:36] [Server thread/INFO]: [Anterux: Teleported Anterux to marco]
 [16:08:11] [Server thread/INFO]: Anterux lost connection: Disconnected
 [16:08:11] [Server thread/INFO]: Anterux left the game
+[16:22:42] [Server thread/INFO]: ANGEL lost connection: Disconnected
+[16:22:42] [Server thread/INFO]: ANGEL left the game
+[16:29:27] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f4d80c5
+[16:29:27] [Server thread/INFO]: Chavelo[/127.23.0.127:41635] logged in with entity id 14343 at (177.7628246573324, 71.0, 103.29650695198421)
+[16:29:27] [Server thread/INFO]: Chavelo joined the game
+[16:29:27] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
