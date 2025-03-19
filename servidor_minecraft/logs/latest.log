@@ -365,3 +365,12 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [04:16:24] [Server thread/INFO]: Beelz[/127.177.222.21:33439] logged in with entity id 100734 at (162.89169929002458, 64.0, 78.23750001192093)
 [04:16:24] [Server thread/INFO]: Beelz joined the game
 [04:16:24] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[04:30:44] [Server thread/INFO]: [Chavelo: Teleported Chavelo to -909.500000, 70.500000, 1238.500000]
+[04:32:17] [Server thread/INFO]: [Chavelo: Teleported Chavelo to 138.500000, -6215.500000, 125.500000]
+[04:32:19] [Server thread/INFO]: Chavelo is bleeding...
+[04:32:21] [Server thread/WARN]: Chavelo was kicked for floating too long!
+[04:32:21] [Server thread/INFO]: Chavelo lost connection: Flying is not enabled on this server
+[04:32:21] [Server thread/INFO]: Chavelo left the game
+[04:32:21] [Server thread/INFO]: Created new backpack backup file for Chavelo with unique ID aa7ca444-133b-495f-a08d-e091a4259e9d
+[04:32:21] [Server thread/INFO]: There's no space for backpack. Dropping backpack item at X: 138 Y: 69 Z: 125
+[04:32:21] [Server thread/INFO]: Chavelo fell out of the world

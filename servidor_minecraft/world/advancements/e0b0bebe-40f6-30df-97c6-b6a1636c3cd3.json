@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-19 04:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-18 16:04:54 +0000"
@@ -319,6 +325,7 @@
       "porkchop": "2025-03-18 19:36:59 +0000",
       "apple": "2025-03-18 19:28:41 +0000",
       "mutton": "2025-03-18 16:07:09 +0000",
+      "bread": "2025-03-19 04:29:11 +0000",
       "rotten_flesh": "2025-03-18 19:26:38 +0000"
     },
     "done": false
@@ -1554,6 +1561,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-19 03:09:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-19 04:25:41 +0000"
     },
     "done": true
   },
