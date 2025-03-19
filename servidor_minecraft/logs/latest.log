@@ -277,3 +277,32 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [03:00:35] [Server thread/INFO]: marco[/127.106.95.209:43281] logged in with entity id 78427 at (-71.64737742825012, 56.0, 36.097144043566374)
 [03:00:35] [Server thread/INFO]: marco joined the game
 [03:00:35] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
+[03:01:18] [Server thread/INFO]: Chavelo was slain by Vindicator
+[03:01:36] [Server thread/INFO]: [Chavelo: Teleported Chavelo to -781.500000, 69.500000, 946.500000]
+[03:02:06] [Server thread/INFO]: Beelz is bleeding...
+[03:02:38] [Server thread/INFO]: <Beelz> OCRAM
+[03:03:08] [Server thread/INFO]: <Beelz> OTUP OCRAM
+[03:03:22] [Server thread/INFO]: <Beelz> OCRAM OTUP
+[03:03:48] [Server thread/INFO]: marco is bleeding...
+[03:04:01] [Server thread/INFO]: [SuperMago: Teleported SuperMago to marco]
+[03:04:05] [Server thread/INFO]: <marco> el maldito lag
+[03:04:13] [Server thread/INFO]: <Beelz> AY AJAA
+[03:04:23] [Server thread/INFO]: <marco> gracias
+[03:04:28] [Server thread/INFO]: <Beelz> de nada
+[03:04:28] [Server thread/INFO]: <SuperMago> besame los pies
+[03:04:34] [Server thread/INFO]: <SuperMago> cerda
+[03:04:48] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
+[03:06:39] [Server thread/INFO]: marco has made the advancement [Not Today, Thank You]
+[03:07:06] [Server thread/INFO]: marco lost connection: Timed out
+[03:07:06] [Server thread/INFO]: marco left the game
+[03:07:20] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@213b328
+[03:07:20] [Server thread/INFO]: marco[/127.106.95.209:57377] logged in with entity id 81871 at (-45.7891694676258, 11.0, 61.564683892139016)
+[03:07:20] [Server thread/INFO]: marco joined the game
+[03:07:20] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
+[03:07:38] [Server thread/INFO]: SuperMago is bleeding...
+[03:08:52] [Server thread/INFO]: Chavelo has made the advancement [Sweet Dreams]
+[03:08:53] [Server thread/INFO]: [Beelz: Teleported Beelz to Chavelo]
+[03:09:13] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
+[03:09:51] [Server thread/INFO]: <Beelz> adolfmir
+[03:10:26] [Server thread/INFO]: [Beelz: Set the time to 1000]
+[03:10:48] [Server thread/INFO]: Beelz is bleeding...
