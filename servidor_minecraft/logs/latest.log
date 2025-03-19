@@ -360,3 +360,8 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [03:54:01] [Server thread/INFO]: [Chavelo: Set the time to 1000]
 [03:54:29] [Server thread/INFO]: Chavelo has made the advancement [A Seedy Place]
 [04:05:02] [Server thread/INFO]: [Chavelo: Set the time to 1000]
+[04:12:19] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=138, y=70, z=119} BlockPos{x=138, y=69, z=118}
+[04:16:24] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@404821fa
+[04:16:24] [Server thread/INFO]: Beelz[/127.177.222.21:33439] logged in with entity id 100734 at (162.89169929002458, 64.0, 78.23750001192093)
+[04:16:24] [Server thread/INFO]: Beelz joined the game
+[04:16:24] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
