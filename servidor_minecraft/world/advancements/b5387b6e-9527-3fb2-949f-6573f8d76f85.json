@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-19 00:15:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-03-18 19:24:19 +0000"
@@ -98,6 +104,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-18 19:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-19 00:15:25 +0000"
     },
     "done": true
   },
@@ -287,7 +299,9 @@
       "cooked_mutton": "2025-03-18 19:36:05 +0000",
       "porkchop": "2025-03-18 23:43:04 +0000",
       "apple": "2025-03-18 23:12:48 +0000",
-      "mutton": "2025-03-18 16:09:10 +0000"
+      "mutton": "2025-03-18 16:09:10 +0000",
+      "cooked_rabbit": "2025-03-19 00:15:34 +0000",
+      "cooked_chicken": "2025-03-19 00:11:03 +0000"
     },
     "done": false
   },
@@ -880,6 +894,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-03-18 19:27:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-03-19 00:15:25 +0000"
     },
     "done": true
   },

@@ -2,3 +2,15 @@
 [00:08:24] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
 [00:08:34] [Server thread/INFO]: [Beelz: Teleported Beelz to Anterux]
 [00:08:45] [Server thread/INFO]: <Beelz> kenkiu
+[00:09:14] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
+[00:10:56] [Server thread/INFO]: <Beelz> kenkiu
+[00:12:05] [Server thread/INFO]: [Beelz: Teleported Beelz to 162.500000, 64.500000, 70.500000]
+[00:12:22] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
+[00:12:48] [Server thread/INFO]: SuperMago is bleeding...
+[00:14:08] [Server thread/INFO]: Beelz has made the advancement [A Seedy Place]
+[00:18:36] [Server thread/INFO]: SuperMago lost connection: Disconnected
+[00:18:36] [Server thread/INFO]: SuperMago left the game
+[00:19:01] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cb3c644
+[00:19:01] [Server thread/INFO]: SuperMago[/127.221.163.188:57681] logged in with entity id 15503 at (162.0777758164744, 66.0, 106.69999998807907)
+[00:19:01] [Server thread/INFO]: SuperMago joined the game
+[00:19:01] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
