@@ -1,249 +1,50 @@
-[15:49:40] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
-[15:49:40] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
-[15:49:40] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
-[15:49:40] [main/INFO]: Found mod file alexsmobs-1.14.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file BiomesOPlenty-1.17.1-14.0.0.43-universal.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file citadel-1.9.5-1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file collective-1.17.1-4.25.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file controllable-0.15.0-1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file CreativeCore_v2.3.0_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file dungeons_enhanced-1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file elevatorid-1.17.1-1.8.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file EpicFight-17.1.13-beta.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file ExtraGems-1.17-(v.2.0.5).jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file goblintraders-1.6.3-1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file gravestone-1.17.1-1.0.4.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file Jade-1.17.1-3.3.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file mcw-bridges-2.0.3-mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file mcw-roofs-2.1.1-mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file musketmod-1.17.1-forge-1.4.3.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file Paraglider-1.17.1-1.4.0.5.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file PlayerRevive_v2.0.0-pre04_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file reap-1.17.1-1.0.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file stackrefill_1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file structure_gel-1.17.1-2.0.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file TravelersBackpack-1.17.1-6.0.43.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file XaerosWorldMap_1.37.8_Forge_1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
-[15:49:40] [main/INFO]: Found mod file fmlcore-1.17.1-37.1.1.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[15:49:40] [main/INFO]: Found mod file javafmllanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[15:49:40] [main/INFO]: Found mod file mclanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[15:49:40] [main/INFO]: Found mod file server-1.17.1-20210706.113038-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[15:49:40] [main/INFO]: Found mod file forge-1.17.1-37.1.1-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
-[15:49:42] [main/INFO]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[15:49:42] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
-[15:49:45] [main/WARN]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
-[15:49:45] [main/WARN]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
-[15:49:49] [modloading-worker-0/INFO]: Configuration has been loaded
-[15:49:49] [modloading-worker-0/INFO]: Forge mod loading, version 37.1.1, for MC 1.17.1 with MCP 20210706.113038
-[15:49:49] [modloading-worker-0/INFO]: MinecraftForge v37.1.1 Initialized
-[15:49:49] [modloading-worker-0/INFO]: Load Configuration File
-[15:49:49] [modloading-worker-0/INFO]: Load Configuration File
-[15:49:53] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:53] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[15:49:54] [main/INFO]: Dungeons Enhanced structures loaded
-[15:49:54] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/goblintraders-common.toml is not correct. Correcting
-[15:49:54] [main/WARN]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15:49:54] [main/WARN]: Incorrect key common.goblin_trader was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15:49:54] [main/WARN]: Incorrect key common.goblin_trader.traderSpawnChance was corrected from null to its default, 25. 
-[15:49:54] [main/WARN]: Incorrect key common.goblin_trader.traderSpawnDelay was corrected from null to its default, 24000. 
-[15:49:54] [main/WARN]: Incorrect key common.goblin_trader.traderMinSpawnLevel was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key common.goblin_trader.traderMaxSpawnLevel was corrected from null to its default, 63. 
-[15:49:54] [main/WARN]: Incorrect key common.goblin_trader.restockDelay was corrected from null to its default, 48000. 
-[15:49:54] [main/WARN]: Incorrect key common.goblin_trader.canAttackBack was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key common.vein_goblin_trader was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15:49:54] [main/WARN]: Incorrect key common.vein_goblin_trader.traderSpawnChance was corrected from null to its default, 25. 
-[15:49:54] [main/WARN]: Incorrect key common.vein_goblin_trader.traderSpawnDelay was corrected from null to its default, 24000. 
-[15:49:54] [main/WARN]: Incorrect key common.vein_goblin_trader.traderMinSpawnLevel was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key common.vein_goblin_trader.traderMaxSpawnLevel was corrected from null to its default, 128. 
-[15:49:54] [main/WARN]: Incorrect key common.vein_goblin_trader.restockDelay was corrected from null to its default, 48000. 
-[15:49:54] [main/WARN]: Incorrect key common.vein_goblin_trader.canAttackBack was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key common.preventDespawnIfNamed was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/collective-common.toml is not correct. Correcting
-[15:49:54] [main/WARN]: Incorrect key Collective was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15:49:54] [main/WARN]: Incorrect key Collective.transferItemsBetweenReplacedEntities was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key Collective.loopsAmountUsedToGetAllEntityDrops was corrected from null to its default, 100. 
-[15:49:54] [main/WARN]: Incorrect key Collective.findABlockcheckAroundEntitiesDelayMs was corrected from null to its default, 30000. 
-[15:49:54] [main/WARN]: Incorrect key Collective.enableAntiRepostingCheck was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key Collective.enablePatronPets was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/citadel-common.toml is not correct. Correcting
-[15:49:54] [main/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15:49:54] [main/WARN]: Incorrect key general.Track Entities was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.chunkGenSpawnModifier was corrected from null to its default, 1.0. 
-[15:49:54] [main/WARN]: Configuration file /workspaces/server-factory/servidor_minecraft/config/alexsmobs.toml is not correct. Correcting
-[15:49:54] [main/WARN]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15:49:54] [main/WARN]: Incorrect key general.giveBookOnStartup was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.lavaVisionOpacity was corrected from null to its default, 0.65. 
-[15:49:54] [main/WARN]: Incorrect key general.shadersCompat was corrected from null to its default, false. 
-[15:49:54] [main/WARN]: Incorrect key general.bananasDropFromLeaves was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.bananaChance was corrected from null to its default, 200. 
-[15:49:54] [main/WARN]: Incorrect key general.spidersAttackFlies was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.wolvesAttackMoose was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.polarBearsAttackSeals was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.lavaBottleEnabled was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.neutralBoneSerpents was corrected from null to its default, false. 
-[15:49:54] [main/WARN]: Incorrect key general.caveCentipedeSpawnHeight was corrected from null to its default, 30. 
-[15:49:54] [main/WARN]: Incorrect key general.blobfishSpawnHeight was corrected from null to its default, 38. 
-[15:49:54] [main/WARN]: Incorrect key general.mimicubeSpawnInEndCity was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.mimicreamRepair was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.mimicreamBlacklist was corrected from null to its default, [alexsmobs:blood_sprayer, alexsmobs:hemolymph_blaster]. 
-[15:49:54] [main/WARN]: Incorrect key general.raccoonStealFromChests was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.fishOilMeme was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.soulVultureSpawnOnFossil was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.acaciaBlossomsDropFromLeaves was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.wanderingTraderOffers was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.mungusBiomeTransformationType was corrected from null to its default, 2. 
-[15:49:54] [main/WARN]: Incorrect key general.mungusBiomeMatches was corrected from null to its default, [minecraft:red_mushroom|minecraft:mushroom_fields|minecraft:mycelium, minecraft:brown_mushroom|minecraft:mushroom_fields|minecraft:mycelium, minecraft:crimson_fungus|minecraft:crimson_forest|minecraft:crimson_nylium, minecraft:warped_fungus|minecraft:warped_forest|minecraft:warped_nylium]. 
-[15:49:54] [main/WARN]: Incorrect key general.limitGusterSpawnsToWeather was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.warpedMoscoTransformation was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.warpedMoscoMobTriggers was corrected from null to its default, []. 
-[15:49:54] [main/WARN]: Incorrect key general.straddleboardEnchants was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.emuTargetSkeletons was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.emuPantsDodgeChance was corrected from null to its default, 0.45. 
-[15:49:54] [main/WARN]: Incorrect key general.cachalotVolume was corrected from null to its default, 3.0. 
-[15:49:54] [main/WARN]: Incorrect key general.leafcutterAntFungusGrowChance was corrected from null to its default, 0.3. 
-[15:49:54] [main/WARN]: Incorrect key general.leafcutterAntRepopulateFeedings was corrected from null to its default, 25. 
-[15:49:54] [main/WARN]: Incorrect key general.leafcutterAntColonySize was corrected from null to its default, 20. 
-[15:49:54] [main/WARN]: Incorrect key general.leafcutterAntBreakLeavesChance was corrected from null to its default, 0.2. 
-[15:49:54] [main/WARN]: Incorrect key general.falconryTeleportsBack was corrected from null to its default, false. 
-[15:49:54] [main/WARN]: Incorrect key general.fireproofTarantulaHawk was corrected from null to its default, false. 
-[15:49:54] [main/WARN]: Incorrect key general.voidWormSpawnDimensions was corrected from null to its default, [minecraft:the_end]. 
-[15:49:54] [main/WARN]: Incorrect key general.voidWormDamageModifier was corrected from null to its default, 1.0. 
-[15:49:54] [main/WARN]: Incorrect key general.voidWormMaxHealth was corrected from null to its default, 160.0. 
-[15:49:54] [main/WARN]: Incorrect key general.voidWormSummonable was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.seagullStealing was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.seagullStealingBlacklist was corrected from null to its default, []. 
-[15:49:54] [main/WARN]: Incorrect key general.clingingFlipEffect was corrected from null to its default, false. 
-[15:49:54] [main/WARN]: Incorrect key general.tusklinShoesBarteringChance was corrected from null to its default, 0.02500000037252903. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.grizzlyBearSpawnWeight was corrected from null to its default, 8. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.grizzlyBearSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.roadrunnerSpawnWeight was corrected from null to its default, 9. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.roadrunnerSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.boneSerpentSpawnWeight was corrected from null to its default, 8. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.boneSeprentSpawnRolls was corrected from null to its default, 40. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.gazelleSpawnWeight was corrected from null to its default, 40. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.gazelleSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.crocodileSpawnWeight was corrected from null to its default, 40. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.crocSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.flySpawnWeight was corrected from null to its default, 3. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.flySpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.hummingbirdSpawnWeight was corrected from null to its default, 39. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.hummingbirdSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.orcaSpawnWeight was corrected from null to its default, 2. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.orcaSpawnRolls was corrected from null to its default, 6. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.sunbirdSpawnWeight was corrected from null to its default, 2. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.sunbirdSpawnRolls was corrected from null to its default, 15. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.gorillaSpawnWeight was corrected from null to its default, 50. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.gorillaSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.crimsonMosquitoSpawnWeight was corrected from null to its default, 15. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.crimsonMosquitoSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.rattlesnakeSpawnWeight was corrected from null to its default, 12. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.rattlesnakeSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.endergradeSpawnWeight was corrected from null to its default, 10. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.endergradeSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.hammerheadSharkSpawnWeight was corrected from null to its default, 8. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.hammerheadSharkSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.lobsterSpawnWeight was corrected from null to its default, 7. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.lobsterSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.komodoDragonSpawnWeight was corrected from null to its default, 4. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.komodoDragonSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.capuchinMonkeySpawnWeight was corrected from null to its default, 55. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.capuchinMonkeySpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.caveCentipedeSpawnWeight was corrected from null to its default, 8. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.caveCentipedeSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.warpedToadSpawnWeight was corrected from null to its default, 80. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.warpedToadSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mooseSpawnWeight was corrected from null to its default, 9. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mooseSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mimicubeSpawnWeight was corrected from null to its default, 40. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mimicubeSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.raccoonSpawnWeight was corrected from null to its default, 10. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.raccoonSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.blobfishSpawnWeight was corrected from null to its default, 30. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.blobfishSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.sealSpawnWeight was corrected from null to its default, 30. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.sealSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.cockroachSpawnWeight was corrected from null to its default, 4. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.cockroachSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.shoebillSpawnWeight was corrected from null to its default, 10. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.shoebillSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.elephantSpawnWeight was corrected from null to its default, 30. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.elephantSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.soulVultureSpawnWeight was corrected from null to its default, 30. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.soulVultureSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.snowLeopardSpawnWeight was corrected from null to its default, 20. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.snowLeopardSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.spectreSpawnWeight was corrected from null to its default, 10. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.spectreSpawnRolls was corrected from null to its default, 5. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.crowSpawnWeight was corrected from null to its default, 10. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.crowSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.alligatorSnappingTurtleSpawnWeight was corrected from null to its default, 20. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.alligatorSnappingTurtleSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mungusSpawnWeight was corrected from null to its default, 4. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mungusSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mantisShrimpSpawnWeight was corrected from null to its default, 15. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mantisShrimpSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.gusterSpawnWeight was corrected from null to its default, 35. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.gusterSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.warpedMoscoSpawnWeight was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.warpedMoscoSpawnRolls was corrected from null to its default, 1000. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.straddlerSpawnWeight was corrected from null to its default, 85. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.straddlerSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.stradpoleSpawnWeight was corrected from null to its default, 10. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.stradpoleSpawnRolls was corrected from null to its default, 3. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.emuSpawnWeight was corrected from null to its default, 20. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.emuSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.platypusSpawnWeight was corrected from null to its default, 30. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.platypusSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.dropbearSpawnWeight was corrected from null to its default, 19. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.dropbearSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.tasmanianDevilSpawnWeight was corrected from null to its default, 10. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.tasmanianDevilSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.kangarooSpawnWeight was corrected from null to its default, 25. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.kangarooSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.cachalotWhaleSpawnWeight was corrected from null to its default, 2. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.cachalotWhaleSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.enderiophageSpawnWeight was corrected from null to its default, 4. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.enderiophageSpawnRolls was corrected from null to its default, 2. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.baldEagleSpawnWeight was corrected from null to its default, 15. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.baldEagleSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.tigerSpawnWeight was corrected from null to its default, 100. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.tigerSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.tarantulaHawkSpawnWeight was corrected from null to its default, 6. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.tarantulaHawkSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.voidWormSpawnWeight was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.voidWormSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.frilledSharkSpawnWeight was corrected from null to its default, 11. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.frilledSharkSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mimicOctopusSpawnWeight was corrected from null to its default, 9. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.mimicOctopusSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.seagullSpawnWeight was corrected from null to its default, 21. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.seagullSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.froststalkerSpawnWeight was corrected from null to its default, 20. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.froststalkerSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.tusklinSpawnWeight was corrected from null to its default, 18. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.tusklinSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.laviathanSpawnWeight was corrected from null to its default, 15. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.laviathanSpawnRolls was corrected from null to its default, 1. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.cosmawSpawnWeight was corrected from null to its default, 9. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.cosmawSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.toucanSpawnWeight was corrected from null to its default, 23. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.toucanSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.manedWolfSpawnWeight was corrected from null to its default, 8. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.manedWolfSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.anacondaSpawnWeight was corrected from null to its default, 12. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.anacondaSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.anteaterSpawnWeight was corrected from null to its default, 7. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.anteaterSpawnRolls was corrected from null to its default, 0. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.uniqueSpawning was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.uniqueSpawning.beachedCachalotWhales was corrected from null to its default, true. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.uniqueSpawning.beachedCachalotWhaleSpawnChance was corrected from null to its default, 5. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.uniqueSpawning.beachedCachalotWhaleSpawnDelay was corrected from null to its default, 24000. 
-[15:49:54] [main/WARN]: Incorrect key general.spawning.uniqueSpawning.leafcutterAnthillSpawnChance was corrected from null to its default, 0.004999999888241291. 
-[15:49:55] [Forge Version Check/INFO]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
-[15:49:55] [Forge Version Check/INFO]: [mcwbridges] Found status: OUTDATED Current: 2.0.3 Target: 3.0.0
-[15:49:55] [Forge Version Check/INFO]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs
-[15:49:55] [Forge Version Check/WARN]: Failed to process update information
+[17:43:52] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[17:43:52] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
+[17:43:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
+[17:43:52] [main/INFO]: Found mod file alexsmobs-1.14.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file BiomesOPlenty-1.17.1-14.0.0.43-universal.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file citadel-1.9.5-1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file collective-1.17.1-4.25.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file controllable-0.15.0-1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file CreativeCore_v2.3.0_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file dungeons_enhanced-1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file elevatorid-1.17.1-1.8.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file EpicFight-17.1.13-beta.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file ExtraGems-1.17-(v.2.0.5).jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file goblintraders-1.6.3-1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file gravestone-1.17.1-1.0.4.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file Jade-1.17.1-3.3.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file mcw-bridges-2.0.3-mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file mcw-roofs-2.1.1-mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file musketmod-1.17.1-forge-1.4.3.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file Paraglider-1.17.1-1.4.0.5.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file PlayerRevive_v2.0.0-pre04_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file reap-1.17.1-1.0.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file stackrefill_1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file structure_gel-1.17.1-2.0.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file TravelersBackpack-1.17.1-6.0.43.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file XaerosWorldMap_1.37.8_Forge_1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[17:43:52] [main/INFO]: Found mod file fmlcore-1.17.1-37.1.1.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:43:52] [main/INFO]: Found mod file javafmllanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:43:52] [main/INFO]: Found mod file mclanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:43:52] [main/INFO]: Found mod file server-1.17.1-20210706.113038-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:43:52] [main/INFO]: Found mod file forge-1.17.1-37.1.1-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[17:43:54] [main/INFO]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[17:43:54] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
+[17:43:57] [main/WARN]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[17:43:57] [main/WARN]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[17:44:01] [modloading-worker-0/INFO]: Configuration has been loaded
+[17:44:01] [modloading-worker-0/INFO]: Forge mod loading, version 37.1.1, for MC 1.17.1 with MCP 20210706.113038
+[17:44:01] [modloading-worker-0/INFO]: MinecraftForge v37.1.1 Initialized
+[17:44:02] [modloading-worker-0/INFO]: Load Configuration File
+[17:44:02] [modloading-worker-0/INFO]: Load Configuration File
+[17:44:06] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[17:44:06] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[17:44:06] [main/INFO]: Dungeons Enhanced structures loaded
+[17:44:07] [Forge Version Check/INFO]: [mcwbridges] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/bridges.json
+[17:44:08] [Forge Version Check/INFO]: [mcwbridges] Found status: OUTDATED Current: 2.0.3 Target: 3.0.0
+[17:44:08] [Forge Version Check/INFO]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs
+[17:44:08] [Forge Version Check/WARN]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:899) ~[gson-2.8.0.jar%2322!:?]
 	at com.google.gson.Gson.fromJson(Gson.java:852) ~[gson-2.8.0.jar%2322!:?]
@@ -258,13 +59,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.0.jar%2322!:?]
 	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar%2322!:?]
 	... 6 more
-[15:49:55] [Forge Version Check/INFO]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[15:49:55] [main/INFO]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
-[15:49:55] [main/INFO]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
-[15:49:55] [main/INFO]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
-[15:49:55] [main/INFO]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
-[15:49:55] [modloading-worker-0/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
-[15:49:55] [Forge Version Check/WARN]: Failed to process update information
+[17:44:08] [Forge Version Check/INFO]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[17:44:08] [main/INFO]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[17:44:08] [main/INFO]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[17:44:08] [main/INFO]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[17:44:08] [main/INFO]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[17:44:08] [modloading-worker-0/INFO]: Loading Xaero's World Map - Stage 1/2 (Server)
+[17:44:08] [Forge Version Check/WARN]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:899) ~[gson-2.8.0.jar%2322!:?]
 	at com.google.gson.Gson.fromJson(Gson.java:852) ~[gson-2.8.0.jar%2322!:?]
@@ -279,766 +80,222 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.0.jar%2322!:?]
 	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar%2322!:?]
 	... 6 more
-[15:49:55] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[15:49:56] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 37.1.1 Target: null
-[15:49:56] [Forge Version Check/INFO]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
-[15:49:56] [main/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
-[15:49:56] [modloading-worker-0/INFO]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
-[15:49:56] [modloading-worker-0/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[15:49:56] [modloading-worker-0/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
-[15:49:56] [modloading-worker-0/INFO]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[15:49:57] [Forge Version Check/INFO]: [reap] Found status: UP_TO_DATE Current: 1.17.1-1.0.0 Target: null
-[15:49:57] [Forge Version Check/INFO]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
-[15:49:57] [Forge Version Check/INFO]: [gravestone] Found status: UP_TO_DATE Current: 1.17.1-1.0.4 Target: null
-[15:49:57] [Forge Version Check/INFO]: [extragems] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/ExtraGems.json
-[15:49:57] [Forge Version Check/INFO]: [extragems] Found status: UP_TO_DATE Current: 2.0.5 Target: null
-[15:49:57] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[15:49:57] [Forge Version Check/INFO]: [travelersbackpack] Found status: OUTDATED Current: 6.0.43 Target: 6.0.52
-[15:50:01] [main/ERROR]: Error adding element: Value 9 outside of range [0:7]
-[15:50:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[15:50:02] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2349!/assets/.mcassetsroot' uses unexpected schema
-[15:50:02] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2349!/data/.mcassetsroot' uses unexpected schema
-[15:50:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:50:03] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:50:03] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:50:03] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:50:03] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:50:03] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
-[15:50:03] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
-[15:50:03] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.1.1-universal.jar, elevatorid-1.17.1-1.8.1.jar, musketmod-1.17.1-forge-1.4.3.jar, BiomesOPlenty-1.17.1-14.0.0.43-universal.jar, Jade-1.17.1-3.3.1.jar, mcw-roofs-2.1.1-mc1.17.1.jar, CreativeCore_v2.3.0_mc1.17.1.jar, dungeons_enhanced-1.17.1-2.0.jar, Paraglider-1.17.1-1.4.0.5.jar, reap-1.17.1-1.0.0.jar, PlayerRevive_v2.0.0-pre04_mc1.17.1.jar, ExtraGems-1.17-(v.2.0.5).jar, EpicFight-17.1.13-beta.jar, structure_gel-1.17.1-2.0.1.jar, TravelersBackpack-1.17.1-6.0.43.jar, mcw-bridges-2.0.3-mc1.17.1.jar, goblintraders-1.6.3-1.17.1.jar, stackrefill_1.17.1-2.0.jar, controllable-0.15.0-1.17.1.jar, gravestone-1.17.1-1.0.4.jar, collective-1.17.1-4.25.jar, XaerosWorldMap_1.37.8_Forge_1.17.1.jar, citadel-1.9.5-1.17.1.jar, alexsmobs-1.14.1.jar
-[15:50:03] [Worker-Main-6/ERROR]: Couldn't load tag forge:ores as it is missing following references: #forge:ores/amethyst_ore (from ExtraGems-1.17-(v.2.0.5).jar)
-[15:50:06] [Worker-Main-6/INFO]: Loaded 8 recipes
-[15:50:08] [Worker-Main-6/WARN]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[15:50:08] [Worker-Main-6/INFO]: Loaded 1719 advancements
-[15:50:08] [Worker-Main-6/INFO]: Configuration has been loaded
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_helmet
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_shovel
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_longsword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_greatsword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_axe
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_sword
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_greatsword
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_sword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_tachi
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:trident
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_leggings
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_greatsword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_longsword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_sword
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_tachi
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_axe
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_tachi
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:crossbow
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_boots
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_greatsword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_sword
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_leggings
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_spear
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_sword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_tachi
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_longsword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:stone_greatsword
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for epicfight:stray_pants
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:knuckle
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_dagger
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_dagger
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:stone_spear
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_dagger
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_spear
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_longsword
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for epicfight:stray_robe
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:katana
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_sword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_dagger
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_spear
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for epicfight:stray_hat
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:bow
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_spear
-[15:50:08] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for turtle_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for shield
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for amethyst_sword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for amethyst_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for amethyst_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for amethyst_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for amethyst_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for ruby_sword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for ruby_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for ruby_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for ruby_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for ruby_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sapphire_sword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sapphire_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sapphire_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sapphire_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sapphire_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for topaz_sword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for topaz_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for topaz_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for topaz_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for topaz_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crystal_sword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crystal_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crystal_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crystal_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crystal_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emerald_sword
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emerald_pickaxe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emerald_axe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emerald_shovel
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emerald_hoe
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for amethyst_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for amethyst_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for amethyst_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for amethyst_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for ruby_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for ruby_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for ruby_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for ruby_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sapphire_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sapphire_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sapphire_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sapphire_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for topaz_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for topaz_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for topaz_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for topaz_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crystal_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crystal_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crystal_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crystal_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emerald_helmet
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emerald_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emerald_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emerald_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for roadrunner_boots
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for crocodile_chestplate
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for centipede_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for moose_headgear
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for frontier_cap
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for sombrero
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for spiked_turtle_shell
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for emu_leggings
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for fedora
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for tarantula_hawk_elytra
-[15:50:08] [Worker-Main-6/INFO]: register weapon capability for froststalker_helmet
-[15:50:12] [main/INFO]: Injecting existing registry data into this CLIENT instance
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:oak_log_bridge_middle Expected: 898 Got: 1856
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:birch_log_bridge_middle Expected: 899 Got: 1857
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:acacia_log_bridge_middle Expected: 900 Got: 1858
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:spruce_log_bridge_middle Expected: 901 Got: 1859
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:jungle_log_bridge_middle Expected: 902 Got: 1860
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:dark_oak_log_bridge_middle Expected: 903 Got: 1861
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:crimson_log_bridge_middle Expected: 904 Got: 1862
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:warped_log_bridge_middle Expected: 905 Got: 1863
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:rope_oak_bridge Expected: 906 Got: 1864
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:rope_birch_bridge Expected: 907 Got: 1865
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:rope_spruce_bridge Expected: 908 Got: 1866
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:rope_jungle_bridge Expected: 909 Got: 1867
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:rope_acacia_bridge Expected: 910 Got: 1868
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:rope_dark_oak_bridge Expected: 911 Got: 1869
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:rope_crimson_bridge Expected: 912 Got: 1870
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:rope_warped_bridge Expected: 913 Got: 1871
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:oak_rail_bridge Expected: 914 Got: 1872
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:spruce_rail_bridge Expected: 915 Got: 1873
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:birch_rail_bridge Expected: 916 Got: 1874
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:jungle_rail_bridge Expected: 917 Got: 1875
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:acacia_rail_bridge Expected: 918 Got: 1876
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:dark_oak_rail_bridge Expected: 919 Got: 1877
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:crimson_rail_bridge Expected: 920 Got: 1878
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:warped_rail_bridge Expected: 921 Got: 1879
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:bamboo_bridge Expected: 922 Got: 1880
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:dry_bamboo_bridge Expected: 923 Got: 1881
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:oak_bridge_pier Expected: 924 Got: 1882
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:spruce_bridge_pier Expected: 925 Got: 1883
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:birch_bridge_pier Expected: 926 Got: 1884
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:jungle_bridge_pier Expected: 927 Got: 1885
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:acacia_bridge_pier Expected: 928 Got: 1886
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:dark_oak_bridge_pier Expected: 929 Got: 1887
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:crimson_bridge_pier Expected: 930 Got: 1888
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:warped_bridge_pier Expected: 931 Got: 1889
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:bamboo_bridge_pier Expected: 932 Got: 1890
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:dry_bamboo_bridge_pier Expected: 933 Got: 1891
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:oak_log_bridge_stair Expected: 934 Got: 1892
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:spruce_log_bridge_stair Expected: 935 Got: 1893
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:birch_log_bridge_stair Expected: 936 Got: 1894
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:jungle_log_bridge_stair Expected: 937 Got: 1895
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:acacia_log_bridge_stair Expected: 938 Got: 1896
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:dark_oak_log_bridge_stair Expected: 939 Got: 1897
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:crimson_log_bridge_stair Expected: 940 Got: 1898
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:warped_log_bridge_stair Expected: 941 Got: 1899
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:oak_rope_bridge_stair Expected: 942 Got: 1900
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:spruce_rope_bridge_stair Expected: 943 Got: 1901
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:birch_rope_bridge_stair Expected: 944 Got: 1902
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:jungle_rope_bridge_stair Expected: 945 Got: 1903
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:acacia_rope_bridge_stair Expected: 946 Got: 1904
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:dark_oak_rope_bridge_stair Expected: 947 Got: 1905
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:crimson_rope_bridge_stair Expected: 948 Got: 1906
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:warped_rope_bridge_stair Expected: 949 Got: 1907
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:bamboo_bridge_stair Expected: 950 Got: 1908
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:dry_bamboo_bridge_stair Expected: 951 Got: 1909
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:most1 Expected: 952 Got: 1910
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:brick_bridge Expected: 953 Got: 1911
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:sandstone_bridge Expected: 954 Got: 1912
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:stone_brick_bridge Expected: 955 Got: 1913
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:orange_sandstone_bridge Expected: 956 Got: 1914
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:blackstone_bridge Expected: 957 Got: 1915
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:mossy_stone_brick_bridge Expected: 958 Got: 1916
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:deepslate_brick_bridge Expected: 959 Got: 1917
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:deepslate_tile_bridge Expected: 960 Got: 1918
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:iron_bridge_pier Expected: 961 Got: 1919
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:brick_bridge_pier Expected: 962 Got: 1920
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:sandstone_bridge_pier Expected: 963 Got: 1921
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:stone_bridge_pier Expected: 964 Got: 1922
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:red_sandstone_bridge_pier Expected: 965 Got: 1923
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:blackstone_bridge_pier Expected: 966 Got: 1924
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:mossy_stone_bridge_pier Expected: 967 Got: 1925
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:deepslate_brick_bridge_pier Expected: 968 Got: 1926
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:deepslate_tile_bridge_pier Expected: 969 Got: 1927
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:iron_bridge_stair Expected: 970 Got: 1928
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:stone_brick_bridge_stair Expected: 971 Got: 1929
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:sandstone_bridge_stair Expected: 972 Got: 1930
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:brick_bridge_stair Expected: 973 Got: 1931
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:red_sandstone_bridge_stair Expected: 974 Got: 1932
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:blackstone_bridge_stair Expected: 975 Got: 1933
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:mossy_stone_bridge_stair Expected: 976 Got: 1934
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:deepslate_brick_bridge_stair Expected: 977 Got: 1935
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: mcwbridges:deepslate_tile_bridge_stair Expected: 978 Got: 1936
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: gravestone:gravestone Expected: 1851 Got: 1937
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: alexsmobs:banana_peel Expected: 1879 Got: 1938
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: alexsmobs:hummingbird_feeder Expected: 1880 Got: 1939
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: alexsmobs:crocodile_egg Expected: 1881 Got: 1940
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: alexsmobs:gustmaker Expected: 1882 Got: 1941
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: alexsmobs:straddlite_block Expected: 1883 Got: 1942
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: alexsmobs:leafcutter_anthill Expected: 1884 Got: 1943
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: alexsmobs:leafcutter_ant_chamber Expected: 1885 Got: 1944
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: alexsmobs:capsid Expected: 1886 Got: 1945
-[15:50:12] [main/WARN]: Registry minecraft:block: Object did not get ID it asked for. Name: alexsmobs:void_worm_beak Expected: 1887 Got: 1946
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:oak_log_bridge_middle Expected: 1414 Got: 2198
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:birch_log_bridge_middle Expected: 1415 Got: 2199
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:acacia_log_bridge_middle Expected: 1416 Got: 2200
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:spruce_log_bridge_middle Expected: 1417 Got: 2201
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:jungle_log_bridge_middle Expected: 1418 Got: 2202
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:dark_oak_log_bridge_middle Expected: 1419 Got: 2203
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:crimson_log_bridge_middle Expected: 1420 Got: 2204
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:warped_log_bridge_middle Expected: 1421 Got: 2205
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:rope_oak_bridge Expected: 1422 Got: 2206
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:rope_birch_bridge Expected: 1423 Got: 2207
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:rope_spruce_bridge Expected: 1424 Got: 2208
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:rope_jungle_bridge Expected: 1425 Got: 2209
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:rope_acacia_bridge Expected: 1426 Got: 2210
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:rope_dark_oak_bridge Expected: 1427 Got: 2211
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:rope_crimson_bridge Expected: 1428 Got: 2212
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:rope_warped_bridge Expected: 1429 Got: 2213
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:oak_rail_bridge Expected: 1430 Got: 2214
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:spruce_rail_bridge Expected: 1431 Got: 2215
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:birch_rail_bridge Expected: 1432 Got: 2216
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:jungle_rail_bridge Expected: 1433 Got: 2217
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:acacia_rail_bridge Expected: 1434 Got: 2218
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:dark_oak_rail_bridge Expected: 1435 Got: 2219
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:crimson_rail_bridge Expected: 1436 Got: 2220
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:warped_rail_bridge Expected: 1437 Got: 2221
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:bamboo_bridge Expected: 1438 Got: 2222
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:dry_bamboo_bridge Expected: 1439 Got: 2223
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:oak_bridge_pier Expected: 1440 Got: 2224
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:spruce_bridge_pier Expected: 1441 Got: 2225
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:birch_bridge_pier Expected: 1442 Got: 2226
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:jungle_bridge_pier Expected: 1443 Got: 2227
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:acacia_bridge_pier Expected: 1444 Got: 2228
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:dark_oak_bridge_pier Expected: 1445 Got: 2229
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:crimson_bridge_pier Expected: 1446 Got: 2230
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:warped_bridge_pier Expected: 1447 Got: 2231
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:bamboo_bridge_pier Expected: 1448 Got: 2232
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:dry_bamboo_bridge_pier Expected: 1449 Got: 2233
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:oak_log_bridge_stair Expected: 1450 Got: 2234
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:spruce_log_bridge_stair Expected: 1451 Got: 2235
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:birch_log_bridge_stair Expected: 1452 Got: 2236
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:jungle_log_bridge_stair Expected: 1453 Got: 2237
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:acacia_log_bridge_stair Expected: 1454 Got: 2238
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:dark_oak_log_bridge_stair Expected: 1455 Got: 2239
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:crimson_log_bridge_stair Expected: 1456 Got: 2240
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:warped_log_bridge_stair Expected: 1457 Got: 2241
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:oak_rope_bridge_stair Expected: 1458 Got: 2242
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:spruce_rope_bridge_stair Expected: 1459 Got: 2243
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:birch_rope_bridge_stair Expected: 1460 Got: 2244
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:jungle_rope_bridge_stair Expected: 1461 Got: 2245
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:acacia_rope_bridge_stair Expected: 1462 Got: 2246
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:dark_oak_rope_bridge_stair Expected: 1463 Got: 2247
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:crimson_rope_bridge_stair Expected: 1464 Got: 2248
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:warped_rope_bridge_stair Expected: 1465 Got: 2249
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:bamboo_bridge_stair Expected: 1466 Got: 2250
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:dry_bamboo_bridge_stair Expected: 1467 Got: 2251
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:most1 Expected: 1468 Got: 2252
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:brick_bridge Expected: 1469 Got: 2253
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:sandstone_bridge Expected: 1470 Got: 2254
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:stone_brick_bridge Expected: 1471 Got: 2255
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:orange_sandstone_bridge Expected: 1472 Got: 2256
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:blackstone_bridge Expected: 1473 Got: 2257
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:mossy_stone_brick_bridge Expected: 1474 Got: 2258
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:deepslate_brick_bridge Expected: 1475 Got: 2259
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:deepslate_tile_bridge Expected: 1476 Got: 2260
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:iron_bridge_pier Expected: 1477 Got: 2261
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:brick_bridge_pier Expected: 1478 Got: 2262
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:sandstone_bridge_pier Expected: 1479 Got: 2263
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:stone_bridge_pier Expected: 1480 Got: 2264
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:red_sandstone_bridge_pier Expected: 1481 Got: 2265
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:blackstone_bridge_pier Expected: 1482 Got: 2266
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:mossy_stone_bridge_pier Expected: 1483 Got: 2267
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:deepslate_brick_bridge_pier Expected: 1484 Got: 2268
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:deepslate_tile_bridge_pier Expected: 1485 Got: 2269
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:iron_bridge_stair Expected: 1486 Got: 2270
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:stone_brick_bridge_stair Expected: 1487 Got: 2271
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:sandstone_bridge_stair Expected: 1488 Got: 2272
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:brick_bridge_stair Expected: 1489 Got: 2273
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:red_sandstone_bridge_stair Expected: 1490 Got: 2274
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:blackstone_bridge_stair Expected: 1491 Got: 2275
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:mossy_stone_bridge_stair Expected: 1492 Got: 2276
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:deepslate_brick_bridge_stair Expected: 1493 Got: 2277
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:deepslate_tile_bridge_stair Expected: 1494 Got: 2278
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: mcwbridges:pliers Expected: 1495 Got: 2279
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: goblintraders:goblin_trader_spawn_egg Expected: 2072 Got: 2280
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: goblintraders:vein_goblin_trader_spawn_egg Expected: 2073 Got: 2281
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: gravestone:gravestone Expected: 2086 Got: 2282
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: gravestone:obituary Expected: 2087 Got: 2283
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: citadel:debug Expected: 2217 Got: 2284
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: citadel:citadel_book Expected: 2218 Got: 2285
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: citadel:effect_item Expected: 2219 Got: 2286
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: citadel:fancy_item Expected: 2220 Got: 2287
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_grizzly_bear Expected: 2221 Got: 2288
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_roadrunner Expected: 2222 Got: 2289
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_bone_serpent Expected: 2223 Got: 2290
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_gazelle Expected: 2224 Got: 2291
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_crocodile Expected: 2225 Got: 2292
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_fly Expected: 2226 Got: 2293
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_hummingbird Expected: 2227 Got: 2294
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_orca Expected: 2228 Got: 2295
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_sunbird Expected: 2229 Got: 2296
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_gorilla Expected: 2230 Got: 2297
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_crimson_mosquito Expected: 2231 Got: 2298
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_rattlesnake Expected: 2232 Got: 2299
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_endergrade Expected: 2233 Got: 2300
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_hammerhead_shark Expected: 2234 Got: 2301
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_lobster Expected: 2235 Got: 2302
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_komodo_dragon Expected: 2236 Got: 2303
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_capuchin_monkey Expected: 2237 Got: 2304
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_centipede Expected: 2238 Got: 2305
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_warped_toad Expected: 2239 Got: 2306
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_moose Expected: 2240 Got: 2307
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_mimicube Expected: 2241 Got: 2308
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_raccoon Expected: 2242 Got: 2309
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_blobfish Expected: 2243 Got: 2310
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_seal Expected: 2244 Got: 2311
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_cockroach Expected: 2245 Got: 2312
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_shoebill Expected: 2246 Got: 2313
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_elephant Expected: 2247 Got: 2314
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_soul_vulture Expected: 2248 Got: 2315
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_snow_leopard Expected: 2249 Got: 2316
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_spectre Expected: 2250 Got: 2317
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_crow Expected: 2251 Got: 2318
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_alligator_snapping_turtle Expected: 2252 Got: 2319
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_mungus Expected: 2253 Got: 2320
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_mantis_shrimp Expected: 2254 Got: 2321
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_guster Expected: 2255 Got: 2322
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_warped_mosco Expected: 2256 Got: 2323
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_straddler Expected: 2257 Got: 2324
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_stradpole Expected: 2258 Got: 2325
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_emu Expected: 2259 Got: 2326
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_platypus Expected: 2260 Got: 2327
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_dropbear Expected: 2261 Got: 2328
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_tasmanian_devil Expected: 2262 Got: 2329
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_kangaroo Expected: 2263 Got: 2330
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_cachalot_whale Expected: 2264 Got: 2331
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_leafcutter_ant Expected: 2265 Got: 2332
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_enderiophage Expected: 2266 Got: 2333
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_bald_eagle Expected: 2267 Got: 2334
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_tiger Expected: 2268 Got: 2335
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_tarantula_hawk Expected: 2269 Got: 2336
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_void_worm Expected: 2270 Got: 2337
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_frilled_shark Expected: 2271 Got: 2338
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_mimic_octopus Expected: 2272 Got: 2339
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_seagull Expected: 2273 Got: 2340
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_froststalker Expected: 2274 Got: 2341
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_tusklin Expected: 2275 Got: 2342
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_laviathan Expected: 2276 Got: 2343
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_cosmaw Expected: 2277 Got: 2344
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_toucan Expected: 2278 Got: 2345
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_maned_wolf Expected: 2279 Got: 2346
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_anaconda Expected: 2280 Got: 2347
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spawn_egg_anteater Expected: 2281 Got: 2348
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:tab_icon Expected: 2282 Got: 2349
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:animal_dictionary Expected: 2283 Got: 2350
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:bear_fur Expected: 2284 Got: 2351
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:bear_dust Expected: 2285 Got: 2352
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:roadrunner_feather Expected: 2286 Got: 2353
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:roadrunner_boots Expected: 2287 Got: 2354
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:lava_bottle Expected: 2288 Got: 2355
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:bone_serpent_tooth Expected: 2289 Got: 2356
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:gazelle_horn Expected: 2290 Got: 2357
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:crocodile_scute Expected: 2291 Got: 2358
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:crocodile_chestplate Expected: 2292 Got: 2359
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:maggot Expected: 2293 Got: 2360
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:banana Expected: 2294 Got: 2361
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:ancient_dart Expected: 2295 Got: 2362
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:halo Expected: 2296 Got: 2363
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:blood_sac Expected: 2297 Got: 2364
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:mosquito_proboscis Expected: 2298 Got: 2365
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:blood_sprayer Expected: 2299 Got: 2366
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:rattlesnake_rattle Expected: 2300 Got: 2367
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:chorus_on_a_stick Expected: 2301 Got: 2368
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:shark_tooth Expected: 2302 Got: 2369
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:shark_tooth_arrow Expected: 2303 Got: 2370
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:lobster_tail Expected: 2304 Got: 2371
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:cooked_lobster_tail Expected: 2305 Got: 2372
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:lobster_bucket Expected: 2306 Got: 2373
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:komodo_spit Expected: 2307 Got: 2374
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:komodo_spit_bottle Expected: 2308 Got: 2375
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:poison_bottle Expected: 2309 Got: 2376
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:sopa_de_macaco Expected: 2310 Got: 2377
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:centipede_leg Expected: 2311 Got: 2378
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:centipede_leggings Expected: 2312 Got: 2379
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:mosquito_larva Expected: 2313 Got: 2380
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:moose_antler Expected: 2314 Got: 2381
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:moose_headgear Expected: 2315 Got: 2382
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:moose_ribs Expected: 2316 Got: 2383
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:cooked_moose_ribs Expected: 2317 Got: 2384
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:mimicream Expected: 2318 Got: 2385
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:raccoon_tail Expected: 2319 Got: 2386
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:frontier_cap Expected: 2320 Got: 2387
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:blobfish Expected: 2321 Got: 2388
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:blobfish_bucket Expected: 2322 Got: 2389
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:fish_oil Expected: 2323 Got: 2390
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:maraca Expected: 2324 Got: 2391
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:sombrero Expected: 2325 Got: 2392
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:cockroach_wing_fragment Expected: 2326 Got: 2393
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:cockroach_wing Expected: 2327 Got: 2394
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:cockroach_ootheca Expected: 2328 Got: 2395
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:acacia_blossom Expected: 2329 Got: 2396
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:soul_heart Expected: 2330 Got: 2397
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spiked_scute Expected: 2331 Got: 2398
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:spiked_turtle_shell Expected: 2332 Got: 2399
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:shrimp_fried_rice Expected: 2333 Got: 2400
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:guster_eye Expected: 2334 Got: 2401
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:pocket_sand Expected: 2335 Got: 2402
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:warped_muscle Expected: 2336 Got: 2403
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:hemolymph_sac Expected: 2337 Got: 2404
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:hemolymph_blaster Expected: 2338 Got: 2405
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:warped_mixture Expected: 2339 Got: 2406
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:straddlite Expected: 2340 Got: 2407
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:stradpole_bucket Expected: 2341 Got: 2408
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:straddleboard Expected: 2342 Got: 2409
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:emu_egg Expected: 2343 Got: 2410
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:boiled_emu_egg Expected: 2344 Got: 2411
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:emu_feather Expected: 2345 Got: 2412
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:emu_leggings Expected: 2346 Got: 2413
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:platypus_bucket Expected: 2347 Got: 2414
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:fedora Expected: 2348 Got: 2415
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:dropbear_claw Expected: 2349 Got: 2416
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:kangaroo_meat Expected: 2350 Got: 2417
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:cooked_kangaroo_meat Expected: 2351 Got: 2418
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:kangaroo_hide Expected: 2352 Got: 2419
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:kangaroo_burger Expected: 2353 Got: 2420
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:ambergris Expected: 2354 Got: 2421
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:cachalot_whale_tooth Expected: 2355 Got: 2422
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:echolocator Expected: 2356 Got: 2423
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:endolocator Expected: 2357 Got: 2424
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:gongylidia Expected: 2358 Got: 2425
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:leafcutter_ant_pupa Expected: 2359 Got: 2426
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:enderiophage_rocket Expected: 2360 Got: 2427
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:falconry_glove_inventory Expected: 2361 Got: 2428
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:falconry_glove_hand Expected: 2362 Got: 2429
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:falconry_glove Expected: 2363 Got: 2430
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:falconry_hood Expected: 2364 Got: 2431
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:tarantula_hawk_wing_fragment Expected: 2365 Got: 2432
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:tarantula_hawk_wing Expected: 2366 Got: 2433
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:tarantula_hawk_elytra Expected: 2367 Got: 2434
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:mysterious_worm Expected: 2368 Got: 2435
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:void_worm_mandible Expected: 2369 Got: 2436
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:void_worm_eye Expected: 2370 Got: 2437
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:dimensional_carver Expected: 2371 Got: 2438
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:serrated_shark_tooth Expected: 2372 Got: 2439
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:frilled_shark_bucket Expected: 2373 Got: 2440
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:shield_of_the_deep Expected: 2374 Got: 2441
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:mimic_octopus_bucket Expected: 2375 Got: 2442
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:froststalker_horn Expected: 2376 Got: 2443
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:froststalker_helmet Expected: 2377 Got: 2444
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:pigshoes Expected: 2378 Got: 2445
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:straddle_helmet Expected: 2379 Got: 2446
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:straddle_saddle Expected: 2380 Got: 2447
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:cosmic_cod Expected: 2381 Got: 2448
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:shed_snake_skin Expected: 2382 Got: 2449
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:vine_lasso_inventory Expected: 2383 Got: 2450
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:vine_lasso_hand Expected: 2384 Got: 2451
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:vine_lasso Expected: 2385 Got: 2452
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:music_disc_thime Expected: 2386 Got: 2453
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:music_disc_daze Expected: 2387 Got: 2454
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:banana_peel Expected: 2388 Got: 2455
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:hummingbird_feeder Expected: 2389 Got: 2456
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:crocodile_egg Expected: 2390 Got: 2457
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:gustmaker Expected: 2391 Got: 2458
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:straddlite_block Expected: 2392 Got: 2459
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:leafcutter_anthill Expected: 2393 Got: 2460
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:leafcutter_ant_chamber Expected: 2394 Got: 2461
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:capsid Expected: 2395 Got: 2462
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:void_worm_beak Expected: 2396 Got: 2463
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:banner_pattern_bear Expected: 2397 Got: 2464
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:banner_pattern_australia_0 Expected: 2398 Got: 2465
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:banner_pattern_australia_1 Expected: 2399 Got: 2466
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:banner_pattern_new_mexico Expected: 2400 Got: 2467
-[15:50:12] [main/WARN]: Registry minecraft:item: Object did not get ID it asked for. Name: alexsmobs:banner_pattern_brazil Expected: 2401 Got: 2468
-[15:50:12] [main/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: goblintraders:entity.goblin_trader.annoyed_grunt Expected: 1203 Got: 1225
-[15:50:12] [main/WARN]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: goblintraders:entity.goblin_trader.idle_grunt Expected: 1204 Got: 1226
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:extended_night_vision Expected: 43 Got: 44
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:extended_invisibility Expected: 44 Got: 45
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:powerful_jump_boost Expected: 45 Got: 46
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:extended_fire_resistance Expected: 46 Got: 47
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:powerful_speed Expected: 47 Got: 48
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:extended_water_breathing Expected: 48 Got: 49
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:powerful_instant_health Expected: 49 Got: 50
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:powerful_regeneration Expected: 50 Got: 51
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:extended_slow_falling Expected: 51 Got: 52
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:powerful_strength Expected: 52 Got: 53
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:haste Expected: 53 Got: 54
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:absorption Expected: 54 Got: 55
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:levitation Expected: 55 Got: 56
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:luck Expected: 56 Got: 57
-[15:50:12] [main/WARN]: Registry minecraft:potion: Object did not get ID it asked for. Name: goblintraders:dolphins_grace Expected: 57 Got: 58
-[15:50:12] [main/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: goblintraders:goblin_trader Expected: 114 Got: 118
-[15:50:12] [main/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: goblintraders:vein_goblin_trader Expected: 115 Got: 119
-[15:50:12] [main/WARN]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: gravestone:player_ghost Expected: 116 Got: 120
-[15:50:15] [Server thread/INFO]: Starting minecraft server version 1.17.1
-[15:50:15] [Server thread/INFO]: Loading properties
-[15:50:15] [Server thread/INFO]: Default game type: SURVIVAL
-[15:50:15] [Server thread/INFO]: Generating keypair
-[15:50:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:50:15] [Server thread/INFO]: Using epoll channel type
-[15:50:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[15:50:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[15:50:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[15:50:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[15:50:16] [Server thread/WARN]: Configuration file ./world/serverconfig/controllable-server.toml is not correct. Correcting
-[15:50:16] [Server thread/WARN]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[15:50:16] [Server thread/WARN]: Incorrect key server.restrictToController was corrected from null to its default, false. 
-[15:50:16] [Server thread/WARN]: Configuration file ./world/serverconfig/gravestone-server.toml is not correct. Correcting
-[15:50:16] [Server thread/WARN]: Incorrect key enable_obituary was corrected from null to its default, true. 
-[15:50:16] [Server thread/WARN]: Incorrect key replaceable_blocks was corrected from null to its default, [#gravestone:grave_replaceable]. 
-[15:50:16] [Server thread/WARN]: Incorrect key remove_obituary was corrected from null to its default, false. 
-[15:50:16] [Server thread/WARN]: Incorrect key only_owners_can_break was corrected from null to its default, false. 
-[15:50:16] [Server thread/WARN]: Incorrect key spawn_ghost was corrected from null to its default, false. 
-[15:50:16] [Server thread/WARN]: Incorrect key friendly_ghost was corrected from null to its default, true. 
-[15:50:16] [Server thread/WARN]: Incorrect key sneak_pickup was corrected from null to its default, false. 
-[15:50:16] [Server thread/WARN]: Incorrect key break_pickup was corrected from null to its default, true. 
-[15:50:16] [Server thread/INFO]: Preparing level "world"
-[15:50:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:50:16] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:50:17] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:50:17] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:50:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:50:18] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:50:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:50:19] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:50:19] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[15:50:20] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[15:50:20] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[15:50:21] [Worker-Main-5/INFO]: Preparing spawn area: 9%
-[15:50:21] [Worker-Main-4/INFO]: Preparing spawn area: 21%
-[15:50:22] [Worker-Main-5/INFO]: Preparing spawn area: 33%
-[15:50:22] [Worker-Main-6/INFO]: Preparing spawn area: 43%
-[15:50:27] [Worker-Main-6/INFO]: Preparing spawn area: 55%
-[15:50:27] [Worker-Main-5/INFO]: Preparing spawn area: 55%
-[15:50:27] [Worker-Main-5/INFO]: Preparing spawn area: 55%
-[15:50:27] [Worker-Main-6/INFO]: Preparing spawn area: 55%
-[15:50:27] [Worker-Main-6/INFO]: Preparing spawn area: 55%
-[15:50:27] [Worker-Main-4/INFO]: Preparing spawn area: 55%
-[15:50:27] [Worker-Main-5/INFO]: Preparing spawn area: 55%
-[15:50:27] [Worker-Main-5/INFO]: Preparing spawn area: 55%
-[15:50:27] [Worker-Main-5/INFO]: Preparing spawn area: 55%
-[15:50:27] [Server thread/INFO]: Time elapsed: 11431 ms
-[15:50:27] [Server thread/INFO]: Done (11.770s)! For help, type "help"
-[15:51:01] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ce40a5b
-[15:51:01] [Server thread/INFO]: Beelz[/127.23.0.127:58513] logged in with entity id 226 at (160.6960935339066, 69.0, 84.64112516497597)
-[15:51:01] [Server thread/INFO]: Beelz joined the game
-[15:51:01] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[15:54:04] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f03cac2
-[15:54:04] [Server thread/INFO]: SuperMago[/127.23.0.127:46387] logged in with entity id 687 at (145.07641379456263, 77.0, 99.30000001192093)
-[15:54:04] [Server thread/INFO]: SuperMago joined the game
-[15:54:04] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[15:54:59] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16d3875c
-[15:54:59] [Server thread/INFO]: marco[/127.23.0.127:45085] logged in with entity id 835 at (-58.310089448927435, 25.0, 36.582904716725615)
-[15:54:59] [Server thread/INFO]: marco joined the game
-[15:54:59] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[15:55:07] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@38429592
-[15:55:07] [Server thread/INFO]: Anterux[/127.23.0.127:60111] logged in with entity id 951 at (144.30000001192093, 77.0, 99.30000001192093)
-[15:55:07] [Server thread/INFO]: Anterux joined the game
-[15:55:07] [Server thread/INFO]: Syncing config to Anterux (51549f53-2ca5-30e2-a3dc-935211485ea5)
-[15:56:01] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b1244f8
-[15:56:01] [Server thread/INFO]: ANGEL[/127.23.0.127:38689] logged in with entity id 1114 at (-513.8373377941555, 68.0, 1081.1554375887656)
-[15:56:01] [Server thread/INFO]: ANGEL joined the game
-[15:56:01] [Server thread/INFO]: Syncing config to ANGEL (fbd3f129-5e54-3530-b52f-350e37092e72)
-[15:59:35] [Server thread/INFO]: marco lost connection: Disconnected
-[15:59:35] [Server thread/INFO]: marco left the game
-[16:01:04] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@441d75e3
-[16:01:04] [Server thread/INFO]: marco[/127.23.0.127:39093] logged in with entity id 3789 at (-65.98053819124547, 18.0, 46.69233911168425)
-[16:01:04] [Server thread/INFO]: marco joined the game
-[16:01:04] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[16:01:22] [Server thread/INFO]: [SuperMago: Teleported SuperMago to marco]
-[16:01:45] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
-[16:02:21] [Server thread/INFO]: <Beelz> adolfmir
-[16:02:55] [Server thread/INFO]: <Beelz> adolfmir
-[16:02:58] [Server thread/INFO]: <Anterux> yaaa
-[16:03:01] [Server thread/INFO]: <Anterux> a mimir
-[16:03:07] [Server thread/INFO]: [marco: Teleported marco to Beelz]
-[16:03:10] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[16:03:10] [Server thread/INFO]: SuperMago left the game
-[16:03:20] [Server thread/INFO]: marco has made the advancement [Sweet Dreams]
-[16:03:47] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7495e04a
-[16:03:47] [Server thread/INFO]: SuperMago[/127.23.0.127:39207] logged in with entity id 7798 at (166.5, 64.0, 78.5)
-[16:03:47] [Server thread/INFO]: SuperMago joined the game
-[16:03:47] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[16:04:16] [Server thread/INFO]: [ANGEL: Teleported ANGEL to marco]
-[16:04:34] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[16:04:34] [Server thread/INFO]: SuperMago left the game
-[16:04:45] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@677fc41f
-[16:04:45] [Server thread/INFO]: SuperMago[/127.23.0.127:35015] logged in with entity id 8123 at (160.00053060597713, 64.0, 100.78685514059059)
-[16:04:45] [Server thread/INFO]: SuperMago joined the game
-[16:04:45] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[16:04:47] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
-[16:05:18] [Server thread/INFO]: <Beelz> adolfmir
-[16:05:24] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[16:05:24] [Server thread/INFO]: SuperMago left the game
-[16:05:40] [Server thread/INFO]: Beelz lost connection: Disconnected
-[16:05:40] [Server thread/INFO]: Beelz left the game
-[16:06:54] [Server thread/INFO]: ANGEL is bleeding...
-[16:07:12] [Server thread/INFO]: [marco: Teleported marco to ANGEL]
-[16:07:36] [Server thread/INFO]: [Anterux: Teleported Anterux to marco]
-[16:08:11] [Server thread/INFO]: Anterux lost connection: Disconnected
-[16:08:11] [Server thread/INFO]: Anterux left the game
-[16:22:42] [Server thread/INFO]: ANGEL lost connection: Disconnected
-[16:22:42] [Server thread/INFO]: ANGEL left the game
-[16:29:27] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f4d80c5
-[16:29:27] [Server thread/INFO]: Chavelo[/127.23.0.127:41635] logged in with entity id 14343 at (177.7628246573324, 71.0, 103.29650695198421)
-[16:29:27] [Server thread/INFO]: Chavelo joined the game
-[16:29:27] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[16:30:36] [Server thread/INFO]: <Chavelo> marco no tienes hierro q me des ?
-[16:30:42] [Server thread/INFO]: <Chavelo> no tengo mochila
-[16:31:17] [Server thread/WARN]: marco moved too quickly! -8.80472650690615,2.7531999805212024,3.9594656354875113
-[16:35:13] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@186f6b2b
-[16:35:13] [Server thread/INFO]: Beelz[/127.23.0.127:59545] logged in with entity id 16462 at (166.97758025748502, 64.0, 85.11847262382243)
-[16:35:13] [Server thread/INFO]: Beelz joined the game
-[16:35:13] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[16:35:21] [Server thread/INFO]: <Beelz> marco puto
-[16:35:27] [Server thread/INFO]: <Beelz> marco puto
-[16:35:32] [Server thread/INFO]: <Beelz> chabelo gei
-[16:35:48] [Server thread/INFO]: Beelz lost connection: Disconnected
-[16:35:48] [Server thread/INFO]: Beelz left the game
-[16:36:46] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-385, y=61, z=118} BlockPos{x=-385, y=62, z=118}
-[16:36:46] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-385, y=60, z=118} BlockPos{x=-385, y=62, z=118}
-[16:38:13] [Server thread/INFO]: Chavelo is bleeding...
-[16:38:42] [Server thread/INFO]: Chavelo was slain by Spider
-[16:39:25] [Server thread/INFO]: Chavelo lost connection: Disconnected
-[16:39:25] [Server thread/INFO]: Chavelo left the game
-[16:39:59] [Server thread/INFO]: marco is bleeding...
-[16:40:59] [Server thread/INFO]: marco was slain by Spider
-[16:51:20] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2206d89a
-[16:51:20] [Server thread/INFO]: Chavelo[/127.23.0.127:36905] logged in with entity id 22099 at (150.99191556569147, 71.0, 122.01269672888823)
-[16:51:20] [Server thread/INFO]: Chavelo joined the game
-[16:51:20] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[16:55:06] [Server thread/INFO]: Chavelo lost connection: Timed out
-[16:55:06] [Server thread/INFO]: Chavelo left the game
-[16:55:06] [Server thread/WARN]: handleDisconnection() called twice
-[16:55:31] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27b5a304
-[16:55:31] [Server thread/INFO]: Chavelo[/127.23.0.127:56245] logged in with entity id 23926 at (-222.3833565399262, 62.0, 385.933934289214)
-[16:55:31] [Server thread/INFO]: Chavelo joined the game
-[16:55:31] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[16:55:46] [Server thread/INFO]: Chavelo lost connection: Timed out
-[16:55:46] [Server thread/INFO]: Chavelo left the game
-[16:56:13] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@186eb6e8
-[16:56:13] [Server thread/INFO]: Chavelo[/127.23.0.127:49161] logged in with entity id 24167 at (-222.3833565399262, 62.0, 385.933934289214)
-[16:56:13] [Server thread/INFO]: Chavelo joined the game
-[16:56:13] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[16:56:43] [Server thread/INFO]: Chavelo lost connection: Timed out
-[16:56:43] [Server thread/INFO]: Chavelo left the game
-[16:56:45] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4910ab7f
-[16:56:45] [Server thread/INFO]: Beelz[/127.23.0.127:42141] logged in with entity id 24474 at (155.9760184772361, 64.0, 100.42536961723144)
-[16:56:45] [Server thread/INFO]: Beelz joined the game
-[16:56:45] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[16:57:00] [Server thread/INFO]: Beelz lost connection: Timed out
-[16:57:00] [Server thread/INFO]: Beelz left the game
-[16:57:28] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76cdc90e
-[16:57:28] [Server thread/INFO]: Chavelo[/127.23.0.127:46731] logged in with entity id 24799 at (-222.3833565399262, 62.0, 385.933934289214)
-[16:57:28] [Server thread/INFO]: Chavelo joined the game
-[16:57:28] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[16:57:48] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3877c895
-[16:57:48] [Server thread/INFO]: Beelz[/127.23.0.127:49741] logged in with entity id 25015 at (155.9760184772361, 64.0, 100.42536961723144)
-[16:57:48] [Server thread/INFO]: Beelz joined the game
-[16:57:48] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[16:57:58] [Server thread/INFO]: Chavelo lost connection: Timed out
-[16:57:58] [Server thread/INFO]: Chavelo left the game
-[16:58:03] [Server thread/INFO]: Beelz lost connection: Timed out
-[16:58:03] [Server thread/INFO]: Beelz left the game
-[16:58:16] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ff4c0b0
-[16:58:16] [Server thread/INFO]: SuperMago[/127.23.0.127:37545] logged in with entity id 25278 at (167.55009603955256, 64.0, 81.95436981156476)
-[16:58:16] [Server thread/INFO]: SuperMago joined the game
-[16:58:16] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[16:58:31] [Server thread/INFO]: SuperMago lost connection: Timed out
-[16:58:31] [Server thread/INFO]: SuperMago left the game
-[16:59:05] [Server thread/INFO]: marco has reached the goal [Flowers of the Savanna]
-[16:59:11] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1925f673
-[16:59:11] [Server thread/INFO]: Beelz[/127.23.0.127:41747] logged in with entity id 25498 at (155.9760184772361, 64.0, 100.42536961723144)
-[16:59:11] [Server thread/INFO]: Beelz joined the game
-[16:59:11] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[16:59:26] [Server thread/INFO]: Beelz lost connection: Timed out
-[16:59:26] [Server thread/INFO]: Beelz left the game
-[16:59:32] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@727b934f
-[16:59:32] [Server thread/INFO]: SuperMago[/127.23.0.127:58351] logged in with entity id 25750 at (167.55009603955256, 64.0, 81.95436981156476)
-[16:59:32] [Server thread/INFO]: SuperMago joined the game
-[16:59:32] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[16:59:39] [Server thread/INFO]: marco lost connection: Timed out
-[16:59:39] [Server thread/INFO]: marco left the game
-[16:59:48] [Server thread/INFO]: SuperMago lost connection: Timed out
-[16:59:48] [Server thread/INFO]: SuperMago left the game
-[17:00:01] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9ece74e
-[17:00:01] [Server thread/INFO]: marco[/127.23.0.127:34975] logged in with entity id 25891 at (-381.0440570979928, 64.0, 186.49626377187917)
-[17:00:01] [Server thread/INFO]: marco joined the game
-[17:00:01] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[17:00:31] [Server thread/INFO]: marco lost connection: Timed out
-[17:00:31] [Server thread/INFO]: marco left the game
+[17:44:08] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17:44:08] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 37.1.1 Target: null
+[17:44:08] [Forge Version Check/INFO]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[17:44:08] [main/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
+[17:44:09] [modloading-worker-0/INFO]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[17:44:09] [modloading-worker-0/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[17:44:09] [modloading-worker-0/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
+[17:44:09] [modloading-worker-0/INFO]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[17:44:09] [Forge Version Check/INFO]: [reap] Found status: UP_TO_DATE Current: 1.17.1-1.0.0 Target: null
+[17:44:09] [Forge Version Check/INFO]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[17:44:10] [Forge Version Check/INFO]: [gravestone] Found status: UP_TO_DATE Current: 1.17.1-1.0.4 Target: null
+[17:44:10] [Forge Version Check/INFO]: [extragems] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/ExtraGems.json
+[17:44:10] [Forge Version Check/INFO]: [extragems] Found status: UP_TO_DATE Current: 2.0.5 Target: null
+[17:44:10] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17:44:10] [Forge Version Check/INFO]: [travelersbackpack] Found status: OUTDATED Current: 6.0.43 Target: 6.0.52
+[17:44:14] [main/ERROR]: Error adding element: Value 9 outside of range [0:7]
+[17:44:15] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:44:16] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2349!/assets/.mcassetsroot' uses unexpected schema
+[17:44:16] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2349!/data/.mcassetsroot' uses unexpected schema
+[17:44:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:44:16] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:44:16] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:44:16] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:44:16] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:44:16] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[17:44:16] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[17:44:16] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.1.1-universal.jar, elevatorid-1.17.1-1.8.1.jar, musketmod-1.17.1-forge-1.4.3.jar, BiomesOPlenty-1.17.1-14.0.0.43-universal.jar, Jade-1.17.1-3.3.1.jar, mcw-roofs-2.1.1-mc1.17.1.jar, CreativeCore_v2.3.0_mc1.17.1.jar, dungeons_enhanced-1.17.1-2.0.jar, Paraglider-1.17.1-1.4.0.5.jar, reap-1.17.1-1.0.0.jar, PlayerRevive_v2.0.0-pre04_mc1.17.1.jar, ExtraGems-1.17-(v.2.0.5).jar, EpicFight-17.1.13-beta.jar, structure_gel-1.17.1-2.0.1.jar, TravelersBackpack-1.17.1-6.0.43.jar, mcw-bridges-2.0.3-mc1.17.1.jar, goblintraders-1.6.3-1.17.1.jar, stackrefill_1.17.1-2.0.jar, controllable-0.15.0-1.17.1.jar, gravestone-1.17.1-1.0.4.jar, collective-1.17.1-4.25.jar, XaerosWorldMap_1.37.8_Forge_1.17.1.jar, citadel-1.9.5-1.17.1.jar, alexsmobs-1.14.1.jar
+[17:44:17] [Worker-Main-5/ERROR]: Couldn't load tag forge:ores as it is missing following references: #forge:ores/amethyst_ore (from ExtraGems-1.17-(v.2.0.5).jar)
+[17:44:19] [Worker-Main-5/INFO]: Loaded 8 recipes
+[17:44:21] [Worker-Main-5/WARN]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
+[17:44:22] [Worker-Main-5/INFO]: Loaded 1719 advancements
+[17:44:22] [Worker-Main-5/INFO]: Configuration has been loaded
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:leather_helmet
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:diamond_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_shovel
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:chainmail_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_longsword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_greatsword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_axe
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:netherite_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_sword
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:netherite_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_greatsword
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:diamond_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:leather_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:netherite_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_sword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_tachi
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:trident
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:chainmail_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:chainmail_leggings
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:netherite_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_greatsword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_longsword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_sword
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:diamond_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:iron_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_tachi
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_axe
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:golden_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_tachi
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:crossbow
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:diamond_boots
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:golden_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_greatsword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_sword
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:iron_leggings
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:leather_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_spear
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_sword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_tachi
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_longsword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:stone_greatsword
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for epicfight:stray_pants
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:leather_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:knuckle
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_dagger
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_dagger
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:iron_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:stone_spear
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:golden_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_dagger
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:chainmail_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:golden_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:diamond_spear
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_longsword
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for epicfight:stray_robe
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:iron_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:katana
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:wooden_sword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:golden_dagger
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:iron_spear
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for epicfight:stray_hat
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:golden_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:stone_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:bow
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:diamond_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for minecraft:netherite_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for epicfight:netherite_spear
+[17:44:22] [Worker-Main-5/INFO]: register armor capability for minecraft:iron_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for turtle_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for shield
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for amethyst_sword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for amethyst_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for amethyst_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for amethyst_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for amethyst_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for ruby_sword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for ruby_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for ruby_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for ruby_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for ruby_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sapphire_sword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sapphire_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sapphire_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sapphire_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sapphire_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for topaz_sword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for topaz_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for topaz_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for topaz_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for topaz_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crystal_sword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crystal_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crystal_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crystal_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crystal_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emerald_sword
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emerald_pickaxe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emerald_axe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emerald_shovel
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emerald_hoe
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for amethyst_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for amethyst_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for amethyst_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for amethyst_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for ruby_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for ruby_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for ruby_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for ruby_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sapphire_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sapphire_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sapphire_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sapphire_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for topaz_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for topaz_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for topaz_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for topaz_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crystal_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crystal_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crystal_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crystal_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emerald_helmet
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emerald_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emerald_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emerald_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for roadrunner_boots
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for crocodile_chestplate
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for centipede_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for moose_headgear
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for frontier_cap
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for sombrero
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for spiked_turtle_shell
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for emu_leggings
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for fedora
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for tarantula_hawk_elytra
+[17:44:22] [Worker-Main-5/INFO]: register weapon capability for froststalker_helmet
+[17:44:25] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[17:44:29] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[17:44:29] [Server thread/INFO]: Loading properties
+[17:44:29] [Server thread/INFO]: Default game type: SURVIVAL
+[17:44:29] [Server thread/INFO]: Generating keypair
+[17:44:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:44:29] [Server thread/INFO]: Using epoll channel type
+[17:44:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:44:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:44:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:44:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:44:30] [Server thread/INFO]: Preparing level "world"
+[17:44:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:44:30] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:44:30] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:44:31] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:44:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:44:32] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[17:44:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:44:33] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:44:33] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[17:44:34] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[17:44:34] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[17:44:35] [Worker-Main-4/INFO]: Preparing spawn area: 4%
+[17:44:35] [Worker-Main-5/INFO]: Preparing spawn area: 20%
+[17:44:36] [Worker-Main-4/INFO]: Preparing spawn area: 53%
+[17:44:36] [Worker-Main-6/INFO]: Preparing spawn area: 98%
+[17:44:37] [Server thread/INFO]: Time elapsed: 7048 ms
+[17:44:37] [Server thread/INFO]: Done (7.379s)! For help, type "help"
+[17:44:55] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7677b1e1
+[17:44:55] [Server thread/INFO]: marco[/127.23.0.127:41321] logged in with entity id 77 at (-381.0440570979928, 64.0, 186.49626377187917)
+[17:44:55] [Server thread/INFO]: marco joined the game
+[17:44:55] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
+[17:45:26] [Server thread/INFO]: marco lost connection: Timed out
+[17:45:26] [Server thread/INFO]: marco left the game
+[17:45:26] [Server thread/WARN]: handleDisconnection() called twice
