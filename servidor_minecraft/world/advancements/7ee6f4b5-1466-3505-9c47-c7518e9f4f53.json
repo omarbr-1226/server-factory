@@ -282,6 +282,7 @@
       "cooked_beef": "2025-03-18 19:34:50 +0000",
       "apple": "2025-03-18 23:34:43 +0000",
       "rotten_flesh": "2025-03-18 23:37:26 +0000",
+      "cooked_salmon": "2025-03-19 01:02:08 +0000",
       "carrot": "2025-03-19 00:33:14 +0000"
     },
     "done": false
@@ -651,6 +652,7 @@
       "minecraft:skeleton": "2025-03-18 23:46:26 +0000",
       "minecraft:spider": "2025-03-18 23:35:39 +0000",
       "minecraft:creeper": "2025-03-18 23:45:08 +0000",
+      "minecraft:husk": "2025-03-19 01:00:29 +0000",
       "minecraft:zombie": "2025-03-18 23:56:05 +0000"
     },
     "done": false
@@ -1027,6 +1029,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-19 01:01:06 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/crimson": {
     "criteria": {
       "has_planks": "2025-03-18 16:11:37 +0000"
@@ -1042,6 +1050,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-03-18 16:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_the_recipe": "2025-03-19 01:02:05 +0000"
     },
     "done": true
   },
