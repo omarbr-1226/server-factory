@@ -406,6 +406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-19 00:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-18 19:32:11 +0000"
@@ -595,6 +601,12 @@
   "mcwroofs:recipes/acacia_planks": {
     "criteria": {
       "has_planks": "2025-03-18 17:04:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-19 00:47:32 +0000"
     },
     "done": true
   },
@@ -1087,6 +1099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-03-19 00:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 23:59:55 +0000"
@@ -1290,6 +1308,7 @@
       "minecraft:forest": "2025-03-18 17:04:31 +0000",
       "minecraft:desert_hills": "2025-03-19 00:36:36 +0000",
       "minecraft:desert": "2025-03-18 17:06:11 +0000",
+      "minecraft:river": "2025-03-19 00:40:00 +0000",
       "minecraft:savanna": "2025-03-18 19:33:19 +0000",
       "minecraft:plains": "2025-03-18 17:04:02 +0000"
     },
