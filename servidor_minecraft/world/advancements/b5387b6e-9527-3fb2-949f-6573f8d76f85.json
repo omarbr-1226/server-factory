@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-19 04:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-19 00:22:58 +0000"
@@ -549,6 +555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-19 04:40:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-03-18 23:25:12 +0000"
@@ -895,6 +907,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-18 23:24:27 +0000",
       "minecraft:spider": "2025-03-18 23:25:31 +0000",
+      "minecraft:husk": "2025-03-19 04:39:39 +0000",
       "minecraft:enderman": "2025-03-18 23:39:56 +0000",
       "minecraft:zombie": "2025-03-18 23:35:25 +0000",
       "minecraft:zombie_villager": "2025-03-18 23:45:26 +0000"
