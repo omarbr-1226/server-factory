@@ -232,3 +232,10 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [02:40:02] [Server thread/INFO]: <Anterux> madera
 [02:40:06] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
 [02:40:43] [Server thread/INFO]: <Anterux> bye
+[02:40:47] [Server thread/INFO]: Anterux lost connection: Disconnected
+[02:40:47] [Server thread/INFO]: Anterux left the game
+[02:50:10] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4514561f
+[02:50:10] [Server thread/INFO]: Chavelo[/127.209.157.234:35021] logged in with entity id 72881 at (-824.6321600676754, 65.02442408821369, 629.5585564636921)
+[02:50:10] [Server thread/INFO]: Chavelo joined the game
+[02:50:10] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[02:50:37] [Server thread/INFO]: [Chavelo: Teleported Chavelo to -824.500000, 64.500000, 629.500000]
