@@ -145,3 +145,40 @@
 [02:18:26] [Server thread/INFO]: Chavelo[/127.209.157.234:47355] logged in with entity id 56552 at (-483.4312156302363, 67.0, 87.8751237603752)
 [02:18:26] [Server thread/INFO]: Chavelo joined the game
 [02:18:26] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[02:21:12] [Server thread/WARN]: Boat (vehicle of ANGEL) moved wrongly! 0.2790883603022962
+[02:21:12] [Server thread/WARN]: Boat (vehicle of ANGEL) moved wrongly! 0.6075601366662795
+[02:21:12] [Server thread/WARN]: Boat (vehicle of ANGEL) moved wrongly! 0.785293844556918
+[02:21:37] [Server thread/WARN]: SuperMago moved too quickly! -5.243977241774047,0.0,-8.731802583322477
+[02:23:32] [Server thread/INFO]: SuperMago lost connection: Disconnected
+[02:23:32] [Server thread/INFO]: SuperMago left the game
+[02:23:41] [Server thread/INFO]: Chavelo lost connection: Timed out
+[02:23:41] [Server thread/INFO]: Chavelo left the game
+[02:23:58] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@210bdc3a
+[02:23:59] [Server thread/INFO]: SuperMago[/127.221.163.188:45855] logged in with entity id 62805 at (171.3007519366025, 71.0, 122.95962294810802)
+[02:23:59] [Server thread/INFO]: SuperMago joined the game
+[02:23:59] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[02:24:04] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@732e38b4
+[02:24:04] [Server thread/INFO]: Chavelo[/127.209.157.234:46695] logged in with entity id 62946 at (-772.6060171365585, 64.0, 498.8377172467707)
+[02:24:04] [Server thread/INFO]: Chavelo joined the game
+[02:24:04] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[02:24:14] [Server thread/INFO]: SuperMago lost connection: Timed out
+[02:24:14] [Server thread/INFO]: SuperMago left the game
+[02:24:29] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6637d02d
+[02:24:29] [Server thread/INFO]: SuperMago[/127.221.163.188:44881] logged in with entity id 63445 at (171.3007519366025, 71.0, 122.95962294810802)
+[02:24:29] [Server thread/INFO]: SuperMago joined the game
+[02:24:29] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[02:24:34] [Server thread/INFO]: Chavelo lost connection: Timed out
+[02:24:34] [Server thread/INFO]: Chavelo left the game
+[02:24:44] [Server thread/INFO]: SuperMago lost connection: Timed out
+[02:24:44] [Server thread/INFO]: SuperMago left the game
+[02:24:59] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ef5cadf
+[02:24:59] [Server thread/INFO]: SuperMago[/127.221.163.188:56783] logged in with entity id 63628 at (171.3007519366025, 71.0, 122.95962294810802)
+[02:24:59] [Server thread/INFO]: SuperMago joined the game
+[02:24:59] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[02:25:45] [Server thread/INFO]: [Beelz: Teleported Beelz to Anterux]
+[02:26:38] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@89c9ef8
+[02:26:38] [Server thread/INFO]: Chavelo[/127.209.157.234:38447] logged in with entity id 64852 at (-772.6060171365585, 64.0, 498.8377172467707)
+[02:26:38] [Server thread/INFO]: Chavelo joined the game
+[02:26:38] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[02:27:08] [Server thread/INFO]: Chavelo lost connection: Timed out
+[02:27:08] [Server thread/INFO]: Chavelo left the game

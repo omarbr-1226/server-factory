@@ -266,6 +266,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-19 01:02:07 +0000",
+      "cooked_beef": "2025-03-19 02:26:37 +0000",
       "beef": "2025-03-19 01:54:59 +0000",
       "spider_eye": "2025-03-19 01:21:49 +0000",
       "rabbit": "2025-03-19 01:51:26 +0000",
@@ -433,6 +434,12 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-03-19 01:21:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-03-19 02:27:06 +0000"
     },
     "done": true
   },
@@ -691,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-03-19 02:27:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-03-19 01:13:53 +0000"
@@ -787,6 +800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-03-19 02:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-03-19 01:03:46 +0000"
@@ -802,6 +821,12 @@
   "mcwroofs:recipes/sandstone": {
     "criteria": {
       "has_planks": "2025-03-19 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-19 02:26:19 +0000"
     },
     "done": true
   },
@@ -910,6 +935,12 @@
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2025-03-19 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-03-19 02:27:06 +0000"
     },
     "done": true
   },
@@ -1099,6 +1130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-19 02:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-19 01:03:46 +0000"
@@ -1189,9 +1226,11 @@
       "minecraft:forest": "2025-03-19 01:00:29 +0000",
       "minecraft:desert_hills": "2025-03-19 01:46:58 +0000",
       "minecraft:desert": "2025-03-19 01:15:09 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-19 02:22:15 +0000",
       "minecraft:savanna_plateau": "2025-03-19 01:55:25 +0000",
       "minecraft:beach": "2025-03-19 01:47:52 +0000",
       "minecraft:river": "2025-03-19 01:00:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-19 02:22:25 +0000",
       "minecraft:savanna": "2025-03-19 01:54:10 +0000",
       "minecraft:plains": "2025-03-18 17:42:53 +0000"
     },
@@ -1287,6 +1326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-03-19 02:21:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-19 00:59:51 +0000"
@@ -1362,6 +1407,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-03-19 02:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-03-19 02:27:06 +0000"
     },
     "done": true
   },
