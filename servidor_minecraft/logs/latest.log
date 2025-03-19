@@ -977,3 +977,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16:39:25] [Server thread/INFO]: Chavelo lost connection: Disconnected
 [16:39:25] [Server thread/INFO]: Chavelo left the game
 [16:39:59] [Server thread/INFO]: marco is bleeding...
+[16:40:59] [Server thread/INFO]: marco was slain by Spider
