@@ -873,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-03-19 01:11:12 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2025-03-18 16:11:37 +0000"
