@@ -739,7 +739,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-03-19 00:05:14 +0000",
+      "minecraft:spider": "2025-03-19 01:21:19 +0000",
       "minecraft:creeper": "2025-03-19 00:08:10 +0000",
+      "minecraft:husk": "2025-03-19 01:20:15 +0000",
       "minecraft:zombie": "2025-03-18 23:37:12 +0000",
       "minecraft:zombie_villager": "2025-03-18 23:35:31 +0000"
     },
@@ -1443,6 +1445,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 23:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-03-19 01:19:30 +0000"
     },
     "done": true
   },
