@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-03-19 01:27:12 +0000"
@@ -239,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-19 01:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-03-19 00:59:51 +0000"
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-03-19 01:06:48 +0000"
@@ -343,6 +361,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-19 01:48:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-03-19 01:06:48 +0000"
@@ -364,6 +394,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-03-19 01:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-19 01:42:28 +0000"
     },
     "done": true
   },
@@ -397,6 +433,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-03-19 01:13:27 +0000"
@@ -406,6 +454,12 @@
   "mcwroofs:recipes/crimson": {
     "criteria": {
       "has_planks": "2025-03-19 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
     },
     "done": true
   },
@@ -430,6 +484,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-19 01:06:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
     },
     "done": true
   },
@@ -523,6 +583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-19 01:13:27 +0000"
@@ -547,9 +613,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-19 01:13:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-03-19 01:42:17 +0000"
     },
     "done": true
   },
@@ -615,8 +693,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-03-19 01:48:37 +0000",
       "minecraft:forest": "2025-03-19 01:00:29 +0000",
+      "minecraft:desert_hills": "2025-03-19 01:46:58 +0000",
       "minecraft:desert": "2025-03-19 01:15:09 +0000",
+      "minecraft:beach": "2025-03-19 01:47:52 +0000",
       "minecraft:river": "2025-03-19 01:00:25 +0000",
       "minecraft:plains": "2025-03-18 17:42:53 +0000"
     },
@@ -760,6 +841,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-03-19 01:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-03-19 00:59:51 +0000"
@@ -814,9 +901,23 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-03-19 01:43:07 +0000",
+      "minecraft:husk": "2025-03-19 01:42:32 +0000",
+      "minecraft:zombie": "2025-03-19 01:42:17 +0000"
+    },
+    "done": false
+  },
   "mcwroofs:recipes/bricks": {
     "criteria": {
       "has_planks": "2025-03-19 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-19 01:48:45 +0000"
     },
     "done": true
   },
@@ -847,6 +948,12 @@
   "mcwroofs:recipes/warped_planks": {
     "criteria": {
       "has_planks": "2025-03-19 01:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
     },
     "done": true
   },
@@ -904,6 +1011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-19 01:48:45 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/diorite": {
     "criteria": {
       "has_planks": "2025-03-19 01:02:02 +0000"
@@ -919,6 +1032,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-03-19 01:26:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-03-19 01:46:22 +0000"
     },
     "done": true
   },
