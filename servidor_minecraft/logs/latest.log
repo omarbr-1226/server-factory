@@ -311,3 +311,14 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [03:14:26] [Server thread/INFO]: marco left the game
 [03:15:19] [Server thread/INFO]: Chavelo has made the advancement [Isn't It Iron Pick]
 [03:21:19] [Server thread/INFO]: Villager Villager['Unemployed'/81549, l='ServerLevel[world]', x=-936.48, y=63.00, z=1268.51] died, message: 'Unemployed was slain by Zombie'
+[03:23:20] [Server thread/INFO]: [Beelz: Teleported Beelz to Chavelo]
+[03:23:40] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
+[03:25:50] [Server thread/INFO]: [Beelz: Teleported Beelz to Chavelo]
+[03:25:58] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
+[03:28:55] [Server thread/INFO]: Villager Villager['Unemployed'/81480, l='ServerLevel[world]', x=-915.70, y=71.00, z=1224.77] died, message: 'Unemployed was slain by Zombie'
+[03:29:20] [Server thread/INFO]: Beelz lost connection: Disconnected
+[03:29:20] [Server thread/INFO]: Beelz left the game
+[03:29:51] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e5a6e6c
+[03:29:51] [Server thread/INFO]: marco[/127.106.95.209:45545] logged in with entity id 90312 at (-33.30000001192093, 11.0, 38.22895756239076)
+[03:29:51] [Server thread/INFO]: marco joined the game
+[03:29:51] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
