@@ -1575,6 +1575,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-18 16:06:14 +0000",
+      "minecraft:desert_hills": "2025-03-19 02:54:53 +0000",
       "minecraft:desert": "2025-03-18 16:07:05 +0000",
       "minecraft:beach": "2025-03-18 16:06:53 +0000",
       "minecraft:river": "2025-03-18 17:43:24 +0000",
