@@ -978,3 +978,67 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16:39:25] [Server thread/INFO]: Chavelo left the game
 [16:39:59] [Server thread/INFO]: marco is bleeding...
 [16:40:59] [Server thread/INFO]: marco was slain by Spider
+[16:51:20] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2206d89a
+[16:51:20] [Server thread/INFO]: Chavelo[/127.23.0.127:36905] logged in with entity id 22099 at (150.99191556569147, 71.0, 122.01269672888823)
+[16:51:20] [Server thread/INFO]: Chavelo joined the game
+[16:51:20] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[16:55:06] [Server thread/INFO]: Chavelo lost connection: Timed out
+[16:55:06] [Server thread/INFO]: Chavelo left the game
+[16:55:06] [Server thread/WARN]: handleDisconnection() called twice
+[16:55:31] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@27b5a304
+[16:55:31] [Server thread/INFO]: Chavelo[/127.23.0.127:56245] logged in with entity id 23926 at (-222.3833565399262, 62.0, 385.933934289214)
+[16:55:31] [Server thread/INFO]: Chavelo joined the game
+[16:55:31] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[16:55:46] [Server thread/INFO]: Chavelo lost connection: Timed out
+[16:55:46] [Server thread/INFO]: Chavelo left the game
+[16:56:13] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@186eb6e8
+[16:56:13] [Server thread/INFO]: Chavelo[/127.23.0.127:49161] logged in with entity id 24167 at (-222.3833565399262, 62.0, 385.933934289214)
+[16:56:13] [Server thread/INFO]: Chavelo joined the game
+[16:56:13] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[16:56:43] [Server thread/INFO]: Chavelo lost connection: Timed out
+[16:56:43] [Server thread/INFO]: Chavelo left the game
+[16:56:45] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4910ab7f
+[16:56:45] [Server thread/INFO]: Beelz[/127.23.0.127:42141] logged in with entity id 24474 at (155.9760184772361, 64.0, 100.42536961723144)
+[16:56:45] [Server thread/INFO]: Beelz joined the game
+[16:56:45] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[16:57:00] [Server thread/INFO]: Beelz lost connection: Timed out
+[16:57:00] [Server thread/INFO]: Beelz left the game
+[16:57:28] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@76cdc90e
+[16:57:28] [Server thread/INFO]: Chavelo[/127.23.0.127:46731] logged in with entity id 24799 at (-222.3833565399262, 62.0, 385.933934289214)
+[16:57:28] [Server thread/INFO]: Chavelo joined the game
+[16:57:28] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[16:57:48] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3877c895
+[16:57:48] [Server thread/INFO]: Beelz[/127.23.0.127:49741] logged in with entity id 25015 at (155.9760184772361, 64.0, 100.42536961723144)
+[16:57:48] [Server thread/INFO]: Beelz joined the game
+[16:57:48] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[16:57:58] [Server thread/INFO]: Chavelo lost connection: Timed out
+[16:57:58] [Server thread/INFO]: Chavelo left the game
+[16:58:03] [Server thread/INFO]: Beelz lost connection: Timed out
+[16:58:03] [Server thread/INFO]: Beelz left the game
+[16:58:16] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ff4c0b0
+[16:58:16] [Server thread/INFO]: SuperMago[/127.23.0.127:37545] logged in with entity id 25278 at (167.55009603955256, 64.0, 81.95436981156476)
+[16:58:16] [Server thread/INFO]: SuperMago joined the game
+[16:58:16] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[16:58:31] [Server thread/INFO]: SuperMago lost connection: Timed out
+[16:58:31] [Server thread/INFO]: SuperMago left the game
+[16:59:05] [Server thread/INFO]: marco has reached the goal [Flowers of the Savanna]
+[16:59:11] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1925f673
+[16:59:11] [Server thread/INFO]: Beelz[/127.23.0.127:41747] logged in with entity id 25498 at (155.9760184772361, 64.0, 100.42536961723144)
+[16:59:11] [Server thread/INFO]: Beelz joined the game
+[16:59:11] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[16:59:26] [Server thread/INFO]: Beelz lost connection: Timed out
+[16:59:26] [Server thread/INFO]: Beelz left the game
+[16:59:32] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@727b934f
+[16:59:32] [Server thread/INFO]: SuperMago[/127.23.0.127:58351] logged in with entity id 25750 at (167.55009603955256, 64.0, 81.95436981156476)
+[16:59:32] [Server thread/INFO]: SuperMago joined the game
+[16:59:32] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[16:59:39] [Server thread/INFO]: marco lost connection: Timed out
+[16:59:39] [Server thread/INFO]: marco left the game
+[16:59:48] [Server thread/INFO]: SuperMago lost connection: Timed out
+[16:59:48] [Server thread/INFO]: SuperMago left the game
+[17:00:01] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9ece74e
+[17:00:01] [Server thread/INFO]: marco[/127.23.0.127:34975] logged in with entity id 25891 at (-381.0440570979928, 64.0, 186.49626377187917)
+[17:00:01] [Server thread/INFO]: marco joined the game
+[17:00:01] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
+[17:00:31] [Server thread/INFO]: marco lost connection: Timed out
+[17:00:31] [Server thread/INFO]: marco left the game
