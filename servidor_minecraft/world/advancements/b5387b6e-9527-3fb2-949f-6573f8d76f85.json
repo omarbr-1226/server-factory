@@ -395,7 +395,8 @@
       "mutton": "2025-03-18 16:09:10 +0000",
       "cooked_rabbit": "2025-03-19 00:15:34 +0000",
       "cooked_chicken": "2025-03-19 00:11:03 +0000",
-      "cooked_salmon": "2025-03-19 01:57:26 +0000"
+      "cooked_salmon": "2025-03-19 01:57:26 +0000",
+      "carrot": "2025-03-19 04:56:19 +0000"
     },
     "done": false
   },
@@ -1829,6 +1830,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-19 04:55:23 +0000"
     },
     "done": true
   },
