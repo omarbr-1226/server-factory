@@ -1,677 +1,268 @@
-[00:00:28] [Server thread/INFO]: Anterux has made the advancement [Isn't It Iron Pick]
-[00:08:24] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[00:08:34] [Server thread/INFO]: [Beelz: Teleported Beelz to Anterux]
-[00:08:45] [Server thread/INFO]: <Beelz> kenkiu
-[00:09:14] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
-[00:10:56] [Server thread/INFO]: <Beelz> kenkiu
-[00:12:05] [Server thread/INFO]: [Beelz: Teleported Beelz to 162.500000, 64.500000, 70.500000]
-[00:12:22] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
-[00:12:48] [Server thread/INFO]: SuperMago is bleeding...
-[00:14:08] [Server thread/INFO]: Beelz has made the advancement [A Seedy Place]
-[00:18:36] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[00:18:36] [Server thread/INFO]: SuperMago left the game
-[00:19:01] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5cb3c644
-[00:19:01] [Server thread/INFO]: SuperMago[/127.221.163.188:57681] logged in with entity id 15503 at (162.0777758164744, 66.0, 106.69999998807907)
-[00:19:01] [Server thread/INFO]: SuperMago joined the game
-[00:19:01] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[00:24:17] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
-[00:30:38] [Server thread/INFO]: SuperMago is bleeding...
-[00:32:15] [Server thread/INFO]: <Beelz> adolfmir
-[00:32:17] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
-[00:32:53] [Server thread/INFO]: Anterux has made the advancement [Best Friends Forever]
-[00:34:05] [Server thread/INFO]: <Anterux> xd
-[00:34:09] [Server thread/INFO]: <Beelz> QUE
-[00:36:56] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
-[00:40:04] [Server thread/INFO]: <Anterux> tt\\\\
-[00:40:31] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
-[00:42:05] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[00:42:05] [Server thread/INFO]: SuperMago left the game
-[00:42:23] [Server thread/INFO]: <Anterux> xd
-[00:42:29] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2cbf74db
-[00:42:29] [Server thread/INFO]: SuperMago[/127.221.163.188:56877] logged in with entity id 23344 at (165.90560856559338, 64.0, 79.46658800366181)
-[00:42:29] [Server thread/INFO]: SuperMago joined the game
-[00:42:29] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[00:42:32] [Server thread/INFO]: <Beelz> XDDDDDddd
-[00:43:14] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
-[00:43:41] [Server thread/INFO]: <Anterux> xssss
-[00:43:44] [Server thread/INFO]: <Anterux> zzzzz
-[00:49:21] [Server thread/INFO]: <Anterux> calla xd
-[00:50:09] [Server thread/INFO]: <Beelz> callate tu
-[00:50:38] [Server thread/INFO]: [Beelz: Teleported Beelz to Anterux]
-[00:51:02] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[00:52:39] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
-[00:53:22] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
-[00:59:25] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3149881a
-[00:59:25] [Server thread/INFO]: ANGEL[/127.121.115.89:46371] logged in with entity id 28098 at (144.62511728120984, 67.0, 223.77863702462767)
-[00:59:25] [Server thread/INFO]: ANGEL joined the game
-[00:59:25] [Server thread/INFO]: Syncing config to ANGEL (fbd3f129-5e54-3530-b52f-350e37092e72)
-[01:01:06] [Server thread/INFO]: Beelz has made the advancement [Isn't It Iron Pick]
-[01:01:14] [Server thread/INFO]: ANGEL is bleeding...
-[01:01:29] [Server thread/INFO]: [Beelz: Teleported ANGEL to Beelz]
-[01:01:34] [Server thread/INFO]: [SuperMago: Teleported SuperMago to ANGEL]
-[01:01:48] [Server thread/INFO]: ANGEL is bleeding...
-[01:02:17] [Server thread/INFO]: ANGEL has made the advancement [Sweet Dreams]
-[01:04:27] [Server thread/INFO]: [Anterux: Teleported Anterux to ANGEL]
-[01:06:19] [Server thread/INFO]: ANGEL is bleeding...
-[01:06:29] [Server thread/INFO]: [Beelz: Teleported ANGEL to Beelz]
-[01:06:48] [Server thread/INFO]: ANGEL has made the advancement [Acquire Hardware]
-[01:10:56] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=180, y=65, z=99} BlockPos{x=181, y=64, z=99}
-[01:15:46] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
-[01:16:53] [Server thread/INFO]: [Beelz: Teleported Beelz to ANGEL]
-[01:17:44] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[01:18:15] [Server thread/INFO]: Anterux has made the advancement [Suit Up]
-[01:19:30] [Server thread/INFO]: ANGEL is bleeding...
-[01:19:50] [Server thread/INFO]: [Beelz: Teleported Beelz to ANGEL]
-[01:21:20] [Server thread/INFO]: ANGEL is bleeding...
-[01:21:32] [Server thread/INFO]: ANGEL is bleeding...
-[01:22:16] [Server thread/INFO]: Anterux is bleeding...
-[01:22:19] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
-[01:26:21] [Server thread/INFO]: ANGEL has made the advancement [Stone Age]
-[01:29:05] [Server thread/INFO]: ANGEL has made the advancement [Getting an Upgrade]
-[01:33:26] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[01:40:03] [Server thread/INFO]: Beelz is bleeding...
-[01:40:45] [Server thread/INFO]: [Beelz: Teleported Beelz to ANGEL]
-[01:41:24] [Server thread/INFO]: <Beelz> adolfmir
-[01:41:50] [Server thread/INFO]: [Beelz: Set the time to 1000]
-[01:41:57] [Server thread/INFO]: [Beelz: Set the weather to clear]
-[01:42:17] [Server thread/INFO]: ANGEL has made the advancement [Monster Hunter]
-[01:43:01] [Server thread/INFO]: ANGEL has made the advancement [Not Today, Thank You]
-[01:49:47] [Server thread/INFO]: [SuperMago: Teleported SuperMago to ANGEL]
-[01:50:14] [Server thread/INFO]: Anterux has made the advancement [A Seedy Place]
-[01:50:52] [Server thread/INFO]: SuperMago is bleeding...
-[01:50:53] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
-[01:52:21] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
-[01:52:35] [Server thread/INFO]: [SuperMago: Teleported SuperMago to ANGEL]
-[01:54:45] [Server thread/INFO]: [SuperMago: Teleported SuperMago to ANGEL]
-[01:56:04] [Server thread/INFO]: ANGEL is bleeding...
-[01:56:07] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
-[01:57:04] [Server thread/INFO]: ANGEL was slain by Spider
-[01:57:07] [Server thread/INFO]: [SuperMago: Teleported SuperMago to ANGEL]
-[02:02:00] [Server thread/INFO]: SuperMago is bleeding...
-[02:05:32] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
-[02:08:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=64, z=75} BlockPos{x=184, y=63, z=75}
-[02:11:18] [Server thread/INFO]: ANGEL has made the advancement [Isn't It Iron Pick]
-[02:11:23] [Server thread/INFO]: <Beelz> marco puto
-[02:12:02] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=156, y=65, z=61} BlockPos{x=158, y=63, z=61}
-[02:14:39] [Server thread/INFO]: Beelz is bleeding...
-[02:14:43] [Server thread/INFO]: <ANGEL> a mimir
-[02:14:47] [Server thread/INFO]: <Beelz> adolfmir
-[02:14:58] [Server thread/INFO]: <ANGEL> fap fap fap
-[02:14:59] [Server thread/INFO]: Beelz is bleeding...
-[02:15:11] [Server thread/INFO]: <Beelz> squirt squirt squirt
-[02:15:16] [Server thread/INFO]: <ANGEL> fap fap fap fap x20
-[02:15:18] [Server thread/INFO]: SuperMago is bleeding...
-[02:15:26] [Server thread/INFO]: <Beelz> clap clap clap clap
-[02:15:35] [Server thread/INFO]: <ANGEL> chon chon chon
-[02:15:42] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
-[02:15:53] [Server thread/INFO]: Beelz is bleeding...
-[02:16:43] [Server thread/INFO]: SuperMago is bleeding...
-[02:17:06] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5aeb2a97
-[02:17:06] [Server thread/INFO]: Chavelo[/127.209.157.234:34363] logged in with entity id 55657 at (-483.0542987993334, 73.0, -45.59671093696129)
-[02:17:06] [Server thread/INFO]: Chavelo joined the game
-[02:17:06] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[02:17:13] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
-[02:17:17] [Server thread/INFO]: <Beelz> chabelo puto
-[02:17:27] [Server thread/INFO]: <ANGEL> jajajajajjajjuisgudfacyhfhcg ha bchga c
-[02:17:39] [Server thread/INFO]: <ANGEL> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[02:17:43] [Server thread/INFO]: <ANGEL> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[02:17:45] [Server thread/INFO]: <ANGEL> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[02:17:47] [Server thread/INFO]: <Beelz> Shhhh
-[02:17:54] [Server thread/INFO]: <ANGEL> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-[02:17:54] [Server thread/INFO]: <ANGEL> z
-[02:17:55] [Server thread/INFO]: <ANGEL> z
-[02:17:55] [Server thread/INFO]: <ANGEL> z
-[02:17:55] [Server thread/INFO]: <ANGEL> z
-[02:17:56] [Server thread/INFO]: <ANGEL> z
-[02:17:56] [Server thread/INFO]: <ANGEL> z
-[02:17:56] [Server thread/INFO]: <ANGEL> z
-[02:17:56] [Server thread/INFO]: <ANGEL> z
-[02:17:57] [Server thread/INFO]: <ANGEL> z
-[02:17:57] [Server thread/INFO]: <ANGEL> z
-[02:17:57] [Server thread/INFO]: <ANGEL> z
-[02:17:57] [Server thread/INFO]: <ANGEL> z
-[02:17:57] [Server thread/INFO]: <ANGEL> z
-[02:17:58] [Server thread/INFO]: <ANGEL> z
-[02:17:58] [Server thread/INFO]: <ANGEL> z
-[02:17:58] [Server thread/INFO]: <ANGEL> zz
-[02:17:58] [Server thread/INFO]: <ANGEL> z
-[02:17:58] [Server thread/INFO]: <ANGEL> z
-[02:18:05] [Server thread/INFO]: Chavelo lost connection: Kicked by an operator
-[02:18:05] [Server thread/INFO]: Chavelo left the game
-[02:18:05] [Server thread/INFO]: [Beelz: Kicked Chavelo: Kicked by an operator]
-[02:18:05] [Server thread/WARN]: handleDisconnection() called twice
-[02:18:09] [Server thread/INFO]: <ANGEL> fap fap fap
-[02:18:26] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@379eeee8
-[02:18:26] [Server thread/INFO]: Chavelo[/127.209.157.234:47355] logged in with entity id 56552 at (-483.4312156302363, 67.0, 87.8751237603752)
-[02:18:26] [Server thread/INFO]: Chavelo joined the game
-[02:18:26] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[02:21:12] [Server thread/WARN]: Boat (vehicle of ANGEL) moved wrongly! 0.2790883603022962
-[02:21:12] [Server thread/WARN]: Boat (vehicle of ANGEL) moved wrongly! 0.6075601366662795
-[02:21:12] [Server thread/WARN]: Boat (vehicle of ANGEL) moved wrongly! 0.785293844556918
-[02:21:37] [Server thread/WARN]: SuperMago moved too quickly! -5.243977241774047,0.0,-8.731802583322477
-[02:23:32] [Server thread/INFO]: SuperMago lost connection: Disconnected
-[02:23:32] [Server thread/INFO]: SuperMago left the game
-[02:23:41] [Server thread/INFO]: Chavelo lost connection: Timed out
-[02:23:41] [Server thread/INFO]: Chavelo left the game
-[02:23:58] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@210bdc3a
-[02:23:59] [Server thread/INFO]: SuperMago[/127.221.163.188:45855] logged in with entity id 62805 at (171.3007519366025, 71.0, 122.95962294810802)
-[02:23:59] [Server thread/INFO]: SuperMago joined the game
-[02:23:59] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[02:24:04] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@732e38b4
-[02:24:04] [Server thread/INFO]: Chavelo[/127.209.157.234:46695] logged in with entity id 62946 at (-772.6060171365585, 64.0, 498.8377172467707)
-[02:24:04] [Server thread/INFO]: Chavelo joined the game
-[02:24:04] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[02:24:14] [Server thread/INFO]: SuperMago lost connection: Timed out
-[02:24:14] [Server thread/INFO]: SuperMago left the game
-[02:24:29] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6637d02d
-[02:24:29] [Server thread/INFO]: SuperMago[/127.221.163.188:44881] logged in with entity id 63445 at (171.3007519366025, 71.0, 122.95962294810802)
-[02:24:29] [Server thread/INFO]: SuperMago joined the game
-[02:24:29] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[02:24:34] [Server thread/INFO]: Chavelo lost connection: Timed out
-[02:24:34] [Server thread/INFO]: Chavelo left the game
-[02:24:44] [Server thread/INFO]: SuperMago lost connection: Timed out
-[02:24:44] [Server thread/INFO]: SuperMago left the game
-[02:24:59] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ef5cadf
-[02:24:59] [Server thread/INFO]: SuperMago[/127.221.163.188:56783] logged in with entity id 63628 at (171.3007519366025, 71.0, 122.95962294810802)
-[02:24:59] [Server thread/INFO]: SuperMago joined the game
-[02:24:59] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
-[02:25:45] [Server thread/INFO]: [Beelz: Teleported Beelz to Anterux]
-[02:26:38] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@89c9ef8
-[02:26:38] [Server thread/INFO]: Chavelo[/127.209.157.234:38447] logged in with entity id 64852 at (-772.6060171365585, 64.0, 498.8377172467707)
-[02:26:38] [Server thread/INFO]: Chavelo joined the game
-[02:26:38] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[02:27:08] [Server thread/INFO]: Chavelo lost connection: Timed out
-[02:27:08] [Server thread/INFO]: Chavelo left the game
-[02:30:48] [Server thread/INFO]: ANGEL is bleeding...
-[02:31:20] [Server thread/INFO]: [Beelz: Teleported Beelz to ANGEL]
-[02:31:48] [Server thread/INFO]: ANGEL was slain by Zombie
-[02:31:57] [Server thread/INFO]: [Beelz: Teleported ANGEL to Beelz]
-[02:31:58] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$PosRot.m_5797_(SourceFile:16) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(SourceFile:134) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:739) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[02:32:00] [Server thread/INFO]: ANGEL lost connection: Disconnected
-[02:32:00] [Server thread/INFO]: ANGEL left the game
-[02:34:04] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3540f43b
-[02:34:04] [Server thread/INFO]: Chavelo[/127.209.157.234:56599] logged in with entity id 68899 at (-772.6060171365585, 64.0, 498.8377172467707)
-[02:34:04] [Server thread/INFO]: Chavelo joined the game
-[02:34:04] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[02:34:33] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[02:35:20] [Server thread/INFO]: Chavelo has made the advancement [Acquire Hardware]
-[02:36:04] [Server thread/WARN]: Chavelo moved too quickly! -4.076387011359998,0.7967356006687112,9.159442078656184
-[02:36:05] [Server thread/INFO]: Chavelo lost connection: Timed out
-[02:36:05] [Server thread/INFO]: Chavelo left the game
-[02:38:01] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7176f331
-[02:38:01] [Server thread/INFO]: Chavelo[/127.209.157.234:35681] logged in with entity id 70338 at (-824.6321600676754, 65.02442408821369, 629.5585564636921)
-[02:38:01] [Server thread/INFO]: Chavelo joined the game
-[02:38:01] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[02:38:27] [Server thread/INFO]: Chavelo is bleeding...
-[02:38:32] [Server thread/INFO]: Chavelo lost connection: Timed out
-[02:38:32] [Server thread/INFO]: Chavelo left the game
-[02:38:32] [Server thread/INFO]: Chavelo was shot by Skeleton
-[02:39:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@b498599[id=<null>,name=Chavelo,properties={},legacy=false] (/127.209.157.234:39953) lost connection: Disconnected
-[02:39:54] [Server thread/INFO]: <Anterux> john ven
-[02:40:02] [Server thread/INFO]: <Anterux> madera
-[02:40:06] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
-[02:40:43] [Server thread/INFO]: <Anterux> bye
-[02:40:47] [Server thread/INFO]: Anterux lost connection: Disconnected
-[02:40:47] [Server thread/INFO]: Anterux left the game
-[02:50:10] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4514561f
-[02:50:10] [Server thread/INFO]: Chavelo[/127.209.157.234:35021] logged in with entity id 72881 at (-824.6321600676754, 65.02442408821369, 629.5585564636921)
-[02:50:10] [Server thread/INFO]: Chavelo joined the game
-[02:50:10] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[02:50:37] [Server thread/INFO]: [Chavelo: Teleported Chavelo to -824.500000, 64.500000, 629.500000]
-[02:52:31] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@491348a7
-[02:52:31] [Server thread/INFO]: marco[/127.106.95.209:58955] logged in with entity id 74441 at (-89.806693847622, 59.0, 32.33957600095361)
-[02:52:31] [Server thread/INFO]: marco joined the game
-[02:52:31] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[02:52:54] [Server thread/WARN]: marco moved too quickly! -3.980646743274761,-9.0,1.9385498725563899
-[02:53:26] [Server thread/INFO]: <Beelz> chabelo puto
-[02:54:05] [Server thread/INFO]: <SuperMago> Marco
-[02:54:12] [Server thread/INFO]: <SuperMago> un coito
-[02:54:17] [Server thread/INFO]: <Beelz> x"
-[02:54:20] [Server thread/INFO]: <Beelz> X2
-[02:54:22] [Server thread/INFO]: <marco> i dont '
-[02:54:31] [Server thread/INFO]: <Beelz> discord
-[02:56:14] [Server thread/INFO]: <marco> traigo lag y si entro al discord pues me va a ir peor
-[02:56:24] [Server thread/INFO]: <Beelz> mentirosaso
-[02:56:29] [Server thread/INFO]: marco has made the advancement [Acquire Hardware]
-[02:56:38] [Server thread/INFO]: <Beelz> no que internet de la nasa
-[02:57:15] [Server thread/INFO]: <Beelz> mañosaso
-[02:57:28] [Server thread/INFO]: marco has made the advancement [Isn't It Iron Pick]
-[02:57:30] [Server thread/INFO]: <Beelz> de parte de John
-[02:57:35] [Server thread/INFO]: <Beelz> dice que eres puto
-[02:57:43] [Server thread/INFO]: <marco> es que esta tda mi familia en la casa
-[02:58:00] [Server thread/INFO]: <Beelz> que se desconecten y ya avl
-[02:59:00] [Server thread/INFO]: [Beelz: Teleported Beelz to Chavelo]
-[02:59:16] [Server thread/INFO]: marco lost connection: Timed out
-[02:59:16] [Server thread/INFO]: marco left the game
-[02:59:36] [Server thread/INFO]: Chavelo is bleeding...
-[02:59:50] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e2cae83
-[02:59:50] [Server thread/INFO]: marco[/127.106.95.209:34449] logged in with entity id 78063 at (-71.64737742825012, 56.0, 36.097144043566374)
-[02:59:50] [Server thread/INFO]: marco joined the game
-[02:59:50] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[03:00:05] [Server thread/INFO]: marco lost connection: Timed out
-[03:00:05] [Server thread/INFO]: marco left the game
-[03:00:06] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[03:00:18] [Server thread/INFO]: Chavelo is bleeding...
-[03:00:35] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@24566150
-[03:00:35] [Server thread/INFO]: marco[/127.106.95.209:43281] logged in with entity id 78427 at (-71.64737742825012, 56.0, 36.097144043566374)
-[03:00:35] [Server thread/INFO]: marco joined the game
-[03:00:35] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[03:01:18] [Server thread/INFO]: Chavelo was slain by Vindicator
-[03:01:36] [Server thread/INFO]: [Chavelo: Teleported Chavelo to -781.500000, 69.500000, 946.500000]
-[03:02:06] [Server thread/INFO]: Beelz is bleeding...
-[03:02:38] [Server thread/INFO]: <Beelz> OCRAM
-[03:03:08] [Server thread/INFO]: <Beelz> OTUP OCRAM
-[03:03:22] [Server thread/INFO]: <Beelz> OCRAM OTUP
-[03:03:48] [Server thread/INFO]: marco is bleeding...
-[03:04:01] [Server thread/INFO]: [SuperMago: Teleported SuperMago to marco]
-[03:04:05] [Server thread/INFO]: <marco> el maldito lag
-[03:04:13] [Server thread/INFO]: <Beelz> AY AJAA
-[03:04:23] [Server thread/INFO]: <marco> gracias
-[03:04:28] [Server thread/INFO]: <Beelz> de nada
-[03:04:28] [Server thread/INFO]: <SuperMago> besame los pies
-[03:04:34] [Server thread/INFO]: <SuperMago> cerda
-[03:04:48] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
-[03:06:39] [Server thread/INFO]: marco has made the advancement [Not Today, Thank You]
-[03:07:06] [Server thread/INFO]: marco lost connection: Timed out
-[03:07:06] [Server thread/INFO]: marco left the game
-[03:07:20] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@213b328
-[03:07:20] [Server thread/INFO]: marco[/127.106.95.209:57377] logged in with entity id 81871 at (-45.7891694676258, 11.0, 61.564683892139016)
-[03:07:20] [Server thread/INFO]: marco joined the game
-[03:07:20] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[03:07:38] [Server thread/INFO]: SuperMago is bleeding...
-[03:08:52] [Server thread/INFO]: Chavelo has made the advancement [Sweet Dreams]
-[03:08:53] [Server thread/INFO]: [Beelz: Teleported Beelz to Chavelo]
-[03:09:13] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[03:09:51] [Server thread/INFO]: <Beelz> adolfmir
-[03:10:26] [Server thread/INFO]: [Beelz: Set the time to 1000]
-[03:10:48] [Server thread/INFO]: Beelz is bleeding...
-[03:12:11] [Server thread/INFO]: marco has made the advancement [Suit Up]
-[03:14:26] [Server thread/INFO]: marco lost connection: Disconnected
-[03:14:26] [Server thread/INFO]: marco left the game
-[03:15:19] [Server thread/INFO]: Chavelo has made the advancement [Isn't It Iron Pick]
-[03:21:19] [Server thread/INFO]: Villager Villager['Unemployed'/81549, l='ServerLevel[world]', x=-936.48, y=63.00, z=1268.51] died, message: 'Unemployed was slain by Zombie'
-[03:23:20] [Server thread/INFO]: [Beelz: Teleported Beelz to Chavelo]
-[03:23:40] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[03:25:50] [Server thread/INFO]: [Beelz: Teleported Beelz to Chavelo]
-[03:25:58] [Server thread/INFO]: [Beelz: Teleported Beelz to SuperMago]
-[03:28:55] [Server thread/INFO]: Villager Villager['Unemployed'/81480, l='ServerLevel[world]', x=-915.70, y=71.00, z=1224.77] died, message: 'Unemployed was slain by Zombie'
-[03:29:20] [Server thread/INFO]: Beelz lost connection: Disconnected
-[03:29:20] [Server thread/INFO]: Beelz left the game
-[03:29:51] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e5a6e6c
-[03:29:51] [Server thread/INFO]: marco[/127.106.95.209:45545] logged in with entity id 90312 at (-33.30000001192093, 11.0, 38.22895756239076)
-[03:29:51] [Server thread/INFO]: marco joined the game
-[03:29:51] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[03:32:49] [Server thread/INFO]: marco is bleeding...
-[03:32:58] [Server thread/INFO]: <marco> fack
-[03:33:03] [Server thread/INFO]: <Chavelo> voy
-[03:33:11] [Server thread/INFO]: [Chavelo: Teleported Chavelo to marco]
-[03:33:25] [Server thread/INFO]: Chavelo is bleeding...
-[03:33:32] [Server thread/INFO]: <marco> hay un buen
-[03:33:43] [Server thread/INFO]: Created new backpack backup file for Chavelo with unique ID ceb102c2-b28b-48b6-a9c8-cc9da52d3d10
-[03:33:43] [Server thread/INFO]: Your backpack has been placed at X: -46 Y: 14 Z: 42
-[03:33:43] [Server thread/INFO]: Chavelo was shot by Skeleton
-[03:33:49] [Server thread/INFO]: marco was slain by Zombie
-[03:34:01] [Server thread/INFO]: [Chavelo: Teleported Chavelo to -46.500000, 14.500000, 43.500000]
-[03:34:13] [Server thread/INFO]: [marco: Teleported marco to Chavelo]
-[03:34:21] [Server thread/INFO]: marco lost connection: Timed out
-[03:34:21] [Server thread/INFO]: marco left the game
-[03:34:49] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b4eb6be
-[03:34:49] [Server thread/INFO]: marco[/127.106.95.209:58189] logged in with entity id 92630 at (-52.0721838345136, 15.0, 37.17416688024628)
-[03:34:49] [Server thread/INFO]: marco joined the game
-[03:34:49] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[03:35:04] [Server thread/INFO]: marco lost connection: Timed out
-[03:35:04] [Server thread/INFO]: marco left the game
-[03:35:32] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@361a90b9
-[03:35:32] [Server thread/INFO]: marco[/127.106.95.209:41141] logged in with entity id 92768 at (-52.0721838345136, 15.0, 37.17416688024628)
-[03:35:32] [Server thread/INFO]: marco joined the game
-[03:35:32] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
-[03:35:50] [Server thread/INFO]: <Chavelo> si te falta algo me avisas ajaajja
-[03:36:14] [Server thread/INFO]: <marco> me devielves mi hierro
-[03:36:33] [Server thread/INFO]: <Chavelo> ya te lo di jaajjaja
-[03:36:43] [Server thread/INFO]: <marco> sisisi
-[03:37:05] [Server thread/INFO]: <marco> en que cordenada se encuantra diamante en esta vercion ?
-[03:37:17] [Server thread/INFO]: marco lost connection: Timed out
-[03:37:17] [Server thread/INFO]: marco left the game
-[03:37:21] [Server thread/INFO]: <Chavelo> en la misma q antes
-[03:37:42] [Server thread/INFO]: [Chavelo: Teleported Chavelo to SuperMago]
-[03:40:46] [Server thread/INFO]: <Chavelo> zzzzzzzzzz
-[03:44:20] [Server thread/INFO]: Chavelo has made the advancement [Suit Up]
-[03:54:01] [Server thread/INFO]: [Chavelo: Set the time to 1000]
-[03:54:29] [Server thread/INFO]: Chavelo has made the advancement [A Seedy Place]
-[04:05:02] [Server thread/INFO]: [Chavelo: Set the time to 1000]
-[04:12:19] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=138, y=70, z=119} BlockPos{x=138, y=69, z=118}
-[04:16:24] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@404821fa
-[04:16:24] [Server thread/INFO]: Beelz[/127.177.222.21:33439] logged in with entity id 100734 at (162.89169929002458, 64.0, 78.23750001192093)
-[04:16:24] [Server thread/INFO]: Beelz joined the game
-[04:16:24] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
-[04:30:44] [Server thread/INFO]: [Chavelo: Teleported Chavelo to -909.500000, 70.500000, 1238.500000]
-[04:32:17] [Server thread/INFO]: [Chavelo: Teleported Chavelo to 138.500000, -6215.500000, 125.500000]
-[04:32:19] [Server thread/INFO]: Chavelo is bleeding...
-[04:32:21] [Server thread/WARN]: Chavelo was kicked for floating too long!
-[04:32:21] [Server thread/INFO]: Chavelo lost connection: Flying is not enabled on this server
-[04:32:21] [Server thread/INFO]: Chavelo left the game
-[04:32:21] [Server thread/INFO]: Created new backpack backup file for Chavelo with unique ID aa7ca444-133b-495f-a08d-e091a4259e9d
-[04:32:21] [Server thread/INFO]: There's no space for backpack. Dropping backpack item at X: 138 Y: 69 Z: 125
-[04:32:21] [Server thread/INFO]: Chavelo fell out of the world
-[04:32:39] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e325a1f
-[04:32:39] [Server thread/INFO]: Chavelo[/127.209.157.234:45115] logged in with entity id 104992 at (138.5, -6330.551672131397, 125.5)
-[04:32:39] [Server thread/INFO]: Chavelo joined the game
-[04:32:39] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[04:32:41] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(SourceFile:110) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:738) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:42] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(SourceFile:110) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:738) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:42] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(SourceFile:134) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:739) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:42] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(SourceFile:110) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:738) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:43] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(SourceFile:134) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:739) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:43] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(SourceFile:110) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:738) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:43] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(SourceFile:134) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:739) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:44] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(SourceFile:110) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:738) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:44] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(SourceFile:134) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:739) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:44] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(SourceFile:134) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:739) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:44] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(SourceFile:134) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:739) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:45] [Server thread/FATAL]: Error executing task on Server
-java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.ObjectSet.remove(Object)" because "objectset" is null
-	at net.minecraft.server.level.DistanceManager.m_140828_(DistanceManager.java:230) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ChunkMap.m_140184_(ChunkMap.java:863) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.level.ServerChunkCache.m_8385_(ServerChunkCache.java:433) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_7185_(ServerGamePacketListenerImpl.java:849) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket.m_5797_(SourceFile:114) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.game.ServerboundMovePlayerPacket$Pos.m_5797_(SourceFile:42) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.network.protocol.PacketUtils.m_131356_(SourceFile:21) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.TickTask.run(SourceFile:18) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(SourceFile:151) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(SourceFile:23) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:776) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:162) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(SourceFile:125) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:759) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:753) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(SourceFile:134) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:739) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:688) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:258) ~[server-1.17.1-20210706.113038-srg.jar%2340!:?]
-	at java.lang.Thread.run(Thread.java:840) [?:?]
-[04:32:45] [Server thread/WARN]: Chavelo was kicked for floating too long!
-[04:32:45] [Server thread/INFO]: Chavelo lost connection: Flying is not enabled on this server
-[04:32:45] [Server thread/INFO]: Chavelo left the game
-[04:34:36] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7dc1504e
-[04:34:36] [Server thread/INFO]: Chavelo[/127.209.157.234:37841] logged in with entity id 105446 at (138.5, -6522.448371864513, 125.5)
-[04:34:36] [Server thread/INFO]: Chavelo joined the game
-[04:34:36] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[04:34:43] [Server thread/WARN]: Chavelo was kicked for floating too long!
-[04:34:43] [Server thread/INFO]: Chavelo lost connection: Flying is not enabled on this server
-[04:34:43] [Server thread/INFO]: Chavelo left the game
-[04:34:54] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3debcbdf
-[04:34:54] [Server thread/INFO]: Chavelo[/127.209.157.234:37715] logged in with entity id 105529 at (138.38740461878479, -6691.641007923113, 125.9316261857748)
-[04:34:54] [Server thread/INFO]: Chavelo joined the game
-[04:34:54] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[04:34:58] [Server thread/INFO]: [Beelz: Teleported Chavelo to Beelz]
-[04:35:00] [Server thread/WARN]: Chavelo was kicked for floating too long!
-[04:35:00] [Server thread/INFO]: Chavelo lost connection: Flying is not enabled on this server
-[04:35:00] [Server thread/INFO]: Chavelo left the game
-[04:35:15] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ba05aef
-[04:35:15] [Server thread/INFO]: Chavelo[/127.209.157.234:45393] logged in with entity id 105594 at (191.53428229254357, 65.0, 110.2998546475047)
-[04:35:15] [Server thread/INFO]: Chavelo joined the game
-[04:35:15] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
-[04:39:25] [Server thread/INFO]: <Beelz> adolfmir
-[04:40:54] [Server thread/INFO]: <Chavelo> ZZZZZZZZZZZZZZZZZZZZZ
-[04:43:29] [Server thread/INFO]: [Chavelo: Teleported Chavelo to SuperMago]
-[04:44:11] [Server thread/INFO]: <Chavelo> horita veo si me conecto ajajjaaj
-[04:44:18] [Server thread/INFO]: <Beelz> va pedir permiso
-[04:44:19] [Server thread/INFO]: <Chavelo> q mi papa me llamo xd
-[04:44:28] [Server thread/INFO]: <Chavelo> jajjajjaja
-[04:44:30] [Server thread/INFO]: Chavelo lost connection: Disconnected
-[04:44:30] [Server thread/INFO]: Chavelo left the game
-[04:56:01] [Server thread/INFO]: <Beelz> adolfmir
-[05:02:37] [Server thread/INFO]: SuperMago is bleeding...
+[15:25:51] [main/INFO]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 37.1.1, --fml.mcVersion, 1.17.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20210706.113038, nogui]
+[15:25:51] [main/INFO]: ModLauncher 9.0.7+91+master.8569cdf starting: java version 17.0.14 by Ubuntu
+[15:25:51] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=union:/workspaces/server-factory/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar%2319! Service=ModLauncher Env=SERVER
+[15:25:51] [main/INFO]: Found mod file BiomesOPlenty-1.17.1-14.0.0.43-universal.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file CreativeCore_v2.3.0_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file dungeons_enhanced-1.17.1-2.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file elevatorid-1.17.1-1.8.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file EpicFight-17.1.13-beta.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file ExtraGems-1.17-(v.2.0.5).jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file Jade-1.17.1-3.3.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file mcw-roofs-2.1.1-mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file musketmod-1.17.1-forge-1.4.3.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file Paraglider-1.17.1-1.4.0.5.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file PlayerRevive_v2.0.0-pre04_mc1.17.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file reap-1.17.1-1.0.0.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file structure_gel-1.17.1-2.0.1.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file TravelersBackpack-1.17.1-6.0.43.jar of type MOD with locator {mods folder locator at /workspaces/server-factory/servidor_minecraft/mods}
+[15:25:51] [main/INFO]: Found mod file fmlcore-1.17.1-37.1.1.jar of type LIBRARY with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[15:25:51] [main/INFO]: Found mod file javafmllanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[15:25:51] [main/INFO]: Found mod file mclanguage-1.17.1-37.1.1.jar of type LANGPROVIDER with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[15:25:51] [main/INFO]: Found mod file server-1.17.1-20210706.113038-srg.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[15:25:51] [main/INFO]: Found mod file forge-1.17.1-37.1.1-universal.jar of type MOD with locator net.minecraftforge.fml.loading.moddiscovery.MinecraftLocator@6aecbb8d
+[15:25:53] [main/INFO]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[15:25:53] [main/INFO]: Launching target 'forgeserver' with arguments [nogui]
+[15:25:56] [main/WARN]: @Final field f_31427_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[15:25:56] [main/WARN]: @Final field f_31428_:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[15:25:59] [modloading-worker-0/INFO]: Configuration has been loaded
+[15:26:00] [modloading-worker-0/INFO]: Forge mod loading, version 37.1.1, for MC 1.17.1 with MCP 20210706.113038
+[15:26:00] [modloading-worker-0/INFO]: MinecraftForge v37.1.1 Initialized
+[15:26:00] [modloading-worker-0/INFO]: Load Configuration File
+[15:26:00] [modloading-worker-0/INFO]: Load Configuration File
+[15:26:02] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[15:26:02] [main/INFO]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[15:26:02] [main/INFO]: Dungeons Enhanced structures loaded
+[15:26:03] [Forge Version Check/INFO]: [mcwroofs] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/roofs
+[15:26:03] [main/INFO]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[15:26:03] [main/INFO]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[15:26:03] [main/INFO]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[15:26:03] [main/INFO]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[15:26:03] [Forge Version Check/WARN]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.Gson.fromJson(Gson.java:899) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:852) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:801) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:773) ~[gson-2.8.0.jar%2322!:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:190) ~[fmlcore-1.17.1-37.1.1.jar%2341!:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:129) [fmlcore-1.17.1-37.1.1.jar%2341!:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:385) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.0.jar%2322!:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[gson-2.8.0.jar%2322!:?]
+	... 6 more
+[15:26:03] [Forge Version Check/INFO]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[15:26:04] [Forge Version Check/INFO]: [forge] Found status: UP_TO_DATE Current: 37.1.1 Target: null
+[15:26:04] [Forge Version Check/INFO]: [reap] Starting version check at https://maxhenkel.de/update/reap.json
+[15:26:04] [modloading-worker-0/INFO]: [Structure Gel] Attempting to register unregistered biomes to the biome dictionary. This can be disabled via config
+[15:26:04] [modloading-worker-0/INFO]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[15:26:04] [modloading-worker-0/INFO]: Start loading plugin at snownee.jade.VanillaPlugin
+[15:26:05] [Forge Version Check/INFO]: [reap] Found status: UP_TO_DATE Current: 1.17.1-1.0.0 Target: null
+[15:26:05] [Forge Version Check/INFO]: [extragems] Starting version check at https://raw.githubusercontent.com/XxRexRaptorxX/Update-Checker/main/ExtraGems.json
+[15:26:05] [Forge Version Check/INFO]: [extragems] Found status: UP_TO_DATE Current: 2.0.5 Target: null
+[15:26:05] [Forge Version Check/INFO]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[15:26:05] [Forge Version Check/INFO]: [travelersbackpack] Found status: OUTDATED Current: 6.0.43 Target: 6.0.52
+[15:26:09] [main/ERROR]: Error adding element: Value 9 outside of range [0:7]
+[15:26:10] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:26:10] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2340!/assets/.mcassetsroot' uses unexpected schema
+[15:26:10] [main/WARN]: Assets URL 'union:/workspaces/server-factory/servidor_minecraft/libraries/net/minecraft/server/1.17.1-20210706.113038/server-1.17.1-20210706.113038-srg.jar%2340!/data/.mcassetsroot' uses unexpected schema
+[15:26:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:26:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:26:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:26:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:26:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:26:10] [main/WARN]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[15:26:10] [main/WARN]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[15:26:10] [main/INFO]: Reloading ResourceManager: Default, forge-1.17.1-37.1.1-universal.jar, elevatorid-1.17.1-1.8.1.jar, musketmod-1.17.1-forge-1.4.3.jar, BiomesOPlenty-1.17.1-14.0.0.43-universal.jar, Jade-1.17.1-3.3.1.jar, mcw-roofs-2.1.1-mc1.17.1.jar, CreativeCore_v2.3.0_mc1.17.1.jar, dungeons_enhanced-1.17.1-2.0.jar, Paraglider-1.17.1-1.4.0.5.jar, reap-1.17.1-1.0.0.jar, PlayerRevive_v2.0.0-pre04_mc1.17.1.jar, ExtraGems-1.17-(v.2.0.5).jar, EpicFight-17.1.13-beta.jar, structure_gel-1.17.1-2.0.1.jar, TravelersBackpack-1.17.1-6.0.43.jar
+[15:26:11] [Worker-Main-6/ERROR]: Couldn't load tag forge:ores as it is missing following references: #forge:ores/amethyst_ore (from ExtraGems-1.17-(v.2.0.5).jar)
+[15:26:13] [Worker-Main-6/INFO]: Loaded 8 recipes
+[15:26:15] [Worker-Main-6/INFO]: Loaded 1559 advancements
+[15:26:15] [Worker-Main-6/INFO]: Configuration has been loaded
+[15:26:15] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_helmet
+[15:26:15] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_helmet
+[15:26:15] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_shovel
+[15:26:15] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_helmet
+[15:26:15] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_shovel
+[15:26:15] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_longsword
+[15:26:15] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_greatsword
+[15:26:15] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_axe
+[15:26:15] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_leggings
+[15:26:15] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_pickaxe
+[15:26:15] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_sword
+[15:26:15] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_helmet
+[15:26:15] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_greatsword
+[15:26:15] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_sword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_tachi
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:trident
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_leggings
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:netherite_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_greatsword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_longsword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_sword
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_leggings
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:iron_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_tachi
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_axe
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_tachi
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:crossbow
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:diamond_boots
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_helmet
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_greatsword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_sword
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_leggings
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_leggings
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_spear
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_sword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_tachi
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_longsword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:stone_greatsword
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for epicfight:stray_pants
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:leather_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:knuckle
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_dagger
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_dagger
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:stone_spear
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:golden_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_dagger
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:chainmail_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_leggings
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:diamond_spear
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_longsword
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for epicfight:stray_robe
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_helmet
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:katana
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:wooden_sword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:golden_dagger
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:iron_spear
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for epicfight:stray_hat
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:golden_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:stone_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:bow
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:diamond_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for minecraft:netherite_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for epicfight:netherite_spear
+[15:26:16] [Worker-Main-6/INFO]: register armor capability for minecraft:iron_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for turtle_helmet
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for shield
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for amethyst_sword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for amethyst_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for amethyst_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for amethyst_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for amethyst_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for ruby_sword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for ruby_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for ruby_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for ruby_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for ruby_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for sapphire_sword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for sapphire_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for sapphire_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for sapphire_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for sapphire_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for topaz_sword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for topaz_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for topaz_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for topaz_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for topaz_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for crystal_sword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for crystal_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for crystal_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for crystal_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for crystal_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for emerald_sword
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for emerald_pickaxe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for emerald_axe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for emerald_shovel
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for emerald_hoe
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for amethyst_helmet
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for amethyst_leggings
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for amethyst_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for amethyst_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for ruby_helmet
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for ruby_leggings
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for ruby_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for ruby_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for sapphire_helmet
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for sapphire_leggings
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for sapphire_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for sapphire_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for topaz_helmet
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for topaz_leggings
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for topaz_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for topaz_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for crystal_helmet
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for crystal_leggings
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for crystal_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for crystal_boots
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for emerald_helmet
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for emerald_leggings
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for emerald_chestplate
+[15:26:16] [Worker-Main-6/INFO]: register weapon capability for emerald_boots
+[15:26:18] [main/INFO]: Injecting existing registry data into this CLIENT instance
+[15:26:20] [Server thread/INFO]: Starting minecraft server version 1.17.1
+[15:26:20] [Server thread/INFO]: Loading properties
+[15:26:20] [Server thread/INFO]: Default game type: SURVIVAL
+[15:26:20] [Server thread/INFO]: Generating keypair
+[15:26:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:26:20] [Server thread/INFO]: Using epoll channel type
+[15:26:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:26:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:26:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:26:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:26:20] [Server thread/INFO]: Preparing level "world"
+[15:26:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:26:21] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:26:21] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:26:21] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:26:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:26:23] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:26:23] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:26:23] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:26:24] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[15:26:24] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[15:26:25] [Worker-Main-6/INFO]: Preparing spawn area: 2%
+[15:26:25] [Worker-Main-5/INFO]: Preparing spawn area: 5%
+[15:26:26] [Worker-Main-6/INFO]: Preparing spawn area: 13%
+[15:26:26] [Worker-Main-6/INFO]: Preparing spawn area: 19%
+[15:26:31] [Worker-Main-5/INFO]: Preparing spawn area: 43%
+[15:26:31] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[15:26:31] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[15:26:31] [Worker-Main-5/INFO]: Preparing spawn area: 43%
+[15:26:31] [Worker-Main-6/INFO]: Preparing spawn area: 43%
+[15:26:31] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[15:26:31] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[15:26:31] [Worker-Main-4/INFO]: Preparing spawn area: 43%
+[15:26:31] [Server thread/INFO]: Time elapsed: 10526 ms
+[15:26:31] [Server thread/INFO]: Done (10.845s)! For help, type "help"
+[15:28:00] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b7e098c
+[15:28:00] [Server thread/INFO]: SuperMago[/127.23.0.127:36561] logged in with entity id 147 at (157.11823483861932, 71.0, 101.03989354051396)
+[15:28:00] [Server thread/INFO]: SuperMago joined the game
+[15:28:00] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[15:31:26] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2b6c44f
+[15:31:26] [Server thread/INFO]: marco[/127.23.0.127:57555] logged in with entity id 630 at (-41.2426493317192, 18.166109260938214, 52.25950096674128)
+[15:31:26] [Server thread/INFO]: marco joined the game
+[15:31:26] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
+[15:31:36] [Server thread/INFO]: <SuperMago> gay marco
+[15:32:40] [Server thread/INFO]: marco has made the advancement [Diamonds!]
+[15:35:17] [Server thread/INFO]: marco is bleeding...
