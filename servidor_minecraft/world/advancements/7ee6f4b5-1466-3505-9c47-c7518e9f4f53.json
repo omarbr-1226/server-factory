@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-03-19 00:33:07 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-03-18 17:43:23 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-03-19 00:32:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-03-18 16:59:36 +0000"
@@ -269,7 +281,8 @@
       "cooked_mutton": "2025-03-18 23:31:51 +0000",
       "cooked_beef": "2025-03-18 19:34:50 +0000",
       "apple": "2025-03-18 23:34:43 +0000",
-      "rotten_flesh": "2025-03-18 23:37:26 +0000"
+      "rotten_flesh": "2025-03-18 23:37:26 +0000",
+      "carrot": "2025-03-19 00:33:14 +0000"
     },
     "done": false
   },
@@ -378,6 +391,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-03-18 19:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-03-19 00:33:07 +0000"
     },
     "done": true
   },
@@ -984,6 +1003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-03-19 00:31:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-03-18 19:32:25 +0000"
@@ -1258,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-19 00:31:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-03-18 19:32:22 +0000"
@@ -1387,6 +1418,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-03-18 19:32:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-03-19 00:32:55 +0000"
     },
     "done": true
   },

@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-03-19 00:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-18 19:32:35 +0000"
@@ -315,6 +321,7 @@
     "criteria": {
       "cooked_porkchop": "2025-03-18 23:29:33 +0000",
       "cooked_mutton": "2025-03-18 19:36:05 +0000",
+      "beef": "2025-03-19 00:38:32 +0000",
       "porkchop": "2025-03-18 23:43:04 +0000",
       "apple": "2025-03-18 23:12:48 +0000",
       "mutton": "2025-03-18 16:09:10 +0000",
@@ -449,9 +456,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-03-19 00:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-03-18 23:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-03-19 00:37:22 +0000"
     },
     "done": true
   },
@@ -713,6 +732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-03-19 00:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-18 23:12:06 +0000"
@@ -722,6 +747,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-18 23:25:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-03-19 00:37:22 +0000"
     },
     "done": true
   },
@@ -768,6 +799,12 @@
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-03-18 19:27:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-19 00:37:42 +0000"
     },
     "done": true
   },
@@ -990,6 +1027,12 @@
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-03-19 00:38:55 +0000"
     },
     "done": true
   },
@@ -1245,6 +1288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-03-19 00:38:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-03-18 19:22:49 +0000"
@@ -1353,6 +1402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-03-19 00:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-03-18 23:24:27 +0000"
@@ -1386,6 +1441,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-03-18 17:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-19 00:37:42 +0000"
     },
     "done": true
   },
@@ -1461,6 +1522,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2025-03-18 16:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-03-19 00:37:22 +0000"
     },
     "done": true
   },
@@ -1563,6 +1630,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-03-19 00:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-19 00:37:42 +0000"
     },
     "done": true
   },

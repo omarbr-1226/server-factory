@@ -281,7 +281,8 @@
       "chicken": "2025-03-18 19:34:05 +0000",
       "cooked_mutton": "2025-03-18 19:35:36 +0000",
       "cooked_beef": "2025-03-18 23:51:34 +0000",
-      "rotten_flesh": "2025-03-19 00:11:43 +0000"
+      "rotten_flesh": "2025-03-19 00:11:43 +0000",
+      "cooked_chicken": "2025-03-19 00:37:36 +0000"
     },
     "done": false
   },
@@ -864,6 +865,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-19 00:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-03-18 19:31:34 +0000"
@@ -1281,6 +1288,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-03-18 17:04:31 +0000",
+      "minecraft:desert_hills": "2025-03-19 00:36:36 +0000",
       "minecraft:desert": "2025-03-18 17:06:11 +0000",
       "minecraft:savanna": "2025-03-18 19:33:19 +0000",
       "minecraft:plains": "2025-03-18 17:04:02 +0000"
