@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-19 18:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-03-18 19:20:47 +0000"
@@ -128,6 +134,12 @@
   "mcwbridges:recipes/most1": {
     "criteria": {
       "has_planks": "2025-03-19 15:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-19 18:09:45 +0000"
     },
     "done": true
   },
@@ -173,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-19 18:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-03-18 19:30:09 +0000"
@@ -182,6 +200,18 @@
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-03-19 00:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-19 18:09:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-19 18:08:29 +0000"
     },
     "done": true
   },
@@ -513,6 +543,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-03-19 02:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-19 18:09:45 +0000"
     },
     "done": true
   },
@@ -903,6 +939,12 @@
   "mcwbridges:recipes/red_sandstone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-19 15:51:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-19 18:09:45 +0000"
     },
     "done": true
   },
@@ -1807,6 +1849,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-19 18:09:45 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/orange_sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-03-19 15:51:01 +0000"
@@ -1831,6 +1879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-19 18:09:45 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/granite": {
     "criteria": {
       "has_planks": "2025-03-18 16:11:37 +0000"
@@ -1846,6 +1900,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-03-19 02:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-19 18:08:29 +0000"
     },
     "done": true
   },
@@ -2032,6 +2092,12 @@
   "mcwbridges:recipes/mossy_stone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-19 15:51:01 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-03-19 18:04:45 +0000"
     },
     "done": true
   },
@@ -2227,6 +2293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-19 18:09:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-03-18 19:33:52 +0000"
@@ -2398,6 +2470,12 @@
   "mcwroofs:recipes/awning": {
     "criteria": {
       "has_planks": "2025-03-18 16:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-19 18:09:45 +0000"
     },
     "done": true
   },
