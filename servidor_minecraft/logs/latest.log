@@ -958,3 +958,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [16:29:27] [Server thread/INFO]: Chavelo[/127.23.0.127:41635] logged in with entity id 14343 at (177.7628246573324, 71.0, 103.29650695198421)
 [16:29:27] [Server thread/INFO]: Chavelo joined the game
 [16:29:27] [Server thread/INFO]: Syncing config to Chavelo (e0b0bebe-40f6-30df-97c6-b6a1636c3cd3)
+[16:30:36] [Server thread/INFO]: <Chavelo> marco no tienes hierro q me des ?
+[16:30:42] [Server thread/INFO]: <Chavelo> no tengo mochila
+[16:31:17] [Server thread/WARN]: marco moved too quickly! -8.80472650690615,2.7531999805212024,3.9594656354875113
+[16:35:13] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@186f6b2b
+[16:35:13] [Server thread/INFO]: Beelz[/127.23.0.127:59545] logged in with entity id 16462 at (166.97758025748502, 64.0, 85.11847262382243)
+[16:35:13] [Server thread/INFO]: Beelz joined the game
+[16:35:13] [Server thread/INFO]: Syncing config to Beelz (7ee6f4b5-1466-3505-9c47-c7518e9f4f53)
+[16:35:21] [Server thread/INFO]: <Beelz> marco puto
+[16:35:27] [Server thread/INFO]: <Beelz> marco puto
+[16:35:32] [Server thread/INFO]: <Beelz> chabelo gei
+[16:35:48] [Server thread/INFO]: Beelz lost connection: Disconnected
+[16:35:48] [Server thread/INFO]: Beelz left the game
+[16:36:46] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-385, y=61, z=118} BlockPos{x=-385, y=62, z=118}
+[16:36:46] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=-385, y=60, z=118} BlockPos{x=-385, y=62, z=118}
+[16:38:13] [Server thread/INFO]: Chavelo is bleeding...
+[16:38:42] [Server thread/INFO]: Chavelo was slain by Spider
+[16:39:25] [Server thread/INFO]: Chavelo lost connection: Disconnected
+[16:39:25] [Server thread/INFO]: Chavelo left the game
+[16:39:59] [Server thread/INFO]: marco is bleeding...
