@@ -916,3 +916,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [15:56:01] [Server thread/INFO]: Syncing config to ANGEL (fbd3f129-5e54-3530-b52f-350e37092e72)
 [15:59:35] [Server thread/INFO]: marco lost connection: Disconnected
 [15:59:35] [Server thread/INFO]: marco left the game
+[16:01:04] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@441d75e3
+[16:01:04] [Server thread/INFO]: marco[/127.23.0.127:39093] logged in with entity id 3789 at (-65.98053819124547, 18.0, 46.69233911168425)
+[16:01:04] [Server thread/INFO]: marco joined the game
+[16:01:04] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
+[16:01:22] [Server thread/INFO]: [SuperMago: Teleported SuperMago to marco]
+[16:01:45] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Beelz]
+[16:02:21] [Server thread/INFO]: <Beelz> adolfmir
+[16:02:55] [Server thread/INFO]: <Beelz> adolfmir
+[16:02:58] [Server thread/INFO]: <Anterux> yaaa
+[16:03:01] [Server thread/INFO]: <Anterux> a mimir
+[16:03:07] [Server thread/INFO]: [marco: Teleported marco to Beelz]
+[16:03:10] [Server thread/INFO]: SuperMago lost connection: Disconnected
+[16:03:10] [Server thread/INFO]: SuperMago left the game
+[16:03:20] [Server thread/INFO]: marco has made the advancement [Sweet Dreams]
+[16:03:47] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7495e04a
+[16:03:47] [Server thread/INFO]: SuperMago[/127.23.0.127:39207] logged in with entity id 7798 at (166.5, 64.0, 78.5)
+[16:03:47] [Server thread/INFO]: SuperMago joined the game
+[16:03:47] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[16:04:16] [Server thread/INFO]: [ANGEL: Teleported ANGEL to marco]
+[16:04:34] [Server thread/INFO]: SuperMago lost connection: Disconnected
+[16:04:34] [Server thread/INFO]: SuperMago left the game
+[16:04:45] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@677fc41f
+[16:04:45] [Server thread/INFO]: SuperMago[/127.23.0.127:35015] logged in with entity id 8123 at (160.00053060597713, 64.0, 100.78685514059059)
+[16:04:45] [Server thread/INFO]: SuperMago joined the game
+[16:04:45] [Server thread/INFO]: Syncing config to SuperMago (b5387b6e-9527-3fb2-949f-6573f8d76f85)
+[16:04:47] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
+[16:05:18] [Server thread/INFO]: <Beelz> adolfmir
+[16:05:24] [Server thread/INFO]: SuperMago lost connection: Disconnected
+[16:05:24] [Server thread/INFO]: SuperMago left the game
+[16:05:40] [Server thread/INFO]: Beelz lost connection: Disconnected
+[16:05:40] [Server thread/INFO]: Beelz left the game
+[16:06:54] [Server thread/INFO]: ANGEL is bleeding...
+[16:07:12] [Server thread/INFO]: [marco: Teleported marco to ANGEL]
+[16:07:36] [Server thread/INFO]: [Anterux: Teleported Anterux to marco]
+[16:08:11] [Server thread/INFO]: Anterux lost connection: Disconnected
+[16:08:11] [Server thread/INFO]: Anterux left the game
