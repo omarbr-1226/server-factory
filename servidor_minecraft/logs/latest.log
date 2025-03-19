@@ -87,3 +87,6 @@
 [01:56:07] [Server thread/INFO]: [SuperMago: Teleported SuperMago to Anterux]
 [01:57:04] [Server thread/INFO]: ANGEL was slain by Spider
 [01:57:07] [Server thread/INFO]: [SuperMago: Teleported SuperMago to ANGEL]
+[02:02:00] [Server thread/INFO]: SuperMago is bleeding...
+[02:05:32] [Server thread/INFO]: [Anterux: Teleported Anterux to Beelz]
+[02:08:11] [Server thread/WARN]: Mismatch in destroy block pos: BlockPos{x=184, y=64, z=75} BlockPos{x=184, y=63, z=75}
