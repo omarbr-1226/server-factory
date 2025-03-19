@@ -306,3 +306,8 @@ java.lang.NullPointerException: Cannot invoke "it.unimi.dsi.fastutil.objects.Obj
 [03:09:51] [Server thread/INFO]: <Beelz> adolfmir
 [03:10:26] [Server thread/INFO]: [Beelz: Set the time to 1000]
 [03:10:48] [Server thread/INFO]: Beelz is bleeding...
+[03:12:11] [Server thread/INFO]: marco has made the advancement [Suit Up]
+[03:14:26] [Server thread/INFO]: marco lost connection: Disconnected
+[03:14:26] [Server thread/INFO]: marco left the game
+[03:15:19] [Server thread/INFO]: Chavelo has made the advancement [Isn't It Iron Pick]
+[03:21:19] [Server thread/INFO]: Villager Villager['Unemployed'/81549, l='ServerLevel[world]', x=-936.48, y=63.00, z=1268.51] died, message: 'Unemployed was slain by Zombie'
