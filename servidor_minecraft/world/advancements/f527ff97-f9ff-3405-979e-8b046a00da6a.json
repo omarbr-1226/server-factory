@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-03-20 01:31:39 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_rope_bridge_stair": {
     "criteria": {
       "has_planks": "2025-03-19 15:54:59 +0000"
@@ -887,6 +893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-03-20 01:31:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-03-19 16:22:45 +0000"
@@ -968,6 +980,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-19 02:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-20 01:31:32 +0000"
     },
     "done": true
   },
@@ -1155,6 +1173,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-19 03:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-20 01:31:32 +0000"
     },
     "done": true
   },
@@ -1407,6 +1431,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-19 03:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-03-20 01:31:39 +0000"
     },
     "done": true
   },
