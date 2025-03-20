@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-03-20 00:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-03-18 19:36:43 +0000"
@@ -558,6 +564,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-03-19 03:05:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-03-20 00:10:52 +0000"
     },
     "done": true
   },
@@ -1661,6 +1673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-03-20 00:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-03-18 19:30:19 +0000"
@@ -1775,6 +1793,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-03-20 00:10:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-03-18 19:26:40 +0000"
@@ -1826,6 +1850,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-03-18 19:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-03-20 00:10:52 +0000"
     },
     "done": true
   },
@@ -1922,6 +1952,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-03-18 19:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-03-20 00:10:52 +0000"
     },
     "done": true
   },
@@ -2369,6 +2405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-03-20 00:10:52 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/dark_oak_planks": {
     "criteria": {
       "has_planks": "2025-03-18 17:00:04 +0000"
@@ -2390,6 +2432,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-03-19 16:30:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-03-20 00:10:52 +0000"
     },
     "done": true
   },
@@ -2546,6 +2594,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-03-19 16:22:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-03-20 00:10:52 +0000"
     },
     "done": true
   },
