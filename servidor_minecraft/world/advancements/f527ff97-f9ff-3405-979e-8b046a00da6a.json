@@ -543,6 +543,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-03-19 03:06:44 +0000",
       "minecraft:spider": "2025-03-19 16:02:11 +0000",
+      "minecraft:cave_spider": "2025-03-20 00:35:00 +0000",
       "minecraft:enderman": "2025-03-19 16:06:09 +0000",
       "minecraft:zombie": "2025-03-18 19:27:53 +0000",
       "minecraft:zombie_villager": "2025-03-19 15:41:01 +0000"
@@ -1610,7 +1611,8 @@
     "criteria": {
       "cooked_porkchop": "2025-03-19 03:07:56 +0000",
       "cooked_mutton": "2025-03-20 00:20:16 +0000",
-      "cooked_beef": "2025-03-18 19:29:49 +0000"
+      "cooked_beef": "2025-03-18 19:29:49 +0000",
+      "apple": "2025-03-20 00:35:21 +0000"
     },
     "done": false
   },
