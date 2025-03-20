@@ -16,3 +16,12 @@
 [00:47:19] [Server thread/INFO]: [Beelz: Teleported Beelz to 159.500000, 69.500000, 85.500000]
 [00:47:46] [Server thread/INFO]: Beelz lost connection: Disconnected
 [00:47:46] [Server thread/INFO]: Beelz left the game
+[01:04:37] [Server thread/WARN]: marco moved too quickly! 2.141902897443913,0.3693736602695026,9.878318341842032
+[01:04:37] [Server thread/WARN]: marco was kicked for floating too long!
+[01:04:37] [Server thread/INFO]: marco lost connection: Flying is not enabled on this server
+[01:04:37] [Server thread/INFO]: marco left the game
+[01:04:37] [Server thread/WARN]: handleDisconnection() called twice
+[01:04:52] [Server thread/INFO]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1ccd7d87
+[01:04:52] [Server thread/INFO]: marco[/127.106.95.209:42375] logged in with entity id 13650 at (-382.74591214262773, 65.00133597911214, 201.40787269903336)
+[01:04:52] [Server thread/INFO]: marco joined the game
+[01:04:52] [Server thread/INFO]: Syncing config to marco (f527ff97-f9ff-3405-979e-8b046a00da6a)
