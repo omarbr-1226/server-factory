@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-20 03:59:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-03-18 19:24:19 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-03-20 04:04:42 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/jungle_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-03-19 15:54:04 +0000"
@@ -556,6 +568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-20 03:59:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_axe": "2025-03-18 19:32:51 +0000"
@@ -601,6 +619,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2025-03-18 19:22:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-20 04:01:20 +0000"
     },
     "done": true
   },
@@ -820,6 +844,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-03-20 04:04:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-03-18 23:25:31 +0000"
@@ -871,6 +901,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-03-18 19:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-20 04:00:28 +0000"
     },
     "done": true
   },
@@ -1050,6 +1086,7 @@
       "minecraft:savanna_plateau": "2025-03-19 01:55:17 +0000",
       "minecraft:dark_forest": "2025-03-19 18:08:27 +0000",
       "minecraft:river": "2025-03-18 19:34:20 +0000",
+      "minecraft:wooded_hills": "2025-03-20 04:02:24 +0000",
       "minecraft:swamp": "2025-03-19 18:56:21 +0000",
       "minecraft:savanna": "2025-03-19 01:54:46 +0000",
       "minecraft:plains": "2025-03-18 16:03:37 +0000"
@@ -1065,6 +1102,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-03-18 23:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-20 04:00:28 +0000"
     },
     "done": true
   },
@@ -1155,6 +1198,18 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-18 19:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-20 03:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-20 04:01:20 +0000"
     },
     "done": true
   },
@@ -1527,6 +1582,12 @@
   "mcwbridges:recipes/sandstone_bridge": {
     "criteria": {
       "has_planks": "2025-03-19 15:54:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-20 04:01:20 +0000"
     },
     "done": true
   },
@@ -2097,6 +2158,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-03-18 23:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-03-20 04:04:42 +0000"
     },
     "done": true
   },
